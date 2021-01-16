@@ -1,6 +1,6 @@
  #+SEQ_TODO: TD(t) NXT(n) MYB(m) S(s) R(r) | DONE(d) CANCELLED(c) 
 * routine
-** TD brus h teeth 
+** TD brush teeth 
    SCHEDULED: <2021-01-11 Mon .+1d>
 :PROPERTIES:
 :STYLE: habit
@@ -11,7 +11,6 @@
 - State "DONE"       from "R"          [2021-01-09 Sat 10:11]
 :LOGBOOK:
 :END:
-
 
 ** TD tidy room
 SCHEDULED: <2021-01-11 Mon .+1d>
@@ -64,13 +63,14 @@ Submit completed Application to Georgia Tech Online Masters Program
 - [ ] Write reccomendation letter 3
 - [ ] Write letter of purpose
 - [ ] Finish any forms
-** Make Money [2/7]
+** Make Money [5/8]
  - [X] Delete Varisty Tutors Account (not deleted)
  - [X] Create new account
- - [ ] Do video interview
- - [ ] Enter Information
+ - [X] Do video interview
+ - [X] Enter Information
+ - [ ] Qualify for teaching various subjects
  - [ ] Get Validated
- - [ ] Interview
+ - [X] Interview
  - [ ] Start Tutoring Online
 
 * weekly review
