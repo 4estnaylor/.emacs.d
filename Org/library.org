@@ -1,0 +1,34 @@
+* Quotations
+* qutoations
+
+
+* Quotes
+** Think like a man of action, act lik a man of thought.
+--Henri Bergson
+ Entered on [2021-01-10 Sun 16:29]
+  
+   [[file:~/.emacs.d/init.el::))]]
+** The anscestor of every action is thought
+
+-- Ralph Waldo Emerson 
+
+ Entered on [2021-01-10 Sun 16:31]
+  
+   [[file:~/Org/main.org::*TODO from scratch buffer][TODO from scratch buffer]]
+** the begining is half of every action
+-- Greek Proverb
+ Entered on [2021-01-10 Sun 17:39]
+  
+   [[file:~/Org/main.org::*mirving@mcdonogh.org][mirving@mcdonogh.org]]
+** Vision is not enough; it must be combined with venture. It is not enough to stare up the steps; we must step up the stairs.
+
+-- Vaclav Havel
+ Entered on [2021-01-10 Sun 17:42]
+  
+   [[file:~/Org/main.org::*mirving@mcdonogh.org][mirving@mcdonogh.org]]
+** There is usually an iverse relationship between how much something is on your mind and how uch it's getting done.
+
+-- Getting Things Done
+ Entered on [2021-01-10 Sun 17:45]
+  
+   [[file:~/Org/main.org::*mirving@mcdonogh.org][mirving@mcdonogh.org]]

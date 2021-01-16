@@ -1,0 +1,117 @@
+ #+SEQ_TODO: TD(t) NXT(n) MYB(m) S(s) R(r) | DONE(d) CANCELLED(c) 
+* routine
+** TD brus h teeth 
+   SCHEDULED: <2021-01-11 Mon .+1d>
+:PROPERTIES:
+:STYLE: habit
+:LAST_REPEAT: [2021-01-10 Sun 16:21]
+:END:
+
+- State "DONE"       from "TD"         [2021-01-10 Sun 16:21]
+- State "DONE"       from "R"          [2021-01-09 Sat 10:11]
+:LOGBOOK:
+:END:
+
+
+** TD tidy room
+SCHEDULED: <2021-01-11 Mon .+1d>
+:PROPERTIES:
+:STYLE: habit
+:LAST_REPEAT: [2021-01-10 Sun 16:21]
+:END:
+- State "DONE"       from "TD"         [2021-01-10 Sun 16:21]
+- State "DONE"       from "R"          [2021-01-09 Sat 10:11]
+:LOGBOOK:
+:END:
+
+** TD yoga
+SCHEDULED: <2021-01-11 Mon .+1d>
+:PROPERTIES:
+:STYLE: habit
+:LAST_REPEAT: [2021-01-10 Sun 16:21]
+:END:
+- State "DONE"       from "TD"         [2021-01-10 Sun 16:21]
+- State "DONE"       from "R"          [2021-01-09 Sat 10:11]
+:LOGBOOK:
+:END:
+
+** TD meditation
+SCHEDULED: <2021-01-11 Mon .+1d>
+:PROPERTIES:
+:STYLE: habit
+:LAST_REPEAT: [2021-01-10 Sun 16:21]
+:END:
+- State "DONE"       from "TD"         [2021-01-10 Sun 16:21]
+- State "DONE"       from "R"          [2021-01-09 Sat 10:11]
+:LOGBOOK:
+:END:
+
+** TD Reading
+SCHEDULED: <2021-01-11 Mon .+1d>
+:PROPERTIES:
+:STYLE: habit
+:LAST_REPEAT: [2021-01-10 Sun 21:28]
+:END:
+- State "DONE"       from "TD"         [2021-01-10 Sun 21:28]
+:LOGBOOK:
+:END:
+* projects
+** Apply to Georgia Tech Online Masters Prorgram [0/5]
+   DEADLINE: <2021-02-26 Fri>
+Submit completed Application to Georgia Tech Online Masters Program
+- [ ] Write reccomendation letter 1
+- [ ] Write reccomendation letter 2
+- [ ] Write reccomendation letter 3
+- [ ] Write letter of purpose
+- [ ] Finish any forms
+** Make Money [2/7]
+ - [X] Delete Varisty Tutors Account (not deleted)
+ - [X] Create new account
+ - [ ] Do video interview
+ - [ ] Enter Information
+ - [ ] Get Validated
+ - [ ] Interview
+ - [ ] Start Tutoring Online
+
+* weekly review
+* Tasks
+** Get to Honduras [0/2]
+ - [ ] Look up flight requirements (covid testing) to enter SAP
+ - [ ] Find flight
+ - [ ] Call and confirm with airlines
+ - [ ] Book a flight
+** Pay Rent [1/9] 
+- [X] Transfer 900 USD to joint tenant
+- [ ] Ask Vero for account number
+- [ ] Wire to Schwabb Account
+- [ ] Payment (July I) 3000 LPS
+- [ ] Payment (July II) 3000 LPS
+- [ ] Payment (December I) 3000 LPS
+- [ ] Payment (December II) 3000 LPS
+- [ ] Payment (January I) 3000 LPS
+- [ ] Payment (January II) 3000 LPS
+
+** Possible Purchases [0/3]
+ - [ ] Apple Watch Vero
+ - [ ] Wireless Wacom tool
+ - [ ] Tablet With Cover Vero
+** mirving@mcdonogh.org
+ Mary Catherine
+ 410-450-3477
+
+ send resume, breif summary of Cindy Knipp's introduction.
+
+Hello Mary Catherine, I am Forrest Naylor. I am a math teacher who has spent the last 4 years teaching math classes mostly in grades 8 to 12 at schools in Nicaragua and Honduras. Cindy Knipp is a close family friend and recommended that I get in touch with you because of your focus on global learning and connection to McDonogh school which is only a few minutes drive from my childhood home.
+
+Cindy also knows that I am likely planning on returning to live in Baltimore at some point over the next year and recommended I attach my resume to this email in case at some point down the road you know of or hear of a teaching position that I may be suitable for.   
+
+Maybe we could follow up via phone or video call at some point if you have the time and energy available! In any case, I would really love to hear about your experience working with students from other countries in your own classroom.
+
+All the best,
+
+Forrest Naylor
+
+
+
+--Attach Resume 
+

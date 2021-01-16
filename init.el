@@ -20,7 +20,7 @@
 
 ;; register important files
 (set-register ?e '(file . "~/.emacs.d/init.el"))
-(set-register ?o '(file . "~/Org/main.org"))
+(set-register ?o '(file . "~/.emacs.d/Org/main.org"))
 
 ;; minimal interface
 (scroll-bar-mode -1)        ; Disable visible scrollbar
