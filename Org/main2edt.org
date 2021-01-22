@@ -1,0 +1,175 @@
+ #+SEQ_TODO: TD(t) NXT(n) MYB(m) S(s) R(r) | DONE(d) CANCELLED(c) 
+* routine
+** TD brush teeth 
+   SCHEDULED: <2021-01-11 Mon .+1d>
+:PROPERTIES:
+:STYLE: habit
+:LAST_REPEAT: [2021-01-10 Sun 16:21]
+:END:
+
+- State "DONE"       from "TD"         [2021-01-10 Sun 16:21]
+- State "DONE"       from "R"          [2021-01-09 Sat 10:11]
+:LOGBOOK:
+:END:
+
+** TD tidy room
+SCHEDULED: <2021-01-11 Mon .+1d>
+:PROPERTIES:
+:STYLE: habit
+:LAST_REPEAT: [2021-01-10 Sun 16:21]
+:END:
+- State "DONE"       from "TD"         [2021-01-10 Sun 16:21]
+- State "DONE"       from "R"          [2021-01-09 Sat 10:11]
+:LOGBOOK:
+:END:
+
+** TD yoga
+SCHEDULED: <2021-01-11 Mon .+1d>
+:PROPERTIES:
+:STYLE: habit
+:LAST_REPEAT: [2021-01-10 Sun 16:21]
+:END:
+- State "DONE"       from "TD"         [2021-01-10 Sun 16:21]
+- State "DONE"       from "R"          [2021-01-09 Sat 10:11]
+:LOGBOOK:
+:END:
+
+** TD meditation
+SCHEDULED: <2021-01-11 Mon .+1d>
+:PROPERTIES:
+:STYLE: habit
+:LAST_REPEAT: [2021-01-10 Sun 16:21]
+:END:
+- State "DONE"       from "TD"         [2021-01-10 Sun 16:21]
+- State "DONE"       from "R"          [2021-01-09 Sat 10:11]
+:LOGBOOK:
+:END:
+
+** TD Reading
+SCHEDULED: <2021-01-11 Mon .+1d>
+:PROPERTIES:
+:STYLE: habit
+:LAST_REPEAT: [2021-01-10 Sun 21:28]
+:END:
+- State "DONE"       from "TD"         [2021-01-10 Sun 21:28]
+:LOGBOOK:
+:END:
+* projects
+** Apply to Georgia Tech Online Masters Prorgram [0/5]
+   DEADLINE: <2021-02-26 Fri>
+Submit completed Application to Georgia Tech Online Masters Program
+- [ ] Write reccomendation letter 1
+- [ ] Write reccomendation letter 2
+- [ ] Write reccomendation letter 3
+- [ ] Write letter of purpose
+- [ ] Finish any forms
+** Make Money [5/8]
+ - [X] Delete Varisty Tutors Account (not deleted)
+ - [X] Create new account
+ - [X] Do video interview
+ - [X] Enter Information
+ - [ ] Qualify for teaching various subjects
+ - [ ] Get Validated
+ - [X] Interview
+ - [ ] Start Tutoring Online
+
+* weekly review
+* Tasks
+** Get to Honduras [0/2]
+ - [ ] Look up flight requirements (covid testing) to enter SAP
+ - [ ] Find flight
+ - [ ] Call and confirm with airlines
+ - [ ] Book a flight
+** Pay Rent [1/9] 
+- [X] Transfer 900 USD to joint tenant
+- [ ] Ask Vero for account number
+- [ ] Wire to Schwabb Account
+- [ ] Payment (July I) 3000 LPS
+- [ ] Payment (July II) 3000 LPS
+- [ ] Payment (December I) 3000 LPS
+- [ ] Payment (December II) 3000 LPS
+- [ ] Payment (January I) 3000 LPS
+- [ ] Payment (January II) 3000 LPS
+
+** Possible Purchases [0/3]
+ - [ ] Apple Watch Vero
+ - [ ] Wireless Wacom tool
+ - [ ] Tablet With Cover Vero
+** mirving@mcdonogh.org
+ Mary Catherine
+ 410-450-3477
+
+ send resume, breif summary of Cindy Knipp's introduction.
+
+Hello Mary Catherine, I am Forrest Naylor. I am a math teacher who has spent the last 4 years teaching math classes mostly in grades 8 to 12 at schools in Nicaragua and Honduras. Cindy Knipp is a close family friend and recommended that I get in touch with you because of your focus on global learning and connection to McDonogh school which is only a few minutes drive from my childhood home.
+
+Cindy also knows that I am likely planning on returning to live in Baltimore at some point over the next year and recommended I attach my resume to this email in case at some point down the road you know of or hear of a teaching position that I may be suitable for.   
+
+Maybe we could follow up via phone or video call at some point if you have the time and energy available! In any case, I would really love to hear about your experience working with students from other countries in your own classroom.
+
+All the best,
+
+Forrest Naylor
+
+
+
+--Attach Resume 
+
+* testing changes 2 to see if this works on the mac
+
+* varsity tutors
+I have 5 years of teaching experience working with students from every grade from 6th to 12th in and out of the classroom. 
+
+Ironically, as a student math was a challenging subject for me. With practice, patience, and some creativiy I overcame my struggles and went on to achieve considerable success studying mathematics and physics in college. 
+
+I have had the pleasure of working as a professional tutor, classroom teacher, and educational consultant since that time. 
+
+  have found tutoring to be the best context for students to not only master math concepts, but to refine their general approach to learning math in class.
+
+** 
+When I'm not clacking away at my TI-84 calculator, I love to spend time on a wide variety of hobbies.
+
+First, I love to read on my beloved, and at this point, fairly worn Kindle e-reader. I know that nothing quite beats the texture of old-fashioned ink and paper, but it's even harder to beat holding the complete works of Isaac Aasimov, my favorite sci-fi author, in one hand. It comes in handy for a travel enthusiast like myself.
+
+Second, I love to pack my bags and go. Ideally to some place where I can practice my Spanish or Arabic. I've been fortunate to spend time in every Central American country over the past 3 years. Mexico City, Northern Honduras, and San Salvador are particularly near and dear to my heart.
+
+Third, I love to jump into new projects outside of my comfort zone! These projects have included making a five course meal, trying to master a kick flip, or helping rehabilitate a wild scarlett macaw population.
+
+
+
+** cover letter
+
+Dear Ms. Graham
+
+* letter of interest
+
+Dear Ms. Graham,
+
+I am writing to express interest in the Oliver-MacMullan Internship Program. Mary-Catherine Irving, who was introduced to me through a close personal friend referred me to this internship after learning some about my teaching experience and professional goals.
+
+I am a math teacher with four years of teaching experience in international and bilingual schools in Mexico City, Mexico and Copan Ruinas, Honduras in grades 6 through 12. I have experience teaching physics (aligned with IB MYP curriculum) as well as middle and highschool math courses (alligned with the U.S. Common Core Standards). My educational background comes from my undergraduate studies where I majored in physics with dual minors in mathematics and rhetoric. While I have not yet had the opportunity to formally study education, I did have some undergraduate exposure to teaching as a local middle school math tutor, and as a volunteer ESL teacher at the Lewiston Adult Learning center for Somali and Angolan asylum seekers.
+
+As a teacher, I try to encourage students to pursuit conceptual understanding through visuals and interactives whenever possible before diving into more technical practice. I can still remember the uncomfortable, disatisfied feeling as a student of having learned through almost rote practice how to calculate the period of a sine wave written as an equation in my 11th grade pre-calculus class. Without context the technical details to do this are dull enough that I won't dare write them here. Years later, as I prepared to teach the same class, I realized that if, as a student, I had encountered just a few conceptually clarifying demonstrations, I could have spared myself months of confusion and frustration. Moreover, with deeper conceptual understanding, the direct usefullness of pre-calculus in understanding cyclical events and its even broader utility as a template to break complex things (cyclical systems) into much simpler parts (triangles) would have been more apparent. Seemingly dull technical details, are revealed to be interesting and even playful relationships when math is learned in a way that grounds technique with intuition and conceptual understanding. I believe this approach to math learning gives studets the perspective and motivation needed to use math not just as an academic stepping stone, but as a powerful lens to understand the world around them.    
+
+Outside the classroom, I was able to coach distance runners for our school's track and field team. A highlight for me was helping a number of student-athelete distance runners prepare and fundraise to compete at the national track and field competition located a day's bus ride from our school. Based on my experience as a varsity distance runner in highschool, I was able to help these students to train and to avoid injuries (which had plagued the team in past years) while doing so. The students finished 2nd at the national track and field competition that year, a best for the school. The Oliver-MacMullan program's emphasis on coaching appeals to me because I enjoy working with students in a context free of some of the academic pressures that tend to crowd the classroom.
+
+This program's emphasis on supporting students inside and outside of class appeals to my belief that education should be a wholistic endeavour. Please do not hesitate to send me a contact me through my email: 4estnaylor@gmail.com. 
+
+
+
+
+
+
+
+
+
+
+
+
+(7th grade), Pre-Algebra(8th), Algebra I(9th), Geometry (10th), Algebra II(11th), Pre-Calculus(12th), Statistics(11th), Introduction to Programming(10th), Enlgish Language(4th), English Literature(6th), Earth Science(8th), Geography(10th), Physics 2(11th), Physics 1(9th) 
+e of perspective and motivation to use math not just as an academic stepping stone, but as a powerful lens to help them understand the world around them.  
+
+My background teaching in Central America has given me unusual breadth to my teaching experience. All together, I have planned and taught lessons for 14 distinct courses, worked with students in every grade from 6th to 12th, and straddled 4 different subject areas including most prominantly math, but also science, english language, and a one-off geography course. In many cases I was working with substantial time and resource constraints. In my most recent teaching position I was the only secondary math teacher, responsible for all mathematics classes and out of class tutoring for  all 140 students in grades 8th through 12th. Given the breadth of my duties, which required me to teach as 
+
+many as 8 distinct curricula at a time alongisde other teacher duties, I have not always been able to plan and execute my courses with as much time and care as I would like to. Largely for this reason, I have the strong motivation to 
+

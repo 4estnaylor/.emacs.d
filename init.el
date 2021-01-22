@@ -14,7 +14,8 @@
 (global-set-key (kbd "M-y") 'browse-kill-ring) ;; need to include package
 (global-set-key (kbd "M-o") 'other-window)
 (global-set-key (kbd "C-c m") 'magit-status)
-
+(global-set-key (kbd "C-c i") 'org-agenda-clock-in)
+(global-set-key (kbd "C-c o") 'org-agenda-clock-out)
 
 
 
@@ -40,6 +41,7 @@
 (setq org-agenda-span 1)
 (setq org-habit-show-habits-only-for-today nil)
 (setq org-agenda-repeating-timestamp-show-all nil)
+(setq org-log-into-drawer 1) ;; automatically logs state changes and notes into LOGBOOK drawer
 
 
 
@@ -122,7 +124,14 @@
   (insert ":END:")
   )
 
-
+(defun org-drill-new-table (VOCAB_SECTION_NAME)
+  "Makes format for new table for org drill mode under VOCAB_SECTION_NAME"
+  (interactive "sVOCAB Section Name: ")
+  (insert "** ")
+  (insert VOCAB_SECTION_NAME)
+  (newline)
+  (insert-file "~/Org/templates/org-drill-new-table-template.txt")
+  )
 
 
 ;; ;;
@@ -270,9 +279,9 @@
  '(custom-safe-themes
    '("c83c095dd01cde64b631fb0fe5980587deec3834dc55144a6e78ff91ebc80b19" default))
  '(initial-buffer-choice "~/Org/main.org")
- '(org-agenda-files '("~/Org/journal.org" "~/Org/main.org"))
+ '(org-agenda-files '("~/.emacs.d/Org/main.org" "~/Org/main.org"))
  '(org-capture-templates
-   '(("q" "Quotations" entry
+   '(("Q" "Quotations" entry
       (file "\"~/Org/libary.org\"")
       "\"testing 123\"")))
  '(org-modules

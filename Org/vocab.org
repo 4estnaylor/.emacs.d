@@ -1,1 +1,1362 @@
 Vocabulary Sheet
+
+[[https://translate.google.com/?sl=es&tl=en&op=translate][Google Translate]]
+
+* La Casa en Mango Street
+** Gil compraventa de muebles
+| Spanish     | English  | Context                                                                                                                |
+|-------------+----------+------------------------------------------------------------------------------------------------------------------------|
+| cachivaches | trinkets | Nenny y yo vemos toda clase de cachivaches en la oscuridad.                                                            |
+| angostos    | narrow   | así  que toda la tienda es de pasillitos muy angostos para caminarla                                                   |
+| volteo      |          | y yo me volteo rápido pensando que el quiere decir una preciosa caja que tiene flores pintadas y una bailarina adentro |
+| latón       |          | sólo una caja de madera que es vieja y tiene un enorme disco de latón con agujeros                                     |
+
+** Meme Ortiz 
+   :PROPERTIES:
+   :DRILL_HEADING: Meme Ortiz
+   :DRILL_CARD_TYPE: twosided
+   :DRILL_INSTRUCTIONS:
+   :END:
+| Spanish        | English        | Context                                                                                      |   |
+|----------------+----------------+----------------------------------------------------------------------------------------------+---|
+| pastor         | shepherd       | un pasto con dos nombres                                                                     |   |
+| torpe          | clumsy/awkward | [el perro] corre del mismo modo que sue dueño, torpe y loco con los brazos y piernas sueltos |   |
+| sueltos        | loose          | [el perro] corre del mismo modo que sue dueño, torpe y loco con los brazos y piernas sueltos |   |
+| ladeados       | lopsided       | todos ladeados y salientes como dientes chuecos                                              |   |
+| saliente       | outgoing       | todos ladeados y salientes como dientes chuecos                                              |   |
+| chuecos        | crooked        | todos ladeados y salientes como dientes chuecos                                              |   |
+| adrede         | with intention |                                                                                              |   |
+| trepa          | climb          |                                                                                              |   |
+| gateando       | crawling       |                                                                                              |   |
+| enchapopotados | cladding?      |                                                                                              |   |
+| desagües       | drains         |                                                                                              |   |
+| ladrar         | to bark        |                                                                                              |   |
+
+** Louie, su prima y sum primo
+   :PROPERTIES:
+   :DRILL_HEADING: Louie, su prima y su primo
+   :DRILL_CARD_TYPE: twosided
+   :DRILL_INSTRUCTIONS:
+   :END:
+
+| Español         | Inglés                                | Contexto                                                                                                                                   |
+| sótano          | basement                              | Bajo la casa de Meme hay un sótano que su mamá arregló y rentó a una familia puertorriqueña                                                |
+| metidas         | tucked in                             | yo sé que sus camiseas nunca se quedan metidas dentro de sus pantalones                                                                    |
+| medias oscuras  | dark stockings                        | y lleva medias oscuras todo el tiempo                                                                                                      |
+| tronando        | thundering                            | canta y canta la misma canción tronando los dedos                                                                                          |
+| callejón        | alley                                 | estábamos jugando volleyball en el callejón                                                                                                |
+| mascada         | scarf                                 | una mascada amarilla amarrada al espejo                                                                                                    |
+| amarrada        | tied up                               | una mascada amarilla amarrada al espejo                                                                                                    |
+| pitó            | whistle/beep                          | Pitó un par de veces y un montón de caras miraron desde la ventana trasera de la casa                                                      |
+| ventana trasera | rear window                           | Pitó un par de veces y un montón de caras miraron desde la ventana trasera de la casa                                                      |
+| vueltecita      | little turn                           | pedimos una vueltecita                                                                                                                     |
+| apretar         | to tightent, screw, grasp, press down | pero el primo de Louie dijo que nos iba a regresar a pie si no dejábmos de jugar con las ventanillas y de apretar los botones del radio FM |
+| quedito         | stay                                  | oímos unas sirenas.. muy quedito al principio                                                                                              |
+| borrón          | blur                                  | convirtiendo aquel auto en un borrón amarillo                                                                                              |
+| mareo           | dizziness                             | corrimos a la esquina donde la sirena de la patrulla hacía girar un mareo azul                                                             |
+| trompe          | trumpet                               |                                                                                                                                            |
+| magullada       |  bruised                              |                                                                                                                                            |
+
+**  Marín
+   :PROPERTIES:
+   :DRILL_HEADING: Marín
+   :DRILL_CARD_TYPE: twosided
+   :DRILL_INSTRUCTIONS:
+   :END:
+| Español   | Inglés         | Contexto                                                                                    |
+|-----------+----------------+---------------------------------------------------------------------------------------------|
+| chambas   | work, jobs     | allí estan las mejores chambas                                                              |
+| re        | wrong          | y eso está re mal                                                                           |
+| chorro    | torrent/stream | un chorro de cosas                                                                          |
+| manchitas | spots          | y si cuentas las manchitas blancas de tus uñas sabes cuántos muchachos están pensando en ti |
+| montonal  | pile           | y un montonal de otras cosas                                                                |
+| nomás     | no more        | y Marín nomás se les quda viendo, sin parpadear siquiera, y no le da miedo                  |
+| parpadear | to blink       | y Marín nomás se les quda viendo, sin parpadear siquiera, y no le da miedo                  |
+| siquiera  |   even         | y Marín nomás se les quda viendo, sin parpadear siquiera, y no le da miedo                  |
+
+** Los que no
+   :PROPERTIES:
+   :DRILL_HEADING: Los que no
+   :DRILL_CARD_TYPE: twosided
+   :DRILL_INSTRUCTIONS:
+   :END:
+| Español     | Inglés   | Contexto                                                                                   |
+|-------------+----------+--------------------------------------------------------------------------------------------|
+| navajas     | jacknife | Piensan que los vamos a asaltar con navajas brilladores                                    |
+| zonzo       | lazy     | y el grandote que parece un viejo zonzo es el Fat Boy, aunque ya no esté gordo ni sea niño |
+| traca traca |  outbreak of noise | Pero en un barrio de otro color nuestras rodillas comienzan a temblar traca traca          |
+
+** Había una viejita que tenía tantos niños que no sabía qué hacer
+   :PROPERTIES:
+   :DRILL_HEADING: Había una viejita que tenía tantos niños que no sabía que hacer
+   :DRILL_CARD_TYPE: twosided
+   :DRILL_INSTRUCTIONS:
+   :END:
+| Español              | Inglés                     | Contexto                                                                                                                                                                                          |
+|----------------------+----------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| escuincles           | kids                       | Los escuincles de Rosa Vargas son demasiado y demasiados                                                                                                                                          |
+| remedio              | solution, remedey          | y cómo van a ponerle remedio con sólo una madre que está siempre cansada de abotonar, y embotellar, y chiquear, y que llora todos los días por el hombre que se largó sin dejarles ni un dólar    |
+| rebotan              | rebound, bounce            | y cómo van a ponerle remedio con sólo una madre que está siempre cansada de abotonar, y embotellar, y chiquear, y que llora todos los días por el hombre que se largó sin dejarles ni un dólar    |
+| abotonar             | button up                  | y cómo van a ponerle remedio con sólo una madre que está siempre cansada de abotonar, y embotellar, y chiquear, y que llora todos los días por el hombre que se largó sin dejarles ni un dólar    |
+| embotellar           | bottle up                  | y cómo van a ponerle remedio con sólo una madre que está siempre cansada de abotonar, y embotellar, y chiquear, y que llora todos los días por el hombre que se largó sin dejarles ni un dólar... |
+| se largó             | slink off, bugger off      | y cómo van a ponerle remedio con sólo una madre que está siempre cansada de abotonar, y embotellar, y chiquear, y que llora todos los días por el hombre que se largó sin dejarles ni un dólar    |
+| chiquear             | whip                       | y cómo van a ponerle remedio con sólo una madre que está siempre cansada de abotonar, y embotellar, y chiquear, y que llora todos los días por el hombre que se largó sin dejarles ni un dólar    |
+| cuelgan              | hang                       | los niños doblan árboles y robtan entre los carros y se cuelgan de las rodillas arriba y abajo y casi se rompen como vasijas de museo                                                             |
+| vasijas              | vessels                    | los niños doblan árboles y robtan entre los carros y se cuelgan de las rodillas arriba y abajo y casi se rompen como vasijas de museo                                                             |
+| treparse             | climb                      | no se ocurre algo menos peligroso que treparse allá arriba?                                                                                                                                       |
+| escupen              | they spit                  | y ellos solo escupen                                                                                                                                                                              |
+| se dan por vencidos  | they give up               | todos se dan por vencidos                                                                                                                                                                         |
+| los dientes de chivo | goat teeth (bottom teeth?) | Efrencito se rompió los dientes de chivo en el parquímetro                                                                                                                                        |
+| parquímetro          | parking meter              | Efrencito se rompió los dientes de chivo en el parquímetro                                                                                                                                        |
+
+
+
+*** Cards                                                          :noexport:
+
+**** Marín                                                            :drill:
+     SCHEDULED: <2021-01-25 lun>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       070ceacc-478e-4f0a-9c65-7c8bd3b46f28
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 2
+     :DRILL_FAILURE_COUNT: 1
+     :DRILL_AVERAGE_QUALITY: 2.5
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-01-21 jue 20:12]
+     :END:
+
+***** Español
+ chambas
+
+***** Inglés
+ work, jobs
+
+***** Contexto
+ allí estan las mejores chambas
+
+**** Marín                                                            :drill:
+     SCHEDULED: <2021-01-25 lun>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       1b873175-ce06-4ba3-82bf-bfafae73472b
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-01-21 jue 20:10]
+     :END:
+
+***** Español
+ re
+
+***** Inglés
+ wrong
+
+***** Contexto
+ y eso está re mal
+
+**** Marín                                                            :drill:
+     SCHEDULED: <2021-01-25 lun>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       4596c81e-8cb1-4a80-b209-752449c21ddc
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 2
+     :DRILL_FAILURE_COUNT: 1
+     :DRILL_AVERAGE_QUALITY: 2.5
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-01-21 jue 20:12]
+     :END:
+
+***** Español
+ chorro
+
+***** Inglés
+ torrent/stream
+
+***** Contexto
+ un chorro de cosas
+
+**** Marín                                                            :drill:
+     SCHEDULED: <2021-01-25 lun>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       7a7cfb03-421b-47bc-820a-3980f8cd1a74
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 3
+     :DRILL_FAILURE_COUNT: 2
+     :DRILL_AVERAGE_QUALITY: 2.333
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-01-21 jue 20:12]
+     :END:
+
+***** Español
+ manchitas
+
+***** Inglés
+ spots
+
+***** Contexto
+ y si cuentas las manchitas blancas de tus uñas sabes cuántos muchachos están pensando en ti
+
+**** Marín                                                            :drill:
+     SCHEDULED: <2021-01-25 lun>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       28b6cf71-709b-4b0b-99d4-54fd4167f660
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 3
+     :DRILL_FAILURE_COUNT: 2
+     :DRILL_AVERAGE_QUALITY: 2.333
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-01-21 jue 20:12]
+     :END:
+
+***** Español
+ montonal
+
+***** Inglés
+ pile
+
+***** Contexto
+ y un montonal de otras cosas
+
+**** Marín                                                            :drill:
+     SCHEDULED: <2021-01-25 lun>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       ac4e6dcb-943d-4961-9c10-248da65a3b82
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-01-21 jue 20:09]
+     :END:
+
+***** Español
+ nomás
+
+***** Inglés
+ no more
+
+***** Contexto
+ y Marín nomás se les quda viendo, sin parpadear siquiera, y no le da miedo
+
+**** Marín                                                            :drill:
+     SCHEDULED: <2021-01-25 lun>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       3e641810-2ced-4dab-b4a3-9525dc0ed360
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-01-21 jue 20:09]
+     :END:
+
+***** Español
+ parpadear
+
+***** Inglés
+ to blink
+
+***** Contexto
+ y Marín nomás se les quda viendo, sin parpadear siquiera, y no le da miedo
+
+**** Marín                                                            :drill:
+     SCHEDULED: <2021-01-25 lun>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       8a40a7b5-ce39-4a66-8b72-055a0dde18e5
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 2
+     :DRILL_FAILURE_COUNT: 1
+     :DRILL_AVERAGE_QUALITY: 2.5
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-01-21 jue 20:11]
+     :END:
+
+***** Español
+ siquiera
+
+***** Inglés
+ even
+
+***** Contexto
+ y Marín nomás se les quda viendo, sin parpadear siquiera, y no le da miedo
+
+**** Los que no                                                       :drill:
+     SCHEDULED: <2021-01-25 lun>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       bf37bd14-1451-4d83-b723-a241baf3be46
+     :DRILL_LAST_INTERVAL: 4.0
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 2
+     :DRILL_FAILURE_COUNT: 1
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.5
+     :DRILL_LAST_QUALITY: 4
+     :DRILL_LAST_REVIEWED: [2021-01-21 jue 20:11]
+     :END:
+
+***** Español
+ navajas
+
+***** Inglés
+ jacknife
+
+***** Contexto
+ Piensan que los vamos a asaltar con navajas brilladores
+
+**** Los que no                                                       :drill:
+     SCHEDULED: <2021-01-25 lun>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       a52cf7a1-dd0d-40d9-a9a1-79f33bb723e1
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-01-21 jue 20:10]
+     :END:
+
+***** Español
+ zonzo
+
+***** Inglés
+ lazy
+
+***** Contexto
+ y el grandote que parece un viejo zonzo es el Fat Boy, aunque ya no esté gordo ni sea niño
+
+**** Los que no                                                       :drill:
+     SCHEDULED: <2021-01-25 lun>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       295aef80-bc50-428b-a8f3-8067c3a8b1b1
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-01-21 jue 20:10]
+     :END:
+
+***** Español
+ traca traca
+
+***** Inglés
+ outbreak of noise
+
+***** Contexto
+ Pero en un barrio de otro color nuestras rodillas comienzan a temblar traca traca
+
+**** Había una viejita que tenía tantos niños que no sabía que hacer  :drill:
+     SCHEDULED: <2021-01-25 lun>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       b04c8ca3-9ace-451e-ac4b-3bfec69881b0
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-01-21 jue 20:08]
+     :END:
+
+***** Español
+ escuincles
+
+***** Inglés
+ kids
+
+***** Contexto
+ Los escuincles de Rosa Vargas son demasiado y demasiados
+
+**** Había una viejita que tenía tantos niños que no sabía que hacer  :drill:
+     SCHEDULED: <2021-01-25 lun>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       ad294b3b-6af1-407b-9143-b4c70166cce1
+     :DRILL_LAST_INTERVAL: 4.0
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 4.0
+     :DRILL_EASE: 2.5
+     :DRILL_LAST_QUALITY: 4
+     :DRILL_LAST_REVIEWED: [2021-01-21 jue 20:10]
+     :END:
+
+***** Español
+ remedio
+
+***** Inglés
+ solution, remedey
+
+***** Contexto
+ y cómo van a ponerle remedio con sólo una madre que está siempre cansada de abotonar, y embotellar, y chiquear, y que llora todos los días por el hombre que se largó sin dejarles ni un dólar
+
+**** Había una viejita que tenía tantos niños que no sabía que hacer  :drill:
+     SCHEDULED: <2021-01-25 lun>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       16ce1a0f-10ed-4668-a60b-3618fddcf925
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 3
+     :DRILL_FAILURE_COUNT: 2
+     :DRILL_AVERAGE_QUALITY: 2.333
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-01-21 jue 20:12]
+     :END:
+
+***** Español
+ rebotan
+
+***** Inglés
+ rebound, bounce
+
+***** Contexto
+ y cómo van a ponerle remedio con sólo una madre que está siempre cansada de abotonar, y embotellar, y chiquear, y que llora todos los días por el hombre que se largó sin dejarles ni un dólar
+
+**** Había una viejita que tenía tantos niños que no sabía que hacer  :drill:
+     SCHEDULED: <2021-01-25 lun>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       4feea9e7-2509-4e17-8174-e13c3cd5e97f
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 3
+     :DRILL_FAILURE_COUNT: 2
+     :DRILL_AVERAGE_QUALITY: 2.333
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-01-21 jue 20:12]
+     :END:
+
+***** Español
+ abotonar
+
+***** Inglés
+ button up
+
+***** Contexto
+ y cómo van a ponerle remedio con sólo una madre que está siempre cansada de abotonar, y embotellar, y chiquear, y que llora todos los días por el hombre que se largó sin dejarles ni un dólar
+
+**** Había una viejita que tenía tantos niños que no sabía que hacer  :drill:
+     SCHEDULED: <2021-01-25 lun>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       faf49135-f36b-4e58-9929-10d443b4f454
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-01-21 jue 20:10]
+     :END:
+
+***** Español
+ embotellar
+
+***** Inglés
+ bottle up
+
+***** Contexto
+ y cómo van a ponerle remedio con sólo una madre que está siempre cansada de abotonar, y embotellar, y chiquear, y que llora todos los días por el hombre que se largó sin dejarles ni un dólar...
+
+**** Había una viejita que tenía tantos niños que no sabía que hacer  :drill:
+     SCHEDULED: <2021-01-25 lun>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       54bae7d3-7e8d-4413-b035-9068d83cce43
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-01-21 jue 20:10]
+     :END:
+
+***** Español
+ se largó
+
+***** Inglés
+ slink off, bugger off
+
+***** Contexto
+ y cómo van a ponerle remedio con sólo una madre que está siempre cansada de abotonar, y embotellar, y chiquear, y que llora todos los días por el hombre que se largó sin dejarles ni un dólar
+
+**** Había una viejita que tenía tantos niños que no sabía que hacer  :drill:
+     SCHEDULED: <2021-01-25 lun>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       bed2e734-a934-4697-9e1b-8b6b74f378fe
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 3
+     :DRILL_FAILURE_COUNT: 2
+     :DRILL_AVERAGE_QUALITY: 2.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-01-21 jue 20:12]
+     :END:
+
+***** Español
+ chiquear
+
+***** Inglés
+ whip
+
+***** Contexto
+ y cómo van a ponerle remedio con sólo una madre que está siempre cansada de abotonar, y embotellar, y chiquear, y que llora todos los días por el hombre que se largó sin dejarles ni un dólar
+
+**** Había una viejita que tenía tantos niños que no sabía que hacer  :drill:
+     SCHEDULED: <2021-01-25 lun>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       e97631b9-0685-44a2-85fc-ca7ea7ef3654
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-01-21 jue 20:11]
+     :END:
+
+***** Español
+ cuelgan
+
+***** Inglés
+ hang
+
+***** Contexto
+ los niños doblan árboles y robtan entre los carros y se cuelgan de las rodillas arriba y abajo y casi se rompen como vasijas de museo
+
+**** Había una viejita que tenía tantos niños que no sabía que hacer  :drill:
+     SCHEDULED: <2021-01-25 lun>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       f081fde3-e9c0-4d8c-814c-5cd84e801da7
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 3
+     :DRILL_FAILURE_COUNT: 2
+     :DRILL_AVERAGE_QUALITY: 2.333
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-01-21 jue 20:12]
+     :END:
+
+***** Español
+ vasijas
+
+***** Inglés
+ vessels
+
+***** Contexto
+ los niños doblan árboles y robtan entre los carros y se cuelgan de las rodillas arriba y abajo y casi se rompen como vasijas de museo
+
+**** Había una viejita que tenía tantos niños que no sabía que hacer  :drill:
+     SCHEDULED: <2021-01-25 lun>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       0131c99c-9608-4294-8f0a-33171ff92b4b
+     :DRILL_LAST_INTERVAL: 4.0
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 4.0
+     :DRILL_EASE: 2.5
+     :DRILL_LAST_QUALITY: 4
+     :DRILL_LAST_REVIEWED: [2021-01-21 jue 20:06]
+     :END:
+
+***** Español
+ treparse
+
+***** Inglés
+ climb
+
+***** Contexto
+ no se ocurre algo menos peligroso que treparse allá arriba?
+
+**** Había una viejita que tenía tantos niños que no sabía que hacer  :drill:
+     SCHEDULED: <2021-01-25 lun>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       2e1dc4ab-4f5d-4089-88cb-d022e0ea9489
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 2
+     :DRILL_FAILURE_COUNT: 1
+     :DRILL_AVERAGE_QUALITY: 2.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-01-21 jue 20:11]
+     :END:
+
+***** Español
+ escupen
+
+***** Inglés
+ they spit
+
+***** Contexto
+ y ellos solo escupen
+
+**** Había una viejita que tenía tantos niños que no sabía que hacer  :drill:
+     SCHEDULED: <2021-01-25 lun>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       9b786005-8807-4688-91b3-0cc1bdd88edc
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 2
+     :DRILL_FAILURE_COUNT: 1
+     :DRILL_AVERAGE_QUALITY: 2.5
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-01-21 jue 20:11]
+     :END:
+
+***** Español
+ se dan por vencidos
+
+***** Inglés
+ they give up
+
+***** Contexto
+ todos se dan por vencidos
+
+**** Había una viejita que tenía tantos niños que no sabía que hacer  :drill:
+     SCHEDULED: <2021-01-25 lun>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       bc26d185-0ad8-420b-97a7-78534e05e3f3
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-01-21 jue 20:11]
+     :END:
+
+***** Español
+ los dientes de chivo
+
+***** Inglés
+ goat teeth (bottom teeth?)
+
+***** Contexto
+ Efrencito se rompió los dientes de chivo en el parquímetro
+
+**** Había una viejita que tenía tantos niños que no sabía que hacer  :drill:
+     SCHEDULED: <2021-01-25 lun>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       1eda1bda-3ed7-4cbc-8b46-88f0e6f3df09
+     :DRILL_LAST_INTERVAL: 4.0
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 4.0
+     :DRILL_EASE: 2.5
+     :DRILL_LAST_QUALITY: 4
+     :DRILL_LAST_REVIEWED: [2021-01-21 jue 20:07]
+     :END:
+
+***** Español
+ parquímetro
+
+***** Inglés
+ parking meter
+
+***** Contexto
+ Efrencito se rompió los dientes de chivo en el parquímetro
+    
+**** Louie, su prima y su primo                                       :drill:
+     SCHEDULED: <2021-01-23 sáb>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       c08e1096-b4dd-4250-899e-92cf282d2dd7
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-01-19 mar 16:05]
+     :END:
+
+***** Español
+  sótano
+
+***** Inglés
+  basement
+
+***** Contexto
+  Bajo la casa de Meme hay un sótano que su mamá arregló y rentó a una familia puertorriqueña
+
+**** Louie, su prima y su primo                                       :drill:
+     SCHEDULED: <2021-01-23 sáb>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       e536a362-5dd6-4c62-bbf2-df2dba07e2b3
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-01-19 mar 16:05]
+     :END:
+
+***** Español
+  metidas
+
+***** Inglés
+  tucked in
+
+***** Contexto
+  yo sé que sus camiseas nunca se quedan metidas dentro de sus pantalones
+
+**** Louie, su prima y su primo                                       :drill:
+     SCHEDULED: <2021-01-23 sáb>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       33ada363-7688-40cb-af45-053a6210396f
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-01-19 mar 16:05]
+     :END:
+
+***** Español
+  medias oscuras
+
+***** Inglés
+  dark stockings
+
+***** Contexto
+  y lleva medias oscuras todo el tiempo
+
+**** Louie, su prima y su primo                                       :drill:
+     SCHEDULED: <2021-01-23 sáb>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       c23ae52a-c437-46b4-8949-012af5d500f8
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 2
+     :DRILL_FAILURE_COUNT: 1
+     :DRILL_AVERAGE_QUALITY: 2.5
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-01-19 mar 16:06]
+     :END:
+
+***** Español
+  tronando
+
+***** Inglés
+  thundering
+
+***** Contexto
+  canta y canta la misma canción tronando los dedos
+
+**** Louie, su prima y su primo                                       :drill:
+     SCHEDULED: <2021-01-23 sáb>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       5eaeee62-3cb7-44d5-94d1-d41dff57bb14
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-01-19 mar 16:06]
+     :END:
+
+***** Español
+  callejón
+
+***** Inglés
+  alley
+
+***** Contexto
+  estábamos jugando volleyball en el callejón
+
+**** Louie, su prima y su primo                                       :drill:
+     SCHEDULED: <2021-01-23 sáb>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       d5c718f2-90bc-48de-a66a-6816963d3863
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-01-19 mar 16:06]
+     :END:
+
+***** Español
+  mascada
+
+***** Inglés
+  scarf
+
+***** Contexto
+  una mascada amarilla amarrada al espejo
+
+**** Louie, su prima y su primo                                       :drill:
+     SCHEDULED: <2021-01-23 sáb>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       c82172aa-be7b-49ef-9ebb-2e1475330a70
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 2
+     :DRILL_FAILURE_COUNT: 1
+     :DRILL_AVERAGE_QUALITY: 2.5
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-01-19 mar 16:06]
+     :END:
+
+***** Español
+  amarrada
+
+***** Inglés
+  tied up
+
+***** Contexto
+  una mascada amarilla amarrada al espejo
+
+**** Louie, su prima y su primo                                       :drill:
+     SCHEDULED: <2021-01-23 sáb>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       13039685-746d-4338-a2ee-decf4fd6a370
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-01-19 mar 16:06]
+     :END:
+
+***** Español
+  pitó
+
+***** Inglés
+  whistle/beep
+
+***** Contexto
+  Pitó un par de veces y un montón de caras miraron desde la ventana trasera de la casa
+
+**** Louie, su prima y su primo                                       :drill:
+     SCHEDULED: <2021-01-23 sáb>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       c32b0edb-a44e-4c2f-93f5-8184f4aaecdb
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-01-19 mar 16:06]
+     :END:
+
+***** Español
+  ventana trasera
+
+***** Inglés
+  rear window
+
+***** Contexto
+  Pitó un par de veces y un montón de caras miraron desde la ventana trasera de la casa
+
+**** Louie, su prima y su primo                                       :drill:
+     SCHEDULED: <2021-01-23 sáb>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       d64ee004-5348-4a5b-916c-6ca729190180
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-01-19 mar 16:06]
+     :END:
+
+***** Español
+  vueltecita
+
+***** Inglés
+  little turn
+
+***** Contexto
+  pedimos una vueltecita
+
+**** Louie, su prima y su primo                                       :drill:
+     SCHEDULED: <2021-01-23 sáb>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       7891c222-ad85-4d32-b7f5-a8c213b71574
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-01-19 mar 16:06]
+     :END:
+
+***** Español
+  apretar
+
+***** Inglés
+  to tightent, screw, grasp, press down
+
+***** Contexto
+  pero el primo de Louie dijo que nos iba a regresar a pie si no dejábmos de jugar con las ventanillas y de apretar los botones del radio FM
+
+**** Louie, su prima y su primo                                       :drill:
+     SCHEDULED: <2021-01-23 sáb>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       fed89e37-81e7-48ad-bd0d-0d71d85b9611
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-01-19 mar 16:06]
+     :END:
+
+***** Español
+  quedito
+
+***** Inglés
+  stay
+
+***** Contexto
+  oímos unas sirenas.. muy quedito al principio
+
+**** Louie, su prima y su primo                                       :drill:
+     SCHEDULED: <2021-01-23 sáb>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       4323e8b0-8322-4be6-8c8d-f89fd7f9420a
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 2
+     :DRILL_FAILURE_COUNT: 1
+     :DRILL_AVERAGE_QUALITY: 2.5
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-01-19 mar 16:06]
+     :END:
+
+***** Español
+  borrón
+
+***** Inglés
+  blur
+
+***** Contexto
+  convirtiendo aquel auto en un borrón amarillo
+
+**** Louie, su prima y su primo                                       :drill:
+     SCHEDULED: <2021-01-23 sáb>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       c78bbdaf-9fc4-4b93-90aa-688ac2a8b060
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-01-19 mar 16:05]
+     :END:
+
+***** Español
+  mareo
+
+***** Inglés
+  dizziness
+
+***** Contexto
+  corrimos a la esquina donde la sirena de la patrulla hacía girar un mareo azul
+
+**** Louie, su prima y su primo                                       :drill:
+     SCHEDULED: <2021-01-23 sáb>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       91aa799f-8518-45e1-a702-014ac84ebf5e
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-01-19 mar 16:06]
+     :END:
+
+***** Español
+  trompe
+
+***** Inglés
+  trumpet
+
+**** Louie, su prima y su primo                                       :drill:
+     SCHEDULED: <2021-01-23 sáb>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       1ebf145a-3ea1-4b46-8257-317b8420eac8
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-01-19 mar 16:05]
+     :END:
+
+***** Español
+  magullada
+
+***** Inglés
+  bruised
+
+**** Meme Ortiz                                                       :drill:
+     SCHEDULED: <2021-01-23 sáb>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       76cd331a-287a-4602-a0e2-832936e91af1
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-01-19 mar 15:42]
+     :END:
+
+***** Spanish
+  pastor
+
+***** English
+  shepherd
+
+***** Context
+  un pasto con dos nombres
+
+**** Meme Ortiz                                                       :drill:
+     SCHEDULED: <2021-01-23 sáb>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       d8d8cb58-6100-49bd-83b5-0745e2ccf44d
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-01-19 mar 15:41]
+     :END:
+
+***** Spanish
+  torpe
+
+***** English
+  clumsy/awkward
+
+***** Context
+  [el perro] corre del mismo modo que sue dueño, torpe y loco con los brazos y piernas sueltos
+
+**** Meme Ortiz                                                       :drill:
+     SCHEDULED: <2021-01-23 sáb>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       68a8558b-9aa6-4a70-b18f-f43b2aa259bd
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 2
+     :DRILL_FAILURE_COUNT: 1
+     :DRILL_AVERAGE_QUALITY: 2.5
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-01-19 mar 15:43]
+     :END:
+
+***** Spanish
+  sueltos
+
+***** English
+  loose
+
+***** Context
+  [el perro] corre del mismo modo que sue dueño, torpe y loco con los brazos y piernas sueltos
+
+**** Meme Ortiz                                                       :drill:
+     SCHEDULED: <2021-01-23 sáb>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       d6d73c31-65c2-4f49-931e-901d977f8eba
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-01-19 mar 15:42]
+     :END:
+
+***** Spanish
+  ladeados
+
+***** English
+  lopsided
+
+***** Context
+  todos ladeados y salientes como dientes chuecos
+
+**** Meme Ortiz                                                       :drill:
+     SCHEDULED: <2021-01-23 sáb>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       34454514-ddfe-4a2d-9e31-64d56abd0154
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-01-19 mar 15:42]
+     :END:
+
+***** Spanish
+  saliente
+
+***** English
+  outgoing
+
+***** Context
+  todos ladeados y salientes como dientes chuecos
+
+**** Meme Ortiz                                                       :drill:
+     SCHEDULED: <2021-01-23 sáb>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       4e9fcc8b-a271-4fce-91c0-98090d0747ce
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-01-19 mar 15:42]
+     :END:
+
+***** Spanish
+  chuecos
+
+***** English
+  crooked
+
+***** Context
+  todos ladeados y salientes como dientes chuecos
+
+**** Meme Ortiz                                                       :drill:
+     SCHEDULED: <2021-01-23 sáb>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       ea9fa13c-e7bc-4e30-9f8e-d16b0b01ca70
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-01-19 mar 15:42]
+     :END:
+
+***** Spanish
+  adrede
+
+***** English
+  with intention
+
+**** Meme Ortiz                                                       :drill:
+     SCHEDULED: <2021-01-23 sáb>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       5e9e8de9-719d-43a2-bdd9-46154cabf4a1
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 5
+     :DRILL_FAILURE_COUNT: 4
+     :DRILL_AVERAGE_QUALITY: 2.2
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-01-19 mar 15:43]
+     :END:
+
+***** Spanish
+  trepa
+
+***** English
+  climb
+
+**** Meme Ortiz                                                       :drill:
+     SCHEDULED: <2021-01-23 sáb>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       c34d3910-28b4-4e25-aa21-06129af1d5e1
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-01-19 mar 15:42]
+     :END:
+
+***** Spanish
+  gateando
+
+***** English
+  crawling
+
+**** Meme Ortiz                                                       :drill:
+     SCHEDULED: <2021-01-23 sáb>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       0faf2867-dd7c-491f-8cb4-465ea4598130
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 3
+     :DRILL_FAILURE_COUNT: 2
+     :DRILL_AVERAGE_QUALITY: 2.333
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-01-19 mar 15:43]
+     :END:
+
+***** Spanish
+  enchapopotados
+
+***** English
+  cladding?
+
+**** Meme Ortiz                                                       :drill:
+     SCHEDULED: <2021-01-23 sáb>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       fc5f7ed2-05dc-46a8-bd5f-f38e313d6ebf
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-01-19 mar 15:42]
+     :END:
+
+***** Spanish
+  desagües
+
+***** English
+  drains
+
+**** Meme Ortiz                                                       :drill:
+     SCHEDULED: <2021-01-23 sáb>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       622a8a80-b1bf-42e3-b402-1d4416bd788e
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-01-19 mar 15:42]
+     :END:
+
+***** Spanish
+  ladrar
+
+***** English
+  to bark

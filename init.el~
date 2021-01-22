@@ -20,7 +20,7 @@
 
 ;; register important files
 (set-register ?e '(file . "~/.emacs.d/init.el"))
-(set-register ?o '(file . "~/Org/main.org"))
+(set-register ?o '(file . "~/.emacs.d/Org/main.org"))
 
 ;; minimal interface
 (scroll-bar-mode -1)        ; Disable visible scrollbar
@@ -80,7 +80,10 @@
       '(("t" "Todo" entry (file+headline "~/Org/main.org" "Tasks")
          "* TODO %?\n  %i\n  %a")
         ("j" "Journal" entry (file+datetree "~/Org/journal.org")
-         "* %?\nEntered on %U\n  %i\n  %a")))
+         "* %?\nEntered on %U\n  %i\n  %a")
+	("Q" "quotation" entry (file+headline "~/Org/library.org" "Quotes")
+         "* %?\nEntered on %U\n  %i\n  %a")
+	))
 
 ;; ;;
 ;; ;;
@@ -267,7 +270,8 @@
  '(custom-safe-themes
    '("c83c095dd01cde64b631fb0fe5980587deec3834dc55144a6e78ff91ebc80b19" default))
  '(initial-buffer-choice "~/Org/main.org")
- '(org-agenda-files '("~/Org/journal.org" "~/Org/main.org"))
+ '(org-agenda-files
+   '("~/.emacs.d/Org/main.org" "~/Org/journal.org" "~/Org/main.org"))
  '(org-capture-templates
    '(("q" "Quotations" entry
       (file "\"~/Org/libary.org\"")

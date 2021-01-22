@@ -1,58 +1,82 @@
  #+SEQ_TODO: TD(t) NXT(n) MYB(m) S(s) R(r) | DONE(d) CANCELLED(c) 
 * routine
-** TD brush teeth 
-   SCHEDULED: <2021-01-11 Mon .+1d>
+** R brush teeth 
+   SCHEDULED: <2021-01-22 vie .+1d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2021-01-10 Sun 16:21]
+:LAST_REPEAT: [2021-01-21 jue 08:53]
 :END:
 
+- State "DONE"       from "TD"         [2021-01-19 mar 15:05]
 - State "DONE"       from "TD"         [2021-01-10 Sun 16:21]
 - State "DONE"       from "R"          [2021-01-09 Sat 10:11]
 :LOGBOOK:
+- State "DONE"       from "TD"         [2021-01-21 jue 08:53]
+- State "DONE"       from "R"          [2021-01-20 mié 08:34]
 :END:
 
-** TD tidy room
-SCHEDULED: <2021-01-11 Mon .+1d>
+** R tidy room
+SCHEDULED: <2021-01-22 vie .+1d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2021-01-10 Sun 16:21]
+:LAST_REPEAT: [2021-01-21 jue 08:53]
 :END:
+- State "DONE"       from "TD"         [2021-01-19 mar 15:05]
 - State "DONE"       from "TD"         [2021-01-10 Sun 16:21]
 - State "DONE"       from "R"          [2021-01-09 Sat 10:11]
 :LOGBOOK:
+- State "DONE"       from "TD"         [2021-01-21 jue 08:53]
+- State "DONE"       from "R"          [2021-01-20 mié 08:34]
 :END:
 
 ** TD yoga
-SCHEDULED: <2021-01-11 Mon .+1d>
+SCHEDULED: <2021-01-22 vie .+1d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2021-01-10 Sun 16:21]
+:LAST_REPEAT: [2021-01-21 jue 10:17]
 :END:
+- State "DONE"       from "TD"         [2021-01-19 mar 15:06]
 - State "DONE"       from "TD"         [2021-01-10 Sun 16:21]
 - State "DONE"       from "R"          [2021-01-09 Sat 10:11]
 :LOGBOOK:
+- State "DONE"       from "R"          [2021-01-21 jue 10:17]
+- State "DONE"       from "R"          [2021-01-20 mié 09:18]
 :END:
 
 ** TD meditation
-SCHEDULED: <2021-01-11 Mon .+1d>
+SCHEDULED: <2021-01-22 vie .+1d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2021-01-10 Sun 16:21]
+:LAST_REPEAT: [2021-01-21 jue 22:08]
 :END:
 - State "DONE"       from "TD"         [2021-01-10 Sun 16:21]
 - State "DONE"       from "R"          [2021-01-09 Sat 10:11]
 :LOGBOOK:
+- State "DONE"       from "R"          [2021-01-21 jue 22:08]
+- State "DONE"       from "R"          [2021-01-20 mié 10:19]
 :END:
 
-** TD Reading
-SCHEDULED: <2021-01-11 Mon .+1d>
+** TD reading
+SCHEDULED: <2021-01-22 vie .+1d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2021-01-10 Sun 21:28]
+:LAST_REPEAT: [2021-01-21 jue 20:13]
 :END:
 - State "DONE"       from "TD"         [2021-01-10 Sun 21:28]
 :LOGBOOK:
+- State "DONE"       from "R"          [2021-01-21 jue 20:13]
+CLOCK: [2021-01-21 jue 19:25]--[2021-01-21 jue 20:13] =>  0:48
+- State "DONE"       from "TD"         [2021-01-19 mar 16:18]
+CLOCK: [2021-01-19 mar 15:21]--[2021-01-19 mar 16:04] =>  0:43
+:END:
+** R emacs practice
+SCHEDULED: <2021-01-21 jue .+2d/3d>
+:PROPERTIES:
+:STYLE: habit
+:LAST_REPEAT: [2021-01-19 mar 16:46]
+:END:
+:LOGBOOK:
+- State "DONE"       from "R"          [2021-01-19 mar 16:46]
 :END:
 * projects
 ** Apply to Georgia Tech Online Masters Prorgram [0/5]
@@ -63,56 +87,49 @@ Submit completed Application to Georgia Tech Online Masters Program
 - [ ] Write reccomendation letter 3
 - [ ] Write letter of purpose
 - [ ] Finish any forms
-** Make Money [5/8]
+** Make Money [6/8]
  - [X] Delete Varisty Tutors Account (not deleted)
  - [X] Create new account
  - [X] Do video interview
  - [X] Enter Information
- - [ ] Qualify for teaching various subjects
+ - [X] Qualify for teaching various subjects
  - [ ] Get Validated
  - [X] Interview
  - [ ] Start Tutoring Online
 
+** Trigonometry Tutorial Website [0/4]
+- [ ] create notes module
+- [ ] create navigation module
+- [ ] create current module
+- [ ] create profile module
+- [ ] create exercise module
+
 * weekly review
 * Tasks
-** Get to Honduras [0/2]
- - [ ] Look up flight requirements (covid testing) to enter SAP
- - [ ] Find flight
- - [ ] Call and confirm with airlines
- - [ ] Book a flight
-** Pay Rent [1/9] 
+** Apply to McDonogh Scholarship [4/6]
+- [X] Respond to Mary-Catherine
+- [X] Create Letter of Interest
+- [X] Update Resume
+- [X] Get Mary-Cahterine to review letter
+- [ ] Fix emails so they are independent via godaddy
+- [ ] send letter and resume to HR
+** Pay Rent [11/11]
+   SCHEDULED: <2021-01-20 mié>
 - [X] Transfer 900 USD to joint tenant
-- [ ] Ask Vero for account number
-- [ ] Wire to Schwabb Account
-- [ ] Payment (July I) 3000 LPS
-- [ ] Payment (July II) 3000 LPS
-- [ ] Payment (December I) 3000 LPS
-- [ ] Payment (December II) 3000 LPS
-- [ ] Payment (January I) 3000 LPS
-- [ ] Payment (January II) 3000 LPS
+- [X] Ask Vero for account number
+- [X] Wire to Schwabb Account
+- [X] Talk to bank if wired money does not appear
+- [X] Talk to bank about changing number for sms verifcation
 
-** Possible Purchases [0/3]
- - [ ] Apple Watch Vero
- - [ ] Wireless Wacom tool
- - [ ] Tablet With Cover Vero
-** mirving@mcdonogh.org
- Mary Catherine
- 410-450-3477
+cuenta doña liva 21-216-004966-7
 
- send resume, breif summary of Cindy Knipp's introduction.
+- [X] Payment (July I) 3000 LPS
+- [X] Payment (July II) 3000 LPS
+- [X] Payment (December I) 3000 LPS
+- [X] Payment (December II) 3000 LPS
+- [X] Payment (January I) 3000 LPS
+- [X] Payment (January II) 3000 LPS
 
-Hello Mary Catherine, I am Forrest Naylor. I am a math teacher who has spent the last 4 years teaching math classes mostly in grades 8 to 12 at schools in Nicaragua and Honduras. Cindy Knipp is a close family friend and recommended that I get in touch with you because of your focus on global learning and connection to McDonogh school which is only a few minutes drive from my childhood home.
+** Possible Purchases [1/3]
+ - [X] Tablet With Cover Vero
 
-Cindy also knows that I am likely planning on returning to live in Baltimore at some point over the next year and recommended I attach my resume to this email in case at some point down the road you know of or hear of a teaching position that I may be suitable for.   
-
-Maybe we could follow up via phone or video call at some point if you have the time and energy available! In any case, I would really love to hear about your experience working with students from other countries in your own classroom.
-
-All the best,
-
-Forrest Naylor
-
-
-
---Attach Resume 
-
-* testing changes 2 to see if this works on the mac
