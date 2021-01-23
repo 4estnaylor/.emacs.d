@@ -285,7 +285,7 @@
    '("c83c095dd01cde64b631fb0fe5980587deec3834dc55144a6e78ff91ebc80b19" default))
  '(initial-buffer-choice "~/.emacs.d/GTD/gtd.org")
  '(org-agenda-files
-   '("~/.emacs.d/GTD/calendar.org" "~/.emacs.d/GTD/habits.org" "~/.emacs.d/Org/main.org" "~/Org/main.org"))
+   '("~/.emacs.d/GTD/projects.org" "~/.emacs.d/GTD/calendar.org" "~/.emacs.d/GTD/habits.org" "~/.emacs.d/Org/main.org" "~/Org/main.org"))
  '(org-capture-templates
    '(("Q" "Quotations" entry
       (file "\"~/Org/libary.org\"")
