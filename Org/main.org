@@ -1,57 +1,62 @@
  #+SEQ_TODO: TD(t) NXT(n) MYB(m) S(s) R(r) | DONE(d) CANCELLED(c) 
 * routine
-** R brush teeth 
-   SCHEDULED: <2021-01-22 vie .+1d>
+** TD brush teeth 
+   SCHEDULED: <2021-01-23 sáb .+1d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2021-01-21 jue 08:53]
+:LAST_REPEAT: [2021-01-22 vie 10:18]
 :END:
 
 - State "DONE"       from "TD"         [2021-01-19 mar 15:05]
 - State "DONE"       from "TD"         [2021-01-10 Sun 16:21]
 - State "DONE"       from "R"          [2021-01-09 Sat 10:11]
 :LOGBOOK:
+- State "DONE"       from "R"          [2021-01-22 vie 10:18]
 - State "DONE"       from "TD"         [2021-01-21 jue 08:53]
 - State "DONE"       from "R"          [2021-01-20 mié 08:34]
 :END:
 
-** R tidy room
-SCHEDULED: <2021-01-22 vie .+1d>
+** TD tidy room
+SCHEDULED: <2021-01-23 sáb .+1d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2021-01-21 jue 08:53]
+:LAST_REPEAT: [2021-01-22 vie 10:18]
 :END:
 - State "DONE"       from "TD"         [2021-01-19 mar 15:05]
 - State "DONE"       from "TD"         [2021-01-10 Sun 16:21]
 - State "DONE"       from "R"          [2021-01-09 Sat 10:11]
 :LOGBOOK:
+- State "DONE"       from "R"          [2021-01-22 vie 10:18]
 - State "DONE"       from "TD"         [2021-01-21 jue 08:53]
 - State "DONE"       from "R"          [2021-01-20 mié 08:34]
 :END:
 
 ** TD yoga
-SCHEDULED: <2021-01-22 vie .+1d>
+SCHEDULED: <2021-01-23 sáb .+1d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2021-01-21 jue 10:17]
+:LAST_REPEAT: [2021-01-22 vie 10:18]
 :END:
 - State "DONE"       from "TD"         [2021-01-19 mar 15:06]
 - State "DONE"       from "TD"         [2021-01-10 Sun 16:21]
 - State "DONE"       from "R"          [2021-01-09 Sat 10:11]
 :LOGBOOK:
+- State "DONE"       from "TD"         [2021-01-22 vie 10:18]
 - State "DONE"       from "R"          [2021-01-21 jue 10:17]
 - State "DONE"       from "R"          [2021-01-20 mié 09:18]
 :END:
 
 ** TD meditation
-SCHEDULED: <2021-01-22 vie .+1d>
+SCHEDULED: <2021-01-23 sáb .+1d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2021-01-21 jue 22:08]
+:LAST_REPEAT: [2021-01-22 vie 13:41]
 :END:
 - State "DONE"       from "TD"         [2021-01-10 Sun 16:21]
 - State "DONE"       from "R"          [2021-01-09 Sat 10:11]
 :LOGBOOK:
+- State "DONE"       from "TD"         [2021-01-22 vie 13:41]
+- State "DONE"       from "TD"         [2021-01-22 vie 10:18]
 - State "DONE"       from "R"          [2021-01-21 jue 22:08]
 - State "DONE"       from "R"          [2021-01-20 mié 10:19]
 :END:
@@ -69,13 +74,15 @@ CLOCK: [2021-01-21 jue 19:25]--[2021-01-21 jue 20:13] =>  0:48
 - State "DONE"       from "TD"         [2021-01-19 mar 16:18]
 CLOCK: [2021-01-19 mar 15:21]--[2021-01-19 mar 16:04] =>  0:43
 :END:
-** R emacs practice
-SCHEDULED: <2021-01-21 jue .+2d/3d>
+** TD emacs practice
+SCHEDULED: <2021-01-24 dom .+2d/3d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2021-01-19 mar 16:46]
+:LAST_REPEAT: [2021-01-22 vie 17:22]
 :END:
 :LOGBOOK:
+- State "DONE"       from "R"          [2021-01-22 vie 17:22]
+CLOCK: [2021-01-22 vie 13:44]--[2021-01-22 vie 16:35] =>  2:51
 - State "DONE"       from "R"          [2021-01-19 mar 16:46]
 :END:
 * projects
@@ -106,30 +113,24 @@ Submit completed Application to Georgia Tech Online Masters Program
 
 * weekly review
 * Tasks
-** Apply to McDonogh Scholarship [4/6]
+** TD bake cake for Lucy
+   SCHEDULED: <2021-01-23 sáb>
+** TD pagar agua 
+   SCHEDULED: <2021-01-23 sáb>
+** TD Apply to McDonogh Scholarship [4/6]
 - [X] Respond to Mary-Catherine
 - [X] Create Letter of Interest
 - [X] Update Resume
 - [X] Get Mary-Cahterine to review letter
 - [ ] Fix emails so they are independent via godaddy
 - [ ] send letter and resume to HR
-** Pay Rent [11/11]
-   SCHEDULED: <2021-01-20 mié>
-- [X] Transfer 900 USD to joint tenant
-- [X] Ask Vero for account number
-- [X] Wire to Schwabb Account
-- [X] Talk to bank if wired money does not appear
-- [X] Talk to bank about changing number for sms verifcation
-
-cuenta doña liva 21-216-004966-7
-
-- [X] Payment (July I) 3000 LPS
-- [X] Payment (July II) 3000 LPS
-- [X] Payment (December I) 3000 LPS
-- [X] Payment (December II) 3000 LPS
-- [X] Payment (January I) 3000 LPS
-- [X] Payment (January II) 3000 LPS
-
-** Possible Purchases [1/3]
- - [X] Tablet With Cover Vero
-
+* weekly jobs
+** Mon 
+** Tues
+** Wed
+*** trash
+** Thur
+** Fri
+*** trash
+** Sat
+** Sun
