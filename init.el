@@ -278,7 +278,7 @@
  '(custom-enabled-themes '(doom-palenight))
  '(custom-safe-themes
    '("c83c095dd01cde64b631fb0fe5980587deec3834dc55144a6e78ff91ebc80b19" default))
- '(initial-buffer-choice "~/Org/main.org")
+ '(initial-buffer-choice "~/.emacs.d/Org/main.org")
  '(org-agenda-files '("~/.emacs.d/Org/main.org" "~/Org/main.org"))
  '(org-capture-templates
    '(("Q" "Quotations" entry
