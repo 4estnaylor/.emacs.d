@@ -1,0 +1,5 @@
+* TODO bake cake for lucy
+  SCHEDULED: <2021-01-23 Sat>
+
+* TODO pay water bill 
+  SCHEDULED: <2021-01-23 Sat>

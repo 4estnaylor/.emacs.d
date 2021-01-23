@@ -1,0 +1,8 @@
+* trash
+* someday/maybe
+# * tickler
+* calendar
+* next actions
+* projects
+* delegate
+* reference

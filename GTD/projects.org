@@ -1,0 +1,34 @@
+ #+SEQ_TODO: TD(t) NXT(n) MYB(m) S(s) R(r) TDP(p) | DONE(d) CANCELLED(c) 
+
+
+* projects
+** TDP Apply to Georgia Tech Online Masters Prorgram 
+   DEADLINE: <2021-02-26 Fri>
+Submit completed Application to Georgia Tech Online Masters Program
+*** NXT TODO Write reccomendation letter 1
+*** TD TODO Write reccomendation letter 2
+*** TD TODO Write reccomendation letter 3
+*** TD TODO Write letter of purpose
+*** TD TODO Finish any forms
+** TDP Make Money
+*** DONE Delete Varisty Tutors Account (not deleted)
+*** DONE Create new account
+*** NXT Do video interview
+*** DONE Enter Information
+*** DONE Qualify for teaching various subjects
+*** DONE Get Validated
+*** TD Start Tutoring Online
+
+** TDP Trigonometry Tutorial Website [0/5]
+*** NXT create notes module
+*** TD create navigation module
+*** TD create current module
+*** TD create profile module
+*** TD create exercise module
+** TDP Apply to McDonogh Scholarship [4/6]
+*** DONE Respond to Mary-Catherine
+*** DONE Create Letter of Interest
+*** DONE Update Resume
+*** DONE Get Mary-Cahterine to review letter
+*** NXT Fix emails so they are independent via godaddy
+*** TD send letter and resume to HR

@@ -21,7 +21,12 @@
 
 ;; register important files
 (set-register ?e '(file . "~/.emacs.d/init.el"))
-(set-register ?o '(file . "~/.emacs.d/Org/main.org"))
+(set-register ?g '(file . "~/.emacs.d/GTD/gtd.org"))
+(set-register ?p '(file . "~/.emacs.d/GTD/projects.org"))
+(set-register ?h '(file . "~/.emacs.d/GTD/habits.org"))
+(set-register ?c '(file . "~/.emacs.d/GTD/calendar.org"))
+(set-register ?n '(file . "~/.emacs.d/GTD/next.org"))
+(set-register ?r '(file . "~/.emacs.d/GTD/reference.org"))
 
 ;; minimal interface
 (scroll-bar-mode -1)        ; Disable visible scrollbar
@@ -278,12 +283,13 @@
  '(custom-enabled-themes '(doom-palenight))
  '(custom-safe-themes
    '("c83c095dd01cde64b631fb0fe5980587deec3834dc55144a6e78ff91ebc80b19" default))
- '(initial-buffer-choice "~/.emacs.d/Org/main.org")
- '(org-agenda-files '("~/.emacs.d/Org/main.org" "~/Org/main.org"))
+ '(initial-buffer-choice "~/.emacs.d/GTD/gtd.org")
+ '(org-agenda-files
+   '("~/.emacs.d/GTD/calendar.org" "~/.emacs.d/GTD/habits.org" "~/.emacs.d/Org/main.org" "~/Org/main.org"))
  '(org-capture-templates
    '(("Q" "Quotations" entry
       (file "\"~/Org/libary.org\"")
-      "\"testing 123\"")))
+      "\"testing 123\"")) t)
  '(org-modules
    '(ol-bbdb ol-bibtex ol-docview ol-eww ol-gnus org-habit ol-info ol-irc ol-mhe ol-rmail ol-w3m))
  '(package-selected-packages
