@@ -14,14 +14,24 @@
 (global-set-key (kbd "M-y") 'browse-kill-ring) ;; need to include package
 (global-set-key (kbd "M-o") 'other-window)
 (global-set-key (kbd "C-c m") 'magit-status)
-
+(global-set-key (kbd "C-c i") 'org-agenda-clock-in)
+(global-set-key (kbd "C-c o") 'org-agenda-clock-out)
 
 
 
 ;; register important files
 (set-register ?e '(file . "~/.emacs.d/init.el"))
-(set-register ?o '(file . "~/.emacs.d/Org/main.org"))
-
+(set-register ?g '(file . "~/.emacs.d/GTD/gtd.org"))
+(set-register ?p '(file . "~/.emacs.d/GTD/projects.org"))
+(set-register ?h '(file . "~/.emacs.d/GTD/habits.org"))
+(set-register ?C '(file . "~/.emacs.d/GTD/chores.org"))
+(set-register ?c '(file . "~/.emacs.d/GTD/calendar.org"))
+(set-register ?n '(file . "~/.emacs.d/GTD/next.org"))
+(set-register ?r '(file . "~/.emacs.d/GTD/reference.org"))
+(set-register ?b '(file . "~/.emacs.d/GTD/books.org"))
+(set-register ?m '(file . "~/.emacs.d/GTD/maybe.org"))
+(set-register ?G '(file . "~/.emacs.d/GTD/get.org"))
+(set-register ?j '(file . "~/.emacs.d/GTD/journal.org"))
 ;; minimal interface
 (scroll-bar-mode -1)        ; Disable visible scrollbar
 (tool-bar-mode -1)          ; Disable the toolbar
@@ -40,11 +50,12 @@
 (setq org-agenda-span 1)
 (setq org-habit-show-habits-only-for-today nil)
 (setq org-agenda-repeating-timestamp-show-all nil)
+(setq org-log-into-drawer 1) ;; automatically logs state changes and notes into LOGBOOK drawer
 
 
 
 ;; ;; set up ido mode everywhere
-;; ;; (setq ido-enable-flex-matching t)
+ ;; ;; (setq ido-enable-flex-matching t)
 ;; ;; (setq ido-everywhere t)
 ;; ;; (ido-mode 1)
 
@@ -77,11 +88,11 @@
 
 ;; org capture templates
 (setq org-capture-templates
-      '(("t" "Todo" entry (file+headline "~/Org/main.org" "Tasks")
+      '(("t" "Todo" entry (file+headline "~/.emacs.d/GTD/projects.org" "Tasks")
          "* TODO %?\n  %i\n  %a")
-        ("j" "Journal" entry (file+datetree "~/Org/journal.org")
+        ("j" "Journal" entry (file+datetree "~/.emacs.d/GTD/journal.org")
          "* %?\nEntered on %U\n  %i\n  %a")
-	("Q" "quotation" entry (file+headline "~/Org/library.org" "Quotes")
+	("Q" "quotation" entry (file+headline "~/.emacs.d/GTD/reference.org" "Quotes")
          "* %?\nEntered on %U\n  %i\n  %a")
 	))
 
@@ -102,7 +113,7 @@
 (defun org-habit-create (HABIT INTERVAL)
   "makes a new HABIT in an org mode file "
   (interactive "Mhabit: \nMinterval: ")
-  (insert "** R " HABIT)
+  (insert "** H " HABIT)
   (newline)
   (insert "SCHEDULED: ")
   (org-date-from-calendar)
@@ -122,7 +133,14 @@
   (insert ":END:")
   )
 
-
+(defun org-drill-new-table (VOCAB_SECTION_NAME)
+  "Makes format for new table for org drill mode under VOCAB_SECTION_NAME"
+  (interactive "sVOCAB Section Name: ")
+  (insert "** ")
+  (insert VOCAB_SECTION_NAME)
+  (newline)
+  (insert-file "~/Org/templates/org-drill-new-table-template.txt")
+  )
 
 
 ;; ;;
@@ -269,17 +287,70 @@
  '(custom-enabled-themes '(doom-palenight))
  '(custom-safe-themes
    '("c83c095dd01cde64b631fb0fe5980587deec3834dc55144a6e78ff91ebc80b19" default))
- '(initial-buffer-choice "~/Org/main.org")
+ '(initial-buffer-choice "~/.emacs.d/GTD/gtd.org")
+ '(org-agenda-custom-commands
+   '(("d" "Daily View"
+      ((todo "NXT"
+	     ((org-agenda-overriding-header "Next Tasks")))
+       (agenda ""
+	       ((org-agenda-overriding-header "Habits and Chores")))
+       (todo "PROJ"
+	     ((org-agenda-overriding-header "PROJECTS LIST"))))
+      nil nil)
+     ("n" "Next Tasks" todo "NXT"
+      ((org-agenda-overriding-header "Next Tasks")))
+     ("h" "habits" todo "H"
+      ((org-agenda-overriding-header "Habits")))
+     ("c" "Chores" todo "C"
+      ((org-agenda-overriding-header "Chores")))))
  '(org-agenda-files
-   '("~/.emacs.d/Org/main.org" "~/Org/journal.org" "~/Org/main.org"))
+   '("~/.emacs.d/GTD/calendar.org" "~/.emacs.d/GTD/chores.org" "~/.emacs.d/GTD/projects.org" "~/.emacs.d/GTD/habits.org" "~/.emacs.d/Org/main.org" "~/Org/main.org"))
  '(org-capture-templates
-   '(("q" "Quotations" entry
-      (file "\"~/Org/libary.org\"")
-      "\"testing 123\"")))
+   '(("G" "Getting things")
+     ("Gg" "Grocery")
+     ("GgM" "Mi super" entry
+      (file+olp "~/.emacs.d/GTD/get.org" "Grocery" "Mi Super")
+      "* %?")
+     ("G" "Getting things")
+     ("Gg" "Grocery")
+     ("Ggm" "mini super" entry
+      (file+olp "~/.emacs.d/GTD/get.org" "Grocery" "mini super")
+      "* %?")
+     ("G" "Getting things")
+     ("Gg" "Grocery")
+     ("Ggd" "Dispensa" entry
+      (file+olp "~/.emacs.d/GTD/get.org" "Grocery" "Dispensa")
+      "* %?")
+     ("n" "NXT task" entry
+      (file+headline "~/.emacs.d/GTD/next.org" "Next Tasks")
+      "** NXT %? %t")
+     ("m" "MYB task" entry
+      (file+headline "~/.emacs.d/GTD/maybe.org" "Maybe Tasks")
+      "** MYB %? %t")
+     ("r" "Reading List" entry
+      (file+headline "~/.emacs.d/GTD/books.org" "Reading List")
+      "** %?")
+     ("t" "Todo" entry
+      (file+headline "~/.emacs.d/GTD/projects.org" "Tasks")
+      "* TODO %?
+  %i
+  %a")
+     ("j" "Journal" entry
+      (file+olp+datetree "~/.emacs.d/GTD/journal.org")
+      "* %?
+Entered on %U
+  %i
+  %a")
+     ("Q" "quotation" entry
+      (file+headline "~/.emacs.d/GTD/reference.org" "Quotes")
+      "* %?
+Entered on %U
+  %i
+  %a")))
  '(org-modules
    '(ol-bbdb ol-bibtex ol-docview ol-eww ol-gnus org-habit ol-info ol-irc ol-mhe ol-rmail ol-w3m))
  '(package-selected-packages
-   '(rainbow-delimiters smartparens doom-themes org-drill-table org-drill)))
+   '(org-brain rainbow-delimiters smartparens doom-themes org-drill-table org-drill)))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.

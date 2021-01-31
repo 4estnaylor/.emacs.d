@@ -1,5 +1,11 @@
-* TODO bake cake for lucy
+* DONE bake cake for lucy
   SCHEDULED: <2021-01-23 Sat>
 
-* TODO pay water bill 
+* DONE pay water bill 
   SCHEDULED: <2021-01-23 Sat>
+* Get haircut 
+  SCHEDULED: <2021-02-01 lun>
+* Covid Tests for Guate
+  SCHEDULED: <2021-01-30 sáb>
+* withdraw 2400 lps for Guate 
+  SCHEDULED: <2021-01-30 sáb>

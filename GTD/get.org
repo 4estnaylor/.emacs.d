@@ -1,0 +1,16 @@
+ #+SEQ_TODO: GET(g) | Done(d) 
+
+* Grocery
+** Dispensa
+*** Done Rum
+** Mi Super
+*** Done confectionary sugar
+*** GET nuts
+** mini super
+*** Done milk
+*** Done tortillas
+*** Done cake mix
+* Tech
+* Household
+** GET power strip
+* Misc
