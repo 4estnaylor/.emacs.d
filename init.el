@@ -16,7 +16,7 @@
 (global-set-key (kbd "C-c m") 'magit-status)
 (global-set-key (kbd "C-c i") 'org-agenda-clock-in)
 (global-set-key (kbd "C-c o") 'org-agenda-clock-out)
-
+(global-set-key (kbd "C-c g") 'magit-status)
 
 
 ;; register important files

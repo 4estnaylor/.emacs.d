@@ -30,6 +30,15 @@
     :END:
  :LOGBOOK:
  :END:
+*** C go to Mini Super
+    SCHEDULED: <2021-02-05 vie .+1w>
+    :PROPERTIES:
+    :STYLE:    habit
+    :LAST_REPEAT: [2021-01-29 vie 23:01]
+    :END:
+ :LOGBOOK:
+ - State "DONE"       from "C"          [2021-01-29 vie 23:01]
+ :END:
 ** Tuesday
 *** C text Killian
     SCHEDULED: <2021-02-02 mar .+7d>
@@ -60,6 +69,15 @@
     :END:
  :LOGBOOK:
  :END:
+*** C go to Dispensa
+    SCHEDULED: <2021-02-05 vie .+1w>
+    :PROPERTIES:
+    :STYLE:    habit
+    :LAST_REPEAT: [2021-01-29 vie 23:01]
+    :END:
+ :LOGBOOK:
+ - State "DONE"       from "C"          [2021-01-29 vie 23:01]
+ :END:
 ** Thursday
 *** C text Dad
     SCHEDULED: <2021-01-28 jue .+7d>
@@ -79,10 +97,28 @@
  - State "DONE"       from "C"          [2021-01-29 vie 13:08]
  :END:
 *** C update grades
-    SCHEDULED: <2021-01-29 vie .+7d>
+    SCHEDULED: <2021-02-05 vie .+7d>
+    :PROPERTIES:
+    :STYLE:    habit
+    :LAST_REPEAT: [2021-01-29 vie 23:45]
+    :END:
+ :LOGBOOK:
+ - State "DONE"       from "C"          [2021-01-29 vie 23:45]
+ :END:
+*** C go to Mi Super
+    SCHEDULED: <2021-02-05 vie .+1w>
+    :PROPERTIES:
+    :STYLE:    habit
+    :LAST_REPEAT: [2021-01-29 vie 23:01]
+    :END:
+ :LOGBOOK:
+ - State "DONE"       from "C"          [2021-01-29 vie 23:01]
+ :END:
+** Sat
+*** C go to market
+    SCHEDULED: <2021-01-30 sáb .+1w>
     :PROPERTIES:
     :STYLE:    habit
     :END:
  :LOGBOOK:
  :END:
-** Sat
