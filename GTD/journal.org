@@ -1,11 +1,12 @@
- #+SEQ_TODO: DG (g) | DONE(d) 
+ #+SEQ_TODO: DG(g) | DONE(d) 
 
 * January
 ** 28
 *** goals
-- [X] Complete Habits
-- [X] Read to at least 35% of GTD
-- [X] Do at least 30 pull ups
+
+**** DONE Complete Habits
+**** DONE Read to at least 35% of GTD
+**** DONE Do at least 30 pull ups
 *** notes
 
 Today went well, I read GTD some more, and that gave me some more motivation to be productive and organized. Obviously it's been a bit of a rocky road since I started Jan 1 more or less, but I think it's a good sign 
@@ -15,17 +16,27 @@ I went to Veronica's interview on a local Christian TV station. It was ano hour 
 
 ** 29
 *** goals
-- [X] Get Vero to go on a walk
-- [ ] Read to at least 60% of GTD
-- [X] Make Veggie Burgers for Vero
+**** DG Get Vero to go on a walk
+**** DONE Read to at least 60% of GTD
+**** DG Make Veggie Burgers for Vero
 ** 30
 *** goals
-    - [X] yoga
-    - [ ] eat before traveling
-    - [X] relax and enjoy
+**** DONE yoga 
+**** DONE eat before traveling
+**** DONE relax and enjoy time
+
+ yoga
+      eat before traveling
+      relax and enjoy
 ** 31 
-*** G goals [0/3]
+*** G goals [1/3]
 **** DG create forrestnaylor@mayatan.org email account - Jan 31
-**** DG have fun with Maria, Ben and Vero - Jan 31
+**** DONE have fun with Maria, Ben and Vero - Jan 31
 **** DG work on system to log words on phone and share with emacs - Jan 31
 *** entry
+Today was a pretty good day. I find that I am still pretty easily distracted at times, but I am getting much more organized. More meditation may help increase my ability to focus. I'm beginning to feel the effects of regularly practicing with emacs. It is becoming an incredibly powerful tool, while still admittedly taking much of my time.
+Today I did a yoga practice with Vero about feeling 'loving compassion' as a a way to be less critical of our self and others, I think it is a good practice that maybe I can start practicing daily. 
+
+On one hand, I feel myself getting older as a 27 and a half year old, on the other hand I feel like I am making good use of time. One major source of stress is finances. Fortunately, I don't have any very immediate concerns because I was born into my family, but I am disattisfied with 
+(1) the nagging feeling that I am a net drag on myself, my family, and society. It is a genearl feeling of decay, disturbing in a way captured well by the story: the fall of the House of Usher.
+(2) the thoughts that if I one day have a family/children, I will not be able them opportunites similar to those that I was graced with. 

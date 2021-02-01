@@ -1,10 +1,12 @@
- #+SEQ_TODO: NXT(n) | DONE(d) CANCELLED(c) 
+#+SEQ_TODO: NXT(n) | DONE(d) CANCELLED(c) 
+#+ARCHIVE: ~/.emacs.d/GTD/archives/next_archive.org
+
 * Next Tasks
 ** NXT buy power strip 
 ** NXT Organize desk wires
 ** NXT clear matress area
 ** NXT Make bills plan
-** DONE fix lightbulb 
 ** NXT Create career planning document
 ** NXT complete dad's website
-** testing 123
+** NXT learn how to read emails using emacs
+** NXT watch Youtube video on using emacs with email - Jan 31

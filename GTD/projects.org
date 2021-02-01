@@ -72,3 +72,13 @@ Submit completed Application to Georgia Tech Online Masters Program
     - passport
     - phone charger
 
+* PROJ figure out how to get Jenn 3000 
+  DEADLINE: <2021-02-14 dom>
+** Look at Schwabb account
+** Look at Occidente account
+** Send info to Jessenia
+** Text/Call Mom
+* PROJ smooth emacs over
+** TD figure out how to insert timestamps
+** TD more elegant template for journal mode
+** TD consider dilemma of having NXT tasks both in Project folder, and unique NXT folder

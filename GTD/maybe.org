@@ -1,7 +1,10 @@
  #+SEQ_TODO: MYB(b) | DONE(d) CANCELLED(c) 
 * Maybe Tasks
-** create video and photography library <2021-01-29 vie>
-** buy new desk chair/fix desk chair <2021-01-29 vie>
-** Establish Vero working area <2021-01-29 vie>
+** MYB create video and photography library <2021-01-29 vie>
+** MYB buy new desk chair/fix desk chair <2021-01-29 vie>
+** MYB Establish Vero working area <2021-01-29 vie>
 ** MYB add holidays to calendar <2021-01-29 vie>
 ** MYB Create travel planning document <2021-01-29 vie>
+** MYB Work on Udemy Krita Tutorail <2021-01-31 dom>
+** MYB Get Vero's electric Piano and Start Practicing - Jan 31
+** MYB Create Goals -> daily, weekly, monthly, yearly

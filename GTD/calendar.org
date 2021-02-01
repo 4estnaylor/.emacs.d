@@ -9,3 +9,7 @@
   SCHEDULED: <2021-01-30 sáb>
 * DONE withdraw 2400 lps for Guate 
   SCHEDULED: <2021-01-30 sáb>
+* Pay Rent
+  SCHEDULED: <2021-02-01 lun>
+* TODO Get grades up to date on Alma for 2nd period
+  SCHEDULED: <2021-02-01 lun>

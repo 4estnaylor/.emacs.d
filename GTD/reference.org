@@ -42,4 +42,11 @@
  Entered on [2021-01-28 jue 10:14]
   
    [[file:~/.emacs.d/GTD/reference.org::*Quotes][Quotes]]
+** What lies in our power to do, lies in our power not to do.
+** Every now and then go away and have a little relaxation. To reamin constantly at work will diminish your judgment. Go some distance away, because work will be in perspective and a lack of harmony is more readily seen.
+- Leonardo da Vinic
+** In order to understand the world, on has to run away from it on ocassion.
 
+-- Albert Camus
+**  The message is: positive future thinking is critical and fabulous, but it's most effectively manifested when it is tied to a confidence of execution in  the material world, with responsiveness and course correction built in.
+ Source: GTD

@@ -143,6 +143,10 @@
   )
 
 
+(defun timestamp ()
+   (interactive)
+   (insert (format-time-string "%d-%m-%y")))
+
 ;; ;;
 ;; ;;
 ;; ;;
@@ -304,9 +308,12 @@
      ("c" "Chores" todo "C"
       ((org-agenda-overriding-header "Chores")))))
  '(org-agenda-files
-   '("~/.emacs.d/GTD/get.org" "~/.emacs.d/GTD/journal.org" "~/.emacs.d/GTD/next.org" "~/.emacs.d/GTD/calendar.org" "~/.emacs.d/GTD/chores.org" "~/.emacs.d/GTD/projects.org" "~/.emacs.d/GTD/habits.org" "~/.emacs.d/Org/main.org" "~/Org/main.org"))
+   '("~/.emacs.d/GTD/journal.org" "~/.emacs.d/GTD/get.org" "~/.emacs.d/GTD/next.org" "~/.emacs.d/GTD/calendar.org" "~/.emacs.d/GTD/chores.org" "~/.emacs.d/GTD/projects.org" "~/.emacs.d/GTD/habits.org" "~/.emacs.d/Org/main.org" "~/Org/main.org"))
  '(org-capture-templates
-   '(("G Getting things" "getting things")
+   '(("J" "journal template" entry
+      (file "~/.emacs.d/GTD/journal.org")
+      (file "~/.emacs.d/GTD/templates/journal_tmp.txt"))
+     ("G Getting things" "getting things")
      ("Gh" "household" entry
       (file+olp "~/.emacs.d/GTD/get.org" "Household")
       "* GET %?")
@@ -327,7 +334,7 @@
       "* %?")
      ("n" "NXT task" entry
       (file+headline "~/.emacs.d/GTD/next.org" "Next Tasks")
-      "** NXT %? %t")
+      "** NXT %? %u")
      ("m" "MYB task" entry
       (file+headline "~/.emacs.d/GTD/maybe.org" "Maybe Tasks")
       "** MYB %? %t")
@@ -348,9 +355,7 @@ Entered on %U
      ("Q" "quotation" entry
       (file+headline "~/.emacs.d/GTD/reference.org" "Quotes")
       "* %?
-Entered on %U
-  %i
-  %a")))
+Source: ")))
  '(org-modules
    '(ol-bbdb ol-bibtex ol-docview ol-eww ol-gnus org-habit ol-info ol-irc ol-mhe ol-rmail ol-w3m))
  '(package-selected-packages
