@@ -2,11 +2,12 @@
 #+ARCHIVE: ~/.emacs.d/GTD/archives/next_archive.org
 
 * Next Tasks
-** NXT buy power strip 
-** NXT Organize desk wires
+** DONE buy power strip 
+** DONE Organize desk wires
 ** NXT clear matress area
 ** NXT Make bills plan
 ** NXT Create career planning document
 ** NXT complete dad's website
 ** NXT learn how to read emails using emacs
 ** NXT watch Youtube video on using emacs with email - Jan 31
+** NXT Contribute to [[file:areas_of_focus.org::*Build and nuture a social net][Areas of Focus]] [2021-02-01 lun]

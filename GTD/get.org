@@ -6,6 +6,7 @@
 ** Mi Super
 *** Done confectionary sugar
 *** GET nuts
+*** GET Lentejas
 ** mini super
 *** Done milk
 *** Done tortillas

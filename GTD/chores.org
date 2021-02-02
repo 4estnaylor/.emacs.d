@@ -30,11 +30,13 @@
  :END:
 ** Monday
 *** C trash
-    SCHEDULED: <2021-02-01 lun .+7d>
+    SCHEDULED: <2021-02-08 lun .+7d>
     :PROPERTIES:
     :STYLE:    habit
+    :LAST_REPEAT: [2021-02-01 lun 13:04]
     :END:
  :LOGBOOK:
+ - State "DONE"       from "C"          [2021-02-01 lun 13:04]
  :END:
 *** C go to Mini Super
     SCHEDULED: <2021-02-05 vie .+1w>
@@ -124,11 +126,13 @@
  :END:
 ** Sat
 *** C go to market
-    SCHEDULED: <2021-01-30 sáb .+1w>
+    SCHEDULED: <2021-02-08 lun .+1w>
     :PROPERTIES:
     :STYLE:    habit
+    :LAST_REPEAT: [2021-02-01 lun 22:09]
     :END:
  :LOGBOOK:
+ - State "DONE"       from "C"          [2021-02-01 lun 22:09]
  :END:
 
 

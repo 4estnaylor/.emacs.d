@@ -29,10 +29,10 @@ I went to Veronica's interview on a local Christian TV station. It was ano hour 
       eat before traveling
       relax and enjoy
 ** 31 
-*** G goals [1/3]
-**** DG create forrestnaylor@mayatan.org email account - Jan 31
+*** G goals [3/3]
+**** DONE create forrestnaylor@mayatan.org email account - Jan 31
 **** DONE have fun with Maria, Ben and Vero - Jan 31
-**** DG work on system to log words on phone and share with emacs - Jan 31
+**** DONE work on system to log words on phone and share with emacs - Jan 31
 *** entry
 Today was a pretty good day. I find that I am still pretty easily distracted at times, but I am getting much more organized. More meditation may help increase my ability to focus. I'm beginning to feel the effects of regularly practicing with emacs. It is becoming an incredibly powerful tool, while still admittedly taking much of my time.
 Today I did a yoga practice with Vero about feeling 'loving compassion' as a a way to be less critical of our self and others, I think it is a good practice that maybe I can start practicing daily. 
@@ -40,3 +40,14 @@ Today I did a yoga practice with Vero about feeling 'loving compassion' as a a w
 On one hand, I feel myself getting older as a 27 and a half year old, on the other hand I feel like I am making good use of time. One major source of stress is finances. Fortunately, I don't have any very immediate concerns because I was born into my family, but I am disattisfied with 
 (1) the nagging feeling that I am a net drag on myself, my family, and society. It is a genearl feeling of decay, disturbing in a way captured well by the story: the fall of the House of Usher.
 (2) the thoughts that if I one day have a family/children, I will not be able them opportunites similar to those that I was graced with. 
+* [2021-02-01 lun]
+** Goals [3/3]
+*** DONE Use Krita 1/2
+*** DONE Read to 70% of GTD 1/2
+*** DONE Watch Emacs email video
+** Notes
+Today I was very productive and managed to avoid looking at Reddit. Definitely helped to get the application off of my phone. 
+
+Vero had a tough day because her parents were complaining that she might not be doing enough to keep our relationship healthy: between traveling, and being less than active at times.
+
+I feel a little off too. I regularly think about Jenn. I still remember bad times too though. I just feel not at ease, and uncomfortable often when I am in town.

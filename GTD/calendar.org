@@ -9,7 +9,10 @@
   SCHEDULED: <2021-01-30 sáb>
 * DONE withdraw 2400 lps for Guate 
   SCHEDULED: <2021-01-30 sáb>
-* Pay Rent
-  SCHEDULED: <2021-02-01 lun>
-* TODO Get grades up to date on Alma for 2nd period
+* Pay Rent [1/2]
+** DONE payment 1 (3000)
+** TODO payment 2 (3000)
+   SCHEDULED: <2021-02-02 mar>
+
+* DONE Get grades up to date on Alma for 2nd period
   SCHEDULED: <2021-02-01 lun>

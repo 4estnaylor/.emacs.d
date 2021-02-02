@@ -82,3 +82,9 @@ Submit completed Application to Georgia Tech Online Masters Program
 ** TD figure out how to insert timestamps
 ** TD more elegant template for journal mode
 ** TD consider dilemma of having NXT tasks both in Project folder, and unique NXT folder
+* PROJ email with emacs [/] 
+** install isync
+** look into [[file:~/Desktop/clean/mastering-emacs-v3.epub][mastering emacs]]
+
+** configure mbsync
+** continue with [[https://www.youtube.com/watch?v=yZRyEhi4y44&list=PLEoMzSkcN8oM-kA19xOQc8s0gr0PpFGJQ&index=1][youtube video series]]

@@ -294,7 +294,9 @@
  '(initial-buffer-choice "~/.emacs.d/GTD/gtd.org")
  '(org-agenda-custom-commands
    '(("d" "Daily View"
-      ((todo "NXT"
+      ((todo "DG"
+	     ((org-agenda-overriding-header "Daily Goals")))
+       (todo "NXT"
 	     ((org-agenda-overriding-header "Next Tasks")))
        (agenda ""
 	       ((org-agenda-overriding-header "Habits and Chores")))
