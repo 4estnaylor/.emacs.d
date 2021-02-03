@@ -49,11 +49,13 @@
  :END:
 ** Tuesday
 *** C text Killian
-    SCHEDULED: <2021-02-02 mar .+7d>
+    SCHEDULED: <2021-02-09 mar .+7d>
     :PROPERTIES:
     :STYLE:    habit
+    :LAST_REPEAT: [2021-02-02 mar 21:00]
     :END:
  :LOGBOOK:
+ - State "DONE"       from "C"          [2021-02-02 mar 21:00]
  :END:
 ** Wednesday
 *** C trash

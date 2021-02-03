@@ -1,4 +1,5 @@
  #+SEQ_TODO: TD(t) NXT(n) MYB(m) S(s) R(r) PROJ(p) | DONE(d) CANCELLED(c) 
+  
 
 
 Projects
@@ -79,9 +80,13 @@ Submit completed Application to Georgia Tech Online Masters Program
 ** Send info to Jessenia
 ** Text/Call Mom
 * PROJ smooth emacs over
-** TD figure out how to insert timestamps
-** TD more elegant template for journal mode
-** TD consider dilemma of having NXT tasks both in Project folder, and unique NXT folder
+** DONE figure out how to insert timestamps
+** DONE more elegant template for journal mode
+** DONE consider dilemma of having NXT tasks both in Project folder, and unique NXT folder
+** TD create archiving system for each org file: calendar, projects, reference, wait, next, and maybe
+** TD figure out how to move org mode TODOs from one file to another easily
+** TD figure out how to easily label all sub tasks under a project's tag
+
 * PROJ email with emacs [/] 
 ** install isync
 ** look into [[file:~/Desktop/clean/mastering-emacs-v3.epub][mastering emacs]]

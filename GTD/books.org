@@ -1,13 +1,57 @@
 * Current Book(s)
 ** Casa en Mango Street
-** Getting Things Done
-Important Takeaways
--> Capture Everyting
-    -> Make capture fast and fun
--> Any tasks less than 2 mins, do immediately
--> Have a general reference file
-->  
- * Completed List
-** Atomic Habits
 * Reading List
+** The Organized Mind
+-- Daniel LEvitin
+** Willpower
+-- Dr. Roy Baumeister
+* Finished Books(s) 
+** Getting Things Done
+ Important Takeaways
+ -> Capture Everyting
+     -> Make capture fast and fun
+ -> Any tasks less than 2 mins, do immediately
+ -> Have a general reference file
+ :NOTES:
+ Overall a useful and popular book on organization, task manangement, and life planning. 
+ Commonly acronym is GTD
 
+ Key take aways:
+ Capture Everything -> If it's not in my head as an 'open loop' it's not consuming my energy/thoughts. 
+ People are good at recognize and creating patterns, they are bad at storing information for memory, hence it's important to figurative 'clear our ram' by emptying evertyhing out into our GTD system.
+
+ It is a process -> Overtime using the GTD system becomes more second nature. As we become more fluent in its use we move from mastering lower tier daily task management to higher tier value fufillment goals. It emphasizes starting from mundane lower tier things rather than loft value fullfillment type things. 
+
+ Research:
+ Some research backs GTD systems specifically. More generally recognition that staying in a flo like state (one action at a time) and avoiding accumilating cognitive debris from many open ended projects by storing them in your mind rather than in some information system is bad. 
+
+ Personal take: I think Emacs may be a good way to use the getting things done system wholistically. The advantages to avoiding using physical paper and having multiple discrete locations can largely be overcome by storing GTD components in seperate files with clear, clean borders.
+
+ Emacs also means the in tray is less necessary and often times information can be captured in a specific format (i.e. next, reference, someday, etc...)
+
+ One issue that still remains is dealing with Next items that come from both projects and as one offs.
+
+ Overview of system:
+ Everything goes into in.org (skippable step with emacs?)
+ Everythings in in regularly gets categorized into the following possible 'buckets':
+ - calendar.org (used sparingly for tasks that MUST be done on a certain date
+ - projects.org anything that requires more than one single action. Should have a NEXT action associated with it.
+ - reference.org information that is not actionable
+ - wait.org tasks that must be completed by some other person or party
+ - next.org tasks that are ready to be completed 
+ - maybe.org tasks that are maybe to be taken up, helps to get these down even if I later decide not to do them.
+
+ => needs archiving system decision:
+ likely sepearte files for each document. 
+ => needs function for easily moving tasks (subtrees) from one document to another
+ ie maybe -> projects
+ ie. projects -> next
+
+ => needs system to tag all tasks under a certain project with project tag
+
+ 
+
+
+
+ :END:
+  * Completed List

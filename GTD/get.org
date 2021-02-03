@@ -6,12 +6,12 @@
 ** Mi Super
 *** Done confectionary sugar
 *** GET nuts
-*** GET Lentejas
+*** Done Lentejas
 ** mini super
 *** Done milk
 *** Done tortillas
 *** Done cake mix
 * Tech
 * Household
-** GET power strip
+** Done power strip
 * Misc

@@ -301,7 +301,9 @@
        (agenda ""
 	       ((org-agenda-overriding-header "Habits and Chores")))
        (todo "PROJ"
-	     ((org-agenda-overriding-header "PROJECTS LIST"))))
+	     ((org-agenda-overriding-header "PROJECTS LIST")))
+       (todo "WG"
+	     ((org-agenda-overriding-header "Weekly Goals"))))
       nil nil)
      ("n" "Next Tasks" todo "NXT"
       ((org-agenda-overriding-header "Next Tasks")))
@@ -310,7 +312,7 @@
      ("c" "Chores" todo "C"
       ((org-agenda-overriding-header "Chores")))))
  '(org-agenda-files
-   '("~/.emacs.d/GTD/journal.org" "~/.emacs.d/GTD/get.org" "~/.emacs.d/GTD/next.org" "~/.emacs.d/GTD/calendar.org" "~/.emacs.d/GTD/chores.org" "~/.emacs.d/GTD/projects.org" "~/.emacs.d/GTD/habits.org" "~/.emacs.d/Org/main.org" "~/Org/main.org"))
+   '("~/.emacs.d/GTD/goals/weekly_goals.org" "~/.emacs.d/GTD/journal.org" "~/.emacs.d/GTD/get.org" "~/.emacs.d/GTD/next.org" "~/.emacs.d/GTD/calendar.org" "~/.emacs.d/GTD/chores.org" "~/.emacs.d/GTD/projects.org" "~/.emacs.d/GTD/habits.org" "~/.emacs.d/Org/main.org" "~/Org/main.org"))
  '(org-capture-templates
    '(("J" "journal template" entry
       (file "~/.emacs.d/GTD/journal.org")

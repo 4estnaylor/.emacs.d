@@ -10,4 +10,6 @@
 ** NXT complete dad's website
 ** NXT learn how to read emails using emacs
 ** NXT watch Youtube video on using emacs with email - Jan 31
-** NXT Contribute to [[file:areas_of_focus.org::*Build and nuture a social net][Areas of Focus]] [2021-02-01 lun]
+** DONE Contribute to [[file:areas_of_focus.org::*Build and nuture a social net][Areas of Focus]] [2021-02-01 lun]
+** NXT Find a new book to read [2021-02-02 mar]
+** NXT Get haircut

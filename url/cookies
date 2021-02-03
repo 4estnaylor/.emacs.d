@@ -4,10 +4,16 @@
 (setq url-cookie-storage
  'nil)
 (setq url-cookie-secure-storage
- '((".wikipedia.org"
-  [url-cookie "WMF-Last-Access-Global" "01-Feb-2021" "Fri, 05 Mar 2021 12:00:00 GMT" "/" ".wikipedia.org" t])
- ("en.wikipedia.org"
-  [url-cookie "WMF-Last-Access" "01-Feb-2021" "Fri, 05 Mar 2021 12:00:00 GMT" "/" "en.wikipedia.org" t]))
+ '(("en.wikipedia.org"
+  [url-cookie "WMF-Last-Access" "01-Feb-2021" "Fri, 05 Mar 2021 12:00:00 GMT" "/" "en.wikipedia.org" t])
+ (".reddit.com"
+  [url-cookie "loid" "0000000000a4uu6srf.2.1612282240000.Z0FBQUFBQmdHWG1BcnJybjlPZVZjZ0l4TzdCV204REo3X3VMYUNWQ0RreEpLSHJGcjlodzBaOTlvcjZEbEtyQ21MT09lVWE3S0tmSnd3V1JUcUttanlWeXRSUU9jZlZLMnVDX0lVTHB2M3Zpb3ZMMkJEQXQ2VENpUFJLNEJlYy1rYnNUcDZEajJyeHA" "Thu, 02 Feb 2023 16:10:40 GMT" "/" ".reddit.com" t]
+  [url-cookie "csv" "1" "jue feb 02 16:10:44 2023 GMT" "/" ".reddit.com" t])
+ ("reddit.com"
+  [url-cookie "token_v2" "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MTIyODU3MjAsInN1YiI6Ii1CUjBwcG54eXpIdXF1b25aY19uQWs5Z1JIaDAiLCJsb2dnZWRJbiI6ZmFsc2UsInNjb3BlcyI6WyIqIiwiZW1haWwiXX0.xPQcx3K6UgfmrDUekEwkN_Hmf3GlSBAp7p7fUCQOmUA" "Thu, 02 Feb 2023 16:10:40 GMT" "/" "reddit.com" t]
+  [url-cookie "edgebucket" "9IoRUo3VqAXJlBrKb0" "jue feb 02 16:10:43 2023 GMT" "/" "reddit.com" t])
+ (".wikipedia.org"
+  [url-cookie "WMF-Last-Access-Global" "01-Feb-2021" "Fri, 05 Mar 2021 12:00:00 GMT" "/" ".wikipedia.org" t]))
 )
 
 ;; Local Variables:

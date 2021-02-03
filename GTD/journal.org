@@ -1,3 +1,4 @@
+
  #+SEQ_TODO: DG(g) | DONE(d) 
 
 * January
@@ -16,7 +17,7 @@ I went to Veronica's interview on a local Christian TV station. It was ano hour 
 
 ** 29
 *** goals
-**** DG Get Vero to go on a walk
+**** DONE Get Vero to go on a walk
 **** DONE Read to at least 60% of GTD
 **** DG Make Veggie Burgers for Vero
 ** 30
@@ -51,3 +52,9 @@ Today I was very productive and managed to avoid looking at Reddit. Definitely h
 Vero had a tough day because her parents were complaining that she might not be doing enough to keep our relationship healthy: between traveling, and being less than active at times.
 
 I feel a little off too. I regularly think about Jenn. I still remember bad times too though. I just feel not at ease, and uncomfortable often when I am in town.
+* [2021-02-02 mar]
+** Goals [3/3]
+*** DONE Make an animation explanation
+*** DONE Get to at least 90% of GTD
+*** DONE Do Krita on Udemy
+** Notes
