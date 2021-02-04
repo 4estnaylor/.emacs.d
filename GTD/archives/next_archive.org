@@ -1,0 +1,26 @@
+* DONE Buy Powerstrip
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2021-02-03 mié 14:58
+  :ARCHIVE_FILE: ~/.emacs.d/GTD/next.org
+  :ARCHIVE_OLPATH: Next Tasks
+  :ARCHIVE_CATEGORY: next
+  :ARCHIVE_TODO: DONE
+  :END:
+
+* DONE Organize desk wires
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2021-02-03 mié 14:58
+  :ARCHIVE_FILE: ~/.emacs.d/GTD/next.org
+  :ARCHIVE_OLPATH: Next Tasks
+  :ARCHIVE_CATEGORY: next
+  :ARCHIVE_TODO: DONE
+  :END:
+
+* DONE Contribute to [[file:areas_of_focus.org::*Build and nuture a social net][Areas of Focus]] [2021-02-01 lun]
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2021-02-03 mié 14:58
+  :ARCHIVE_FILE: ~/.emacs.d/GTD/next.org
+  :ARCHIVE_OLPATH: Next Tasks
+  :ARCHIVE_CATEGORY: next
+  :ARCHIVE_TODO: DONE
+  :END:

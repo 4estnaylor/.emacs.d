@@ -109,15 +109,139 @@ Vocabulary Sheet
 | los dientes de chivo | goat teeth (bottom teeth?) | Efrencito se rompió los dientes de chivo en el parquímetro                                                                                                                                        |
 | parquímetro          | parking meter              | Efrencito se rompió los dientes de chivo en el parquímetro                                                                                                                                        |
 
+** Alicia que ve ratones
+   :PROPERTIES:
+   :DRILL_HEADING: Alicia que ve ratones
+   :DRILL_CARD_TYPE: twosided
+   :DRILL_INSTRUCTIONS:
+   :END:
+| Español   | Inglés                                                                                                                                                        | Contexto |
+|-----------+---------------------------------------------------------------------------------------------------------------------------------------------------------------+----------|
+| alcanzas  | reach, achieve, attain                                                                                                                                        |          |
+| fregadero | sink                                                                                                                                                          |          |
+| garras    | claws, jaws, trap                                                                                                                                             |          |
+| duelas    | staves:  one of the narrow strips of wood or iron plates that form the sides, covering, or lining of something (as a barrel) 2 : a wooden stick : staff. stav |          |
+| hinchada  | swollen                                                                                                                                                       |          |
+| compone   | mend, fix, refit, integrate                                                                                                                                   |          |
+| lonche    | lunch                                                                                                                                                         |          |
+| amasar    | knead                                                                                                                                                         |          |
+
+
+
 
 
 *** Cards                                                          :noexport:
 
-**** Marín                                                            :drill:
-     SCHEDULED: <2021-01-25 lun>
+**** Alicia que ve ratones                                            :drill:
+     SCHEDULED: <2021-02-07 dom>
      :PROPERTIES:
      :DRILL_CARD_TYPE: twosided
-     :ID:       070ceacc-478e-4f0a-9c65-7c8bd3b46f28
+     :ID:       041336d4-e65b-45e8-9536-c289172ba3ab
+     :DRILL_LAST_INTERVAL: 4.0
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 4.0
+     :DRILL_EASE: 2.5
+     :DRILL_LAST_QUALITY: 4
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:29]
+     :END:
+
+***** Español
+alcanzas
+
+***** Inglés
+reach, achieve, attain
+
+**** Alicia que ve ratones                                            :drill:
+     SCHEDULED: <2021-02-07 dom>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       ec81cc76-d608-4c12-a24d-d30e4a871abb
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 2
+     :DRILL_FAILURE_COUNT: 1
+     :DRILL_AVERAGE_QUALITY: 2.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:30]
+     :END:
+
+***** Español
+fregadero
+
+***** Inglés
+sink
+
+**** Alicia que ve ratones                                            :drill:
+     SCHEDULED: <2021-02-07 dom>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       def0ff57-2d8e-4225-baf3-48036d8ff45e
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 2
+     :DRILL_FAILURE_COUNT: 1
+     :DRILL_AVERAGE_QUALITY: 2.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:35]
+     :END:
+
+***** Español
+garras
+
+***** Inglés
+claws, jaws, trap
+
+**** Alicia que ve ratones                                            :drill:
+     SCHEDULED: <2021-02-07 dom>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       ac270f72-ab91-4712-83d2-fe907fd03b6d
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 2
+     :DRILL_FAILURE_COUNT: 1
+     :DRILL_AVERAGE_QUALITY: 2.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:33]
+     :END:
+
+***** Español
+duelas
+
+***** Inglés
+staves:  one of the narrow strips of wood or iron plates that form the sides, covering, or lining of something (as a barrel) 2 : a wooden stick : staff. stav
+
+**** Alicia que ve ratones                                            :drill:
+     SCHEDULED: <2021-02-07 dom>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       a77c7710-9039-40b8-bc29-104f87f7acd0
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:29]
+     :END:
+
+***** Español
+hinchada
+
+***** Inglés
+swollen
+
+**** Alicia que ve ratones                                            :drill:
+     SCHEDULED: <2021-02-07 dom>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       e3bf6983-6c37-4a1c-9558-9d6cd5443389
      :DRILL_LAST_INTERVAL: 3.86
      :DRILL_REPEATS_SINCE_FAIL: 2
      :DRILL_TOTAL_REPEATS: 2
@@ -125,7 +249,71 @@ Vocabulary Sheet
      :DRILL_AVERAGE_QUALITY: 2.5
      :DRILL_EASE: 2.36
      :DRILL_LAST_QUALITY: 3
-     :DRILL_LAST_REVIEWED: [2021-01-21 jue 20:12]
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:36]
+     :END:
+
+***** Español
+compone
+
+***** Inglés
+mend, fix, refit, integrate
+
+**** Alicia que ve ratones                                            :drill:
+     SCHEDULED: <2021-02-07 dom>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       58188d0e-d5a1-4aea-93cb-eaee9b13854f
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 2
+     :DRILL_FAILURE_COUNT: 1
+     :DRILL_AVERAGE_QUALITY: 2.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:30]
+     :END:
+
+***** Español
+lonche
+
+***** Inglés
+lunch
+
+**** Alicia que ve ratones                                            :drill:
+     SCHEDULED: <2021-02-07 dom>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       23eed856-9a0e-4f0a-9c60-081f7ba5c492
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:29]
+     :END:
+
+***** Español
+amasar
+
+***** Inglés
+knead
+*** Cards                                                          :noexport:
+
+**** Marín                                                            :drill:
+     SCHEDULED: <2021-02-07 dom>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       070ceacc-478e-4f0a-9c65-7c8bd3b46f28
+     :DRILL_LAST_INTERVAL: 3.725
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 4
+     :DRILL_FAILURE_COUNT: 2
+     :DRILL_AVERAGE_QUALITY: 2.5
+     :DRILL_EASE: 2.22
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:29]
      :END:
 
 ***** Español
@@ -138,18 +326,18 @@ Vocabulary Sheet
  allí estan las mejores chambas
 
 **** Marín                                                            :drill:
-     SCHEDULED: <2021-01-25 lun>
+     SCHEDULED: <2021-02-12 vie>
      :PROPERTIES:
      :DRILL_CARD_TYPE: twosided
      :ID:       1b873175-ce06-4ba3-82bf-bfafae73472b
-     :DRILL_LAST_INTERVAL: 3.86
-     :DRILL_REPEATS_SINCE_FAIL: 2
-     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_LAST_INTERVAL: 9.3103
+     :DRILL_REPEATS_SINCE_FAIL: 3
+     :DRILL_TOTAL_REPEATS: 2
      :DRILL_FAILURE_COUNT: 0
-     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_AVERAGE_QUALITY: 3.5
      :DRILL_EASE: 2.36
-     :DRILL_LAST_QUALITY: 3
-     :DRILL_LAST_REVIEWED: [2021-01-21 jue 20:10]
+     :DRILL_LAST_QUALITY: 4
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:29]
      :END:
 
 ***** Español
@@ -162,18 +350,18 @@ Vocabulary Sheet
  y eso está re mal
 
 **** Marín                                                            :drill:
-     SCHEDULED: <2021-01-25 lun>
+     SCHEDULED: <2021-02-07 dom>
      :PROPERTIES:
      :DRILL_CARD_TYPE: twosided
      :ID:       4596c81e-8cb1-4a80-b209-752449c21ddc
-     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_LAST_INTERVAL: 3.725
      :DRILL_REPEATS_SINCE_FAIL: 2
-     :DRILL_TOTAL_REPEATS: 2
-     :DRILL_FAILURE_COUNT: 1
-     :DRILL_AVERAGE_QUALITY: 2.5
-     :DRILL_EASE: 2.36
+     :DRILL_TOTAL_REPEATS: 5
+     :DRILL_FAILURE_COUNT: 3
+     :DRILL_AVERAGE_QUALITY: 2.2
+     :DRILL_EASE: 2.22
      :DRILL_LAST_QUALITY: 3
-     :DRILL_LAST_REVIEWED: [2021-01-21 jue 20:12]
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:30]
      :END:
 
 ***** Español
@@ -186,18 +374,18 @@ Vocabulary Sheet
  un chorro de cosas
 
 **** Marín                                                            :drill:
-     SCHEDULED: <2021-01-25 lun>
+     SCHEDULED: <2021-02-07 dom>
      :PROPERTIES:
      :DRILL_CARD_TYPE: twosided
      :ID:       7a7cfb03-421b-47bc-820a-3980f8cd1a74
-     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_LAST_INTERVAL: 3.725
      :DRILL_REPEATS_SINCE_FAIL: 2
-     :DRILL_TOTAL_REPEATS: 3
-     :DRILL_FAILURE_COUNT: 2
-     :DRILL_AVERAGE_QUALITY: 2.333
-     :DRILL_EASE: 2.36
+     :DRILL_TOTAL_REPEATS: 5
+     :DRILL_FAILURE_COUNT: 3
+     :DRILL_AVERAGE_QUALITY: 2.2
+     :DRILL_EASE: 2.22
      :DRILL_LAST_QUALITY: 3
-     :DRILL_LAST_REVIEWED: [2021-01-21 jue 20:12]
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:32]
      :END:
 
 ***** Español
@@ -210,18 +398,18 @@ Vocabulary Sheet
  y si cuentas las manchitas blancas de tus uñas sabes cuántos muchachos están pensando en ti
 
 **** Marín                                                            :drill:
-     SCHEDULED: <2021-01-25 lun>
+     SCHEDULED: <2021-02-07 dom>
      :PROPERTIES:
      :DRILL_CARD_TYPE: twosided
      :ID:       28b6cf71-709b-4b0b-99d4-54fd4167f660
      :DRILL_LAST_INTERVAL: 3.86
      :DRILL_REPEATS_SINCE_FAIL: 2
-     :DRILL_TOTAL_REPEATS: 3
-     :DRILL_FAILURE_COUNT: 2
-     :DRILL_AVERAGE_QUALITY: 2.333
+     :DRILL_TOTAL_REPEATS: 5
+     :DRILL_FAILURE_COUNT: 3
+     :DRILL_AVERAGE_QUALITY: 2.6
      :DRILL_EASE: 2.36
-     :DRILL_LAST_QUALITY: 3
-     :DRILL_LAST_REVIEWED: [2021-01-21 jue 20:12]
+     :DRILL_LAST_QUALITY: 4
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:30]
      :END:
 
 ***** Español
@@ -234,18 +422,18 @@ Vocabulary Sheet
  y un montonal de otras cosas
 
 **** Marín                                                            :drill:
-     SCHEDULED: <2021-01-25 lun>
+     SCHEDULED: <2021-02-12 vie>
      :PROPERTIES:
      :DRILL_CARD_TYPE: twosided
      :ID:       ac4e6dcb-943d-4961-9c10-248da65a3b82
-     :DRILL_LAST_INTERVAL: 3.86
-     :DRILL_REPEATS_SINCE_FAIL: 2
-     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_LAST_INTERVAL: 9.3103
+     :DRILL_REPEATS_SINCE_FAIL: 3
+     :DRILL_TOTAL_REPEATS: 2
      :DRILL_FAILURE_COUNT: 0
-     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_AVERAGE_QUALITY: 3.5
      :DRILL_EASE: 2.36
-     :DRILL_LAST_QUALITY: 3
-     :DRILL_LAST_REVIEWED: [2021-01-21 jue 20:09]
+     :DRILL_LAST_QUALITY: 4
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:27]
      :END:
 
 ***** Español
@@ -258,18 +446,18 @@ Vocabulary Sheet
  y Marín nomás se les quda viendo, sin parpadear siquiera, y no le da miedo
 
 **** Marín                                                            :drill:
-     SCHEDULED: <2021-01-25 lun>
+     SCHEDULED: <2021-02-07 dom>
      :PROPERTIES:
      :DRILL_CARD_TYPE: twosided
      :ID:       3e641810-2ced-4dab-b4a3-9525dc0ed360
      :DRILL_LAST_INTERVAL: 3.86
      :DRILL_REPEATS_SINCE_FAIL: 2
-     :DRILL_TOTAL_REPEATS: 1
-     :DRILL_FAILURE_COUNT: 0
-     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_TOTAL_REPEATS: 4
+     :DRILL_FAILURE_COUNT: 2
+     :DRILL_AVERAGE_QUALITY: 2.5
      :DRILL_EASE: 2.36
-     :DRILL_LAST_QUALITY: 3
-     :DRILL_LAST_REVIEWED: [2021-01-21 jue 20:09]
+     :DRILL_LAST_QUALITY: 4
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:33]
      :END:
 
 ***** Español
@@ -282,18 +470,18 @@ Vocabulary Sheet
  y Marín nomás se les quda viendo, sin parpadear siquiera, y no le da miedo
 
 **** Marín                                                            :drill:
-     SCHEDULED: <2021-01-25 lun>
+     SCHEDULED: <2021-02-07 dom>
      :PROPERTIES:
      :DRILL_CARD_TYPE: twosided
      :ID:       8a40a7b5-ce39-4a66-8b72-055a0dde18e5
-     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_LAST_INTERVAL: 3.725
      :DRILL_REPEATS_SINCE_FAIL: 2
-     :DRILL_TOTAL_REPEATS: 2
-     :DRILL_FAILURE_COUNT: 1
-     :DRILL_AVERAGE_QUALITY: 2.5
-     :DRILL_EASE: 2.36
+     :DRILL_TOTAL_REPEATS: 4
+     :DRILL_FAILURE_COUNT: 2
+     :DRILL_AVERAGE_QUALITY: 2.25
+     :DRILL_EASE: 2.22
      :DRILL_LAST_QUALITY: 3
-     :DRILL_LAST_REVIEWED: [2021-01-21 jue 20:11]
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:30]
      :END:
 
 ***** Español
@@ -306,18 +494,18 @@ Vocabulary Sheet
  y Marín nomás se les quda viendo, sin parpadear siquiera, y no le da miedo
 
 **** Los que no                                                       :drill:
-     SCHEDULED: <2021-01-25 lun>
+     SCHEDULED: <2021-02-07 dom>
      :PROPERTIES:
      :DRILL_CARD_TYPE: twosided
      :ID:       bf37bd14-1451-4d83-b723-a241baf3be46
-     :DRILL_LAST_INTERVAL: 4.0
+     :DRILL_LAST_INTERVAL: 3.86
      :DRILL_REPEATS_SINCE_FAIL: 2
-     :DRILL_TOTAL_REPEATS: 2
-     :DRILL_FAILURE_COUNT: 1
-     :DRILL_AVERAGE_QUALITY: 3.0
-     :DRILL_EASE: 2.5
-     :DRILL_LAST_QUALITY: 4
-     :DRILL_LAST_REVIEWED: [2021-01-21 jue 20:11]
+     :DRILL_TOTAL_REPEATS: 4
+     :DRILL_FAILURE_COUNT: 2
+     :DRILL_AVERAGE_QUALITY: 2.75
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:30]
      :END:
 
 ***** Español
@@ -330,18 +518,18 @@ Vocabulary Sheet
  Piensan que los vamos a asaltar con navajas brilladores
 
 **** Los que no                                                       :drill:
-     SCHEDULED: <2021-01-25 lun>
+     SCHEDULED: <2021-02-07 dom>
      :PROPERTIES:
      :DRILL_CARD_TYPE: twosided
      :ID:       a52cf7a1-dd0d-40d9-a9a1-79f33bb723e1
      :DRILL_LAST_INTERVAL: 3.86
      :DRILL_REPEATS_SINCE_FAIL: 2
-     :DRILL_TOTAL_REPEATS: 1
-     :DRILL_FAILURE_COUNT: 0
+     :DRILL_TOTAL_REPEATS: 3
+     :DRILL_FAILURE_COUNT: 1
      :DRILL_AVERAGE_QUALITY: 3.0
      :DRILL_EASE: 2.36
-     :DRILL_LAST_QUALITY: 3
-     :DRILL_LAST_REVIEWED: [2021-01-21 jue 20:10]
+     :DRILL_LAST_QUALITY: 4
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:30]
      :END:
 
 ***** Español
@@ -354,18 +542,18 @@ Vocabulary Sheet
  y el grandote que parece un viejo zonzo es el Fat Boy, aunque ya no esté gordo ni sea niño
 
 **** Los que no                                                       :drill:
-     SCHEDULED: <2021-01-25 lun>
+     SCHEDULED: <2021-02-12 vie>
      :PROPERTIES:
      :DRILL_CARD_TYPE: twosided
      :ID:       295aef80-bc50-428b-a8f3-8067c3a8b1b1
-     :DRILL_LAST_INTERVAL: 3.86
-     :DRILL_REPEATS_SINCE_FAIL: 2
-     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_LAST_INTERVAL: 9.3103
+     :DRILL_REPEATS_SINCE_FAIL: 3
+     :DRILL_TOTAL_REPEATS: 2
      :DRILL_FAILURE_COUNT: 0
-     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_AVERAGE_QUALITY: 3.5
      :DRILL_EASE: 2.36
-     :DRILL_LAST_QUALITY: 3
-     :DRILL_LAST_REVIEWED: [2021-01-21 jue 20:10]
+     :DRILL_LAST_QUALITY: 4
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:28]
      :END:
 
 ***** Español
@@ -378,18 +566,18 @@ Vocabulary Sheet
  Pero en un barrio de otro color nuestras rodillas comienzan a temblar traca traca
 
 **** Había una viejita que tenía tantos niños que no sabía que hacer  :drill:
-     SCHEDULED: <2021-01-25 lun>
+     SCHEDULED: <2021-02-07 dom>
      :PROPERTIES:
      :DRILL_CARD_TYPE: twosided
      :ID:       b04c8ca3-9ace-451e-ac4b-3bfec69881b0
-     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_LAST_INTERVAL: 3.725
      :DRILL_REPEATS_SINCE_FAIL: 2
-     :DRILL_TOTAL_REPEATS: 1
-     :DRILL_FAILURE_COUNT: 0
-     :DRILL_AVERAGE_QUALITY: 3.0
-     :DRILL_EASE: 2.36
+     :DRILL_TOTAL_REPEATS: 3
+     :DRILL_FAILURE_COUNT: 1
+     :DRILL_AVERAGE_QUALITY: 2.667
+     :DRILL_EASE: 2.22
      :DRILL_LAST_QUALITY: 3
-     :DRILL_LAST_REVIEWED: [2021-01-21 jue 20:08]
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:30]
      :END:
 
 ***** Español
@@ -402,18 +590,18 @@ Vocabulary Sheet
  Los escuincles de Rosa Vargas son demasiado y demasiados
 
 **** Había una viejita que tenía tantos niños que no sabía que hacer  :drill:
-     SCHEDULED: <2021-01-25 lun>
+     SCHEDULED: <2021-02-13 sáb>
      :PROPERTIES:
      :DRILL_CARD_TYPE: twosided
      :ID:       ad294b3b-6af1-407b-9143-b4c70166cce1
-     :DRILL_LAST_INTERVAL: 4.0
-     :DRILL_REPEATS_SINCE_FAIL: 2
-     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_LAST_INTERVAL: 10.0
+     :DRILL_REPEATS_SINCE_FAIL: 3
+     :DRILL_TOTAL_REPEATS: 2
      :DRILL_FAILURE_COUNT: 0
      :DRILL_AVERAGE_QUALITY: 4.0
      :DRILL_EASE: 2.5
      :DRILL_LAST_QUALITY: 4
-     :DRILL_LAST_REVIEWED: [2021-01-21 jue 20:10]
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:27]
      :END:
 
 ***** Español
@@ -426,18 +614,18 @@ Vocabulary Sheet
  y cómo van a ponerle remedio con sólo una madre que está siempre cansada de abotonar, y embotellar, y chiquear, y que llora todos los días por el hombre que se largó sin dejarles ni un dólar
 
 **** Había una viejita que tenía tantos niños que no sabía que hacer  :drill:
-     SCHEDULED: <2021-01-25 lun>
+     SCHEDULED: <2021-02-07 dom>
      :PROPERTIES:
      :DRILL_CARD_TYPE: twosided
      :ID:       16ce1a0f-10ed-4668-a60b-3618fddcf925
-     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_LAST_INTERVAL: 3.725
      :DRILL_REPEATS_SINCE_FAIL: 2
-     :DRILL_TOTAL_REPEATS: 3
-     :DRILL_FAILURE_COUNT: 2
-     :DRILL_AVERAGE_QUALITY: 2.333
-     :DRILL_EASE: 2.36
+     :DRILL_TOTAL_REPEATS: 5
+     :DRILL_FAILURE_COUNT: 3
+     :DRILL_AVERAGE_QUALITY: 2.4
+     :DRILL_EASE: 2.22
      :DRILL_LAST_QUALITY: 3
-     :DRILL_LAST_REVIEWED: [2021-01-21 jue 20:12]
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:30]
      :END:
 
 ***** Español
@@ -450,18 +638,18 @@ Vocabulary Sheet
  y cómo van a ponerle remedio con sólo una madre que está siempre cansada de abotonar, y embotellar, y chiquear, y que llora todos los días por el hombre que se largó sin dejarles ni un dólar
 
 **** Había una viejita que tenía tantos niños que no sabía que hacer  :drill:
-     SCHEDULED: <2021-01-25 lun>
+     SCHEDULED: <2021-02-07 dom>
      :PROPERTIES:
      :DRILL_CARD_TYPE: twosided
      :ID:       4feea9e7-2509-4e17-8174-e13c3cd5e97f
-     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_LAST_INTERVAL: 3.725
      :DRILL_REPEATS_SINCE_FAIL: 2
-     :DRILL_TOTAL_REPEATS: 3
-     :DRILL_FAILURE_COUNT: 2
-     :DRILL_AVERAGE_QUALITY: 2.333
-     :DRILL_EASE: 2.36
+     :DRILL_TOTAL_REPEATS: 5
+     :DRILL_FAILURE_COUNT: 3
+     :DRILL_AVERAGE_QUALITY: 2.2
+     :DRILL_EASE: 2.22
      :DRILL_LAST_QUALITY: 3
-     :DRILL_LAST_REVIEWED: [2021-01-21 jue 20:12]
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:34]
      :END:
 
 ***** Español
@@ -474,18 +662,18 @@ Vocabulary Sheet
  y cómo van a ponerle remedio con sólo una madre que está siempre cansada de abotonar, y embotellar, y chiquear, y que llora todos los días por el hombre que se largó sin dejarles ni un dólar
 
 **** Había una viejita que tenía tantos niños que no sabía que hacer  :drill:
-     SCHEDULED: <2021-01-25 lun>
+     SCHEDULED: <2021-02-12 vie>
      :PROPERTIES:
      :DRILL_CARD_TYPE: twosided
      :ID:       faf49135-f36b-4e58-9929-10d443b4f454
-     :DRILL_LAST_INTERVAL: 3.86
-     :DRILL_REPEATS_SINCE_FAIL: 2
-     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_LAST_INTERVAL: 9.3103
+     :DRILL_REPEATS_SINCE_FAIL: 3
+     :DRILL_TOTAL_REPEATS: 2
      :DRILL_FAILURE_COUNT: 0
-     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_AVERAGE_QUALITY: 3.5
      :DRILL_EASE: 2.36
-     :DRILL_LAST_QUALITY: 3
-     :DRILL_LAST_REVIEWED: [2021-01-21 jue 20:10]
+     :DRILL_LAST_QUALITY: 4
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:28]
      :END:
 
 ***** Español
@@ -498,18 +686,18 @@ Vocabulary Sheet
  y cómo van a ponerle remedio con sólo una madre que está siempre cansada de abotonar, y embotellar, y chiquear, y que llora todos los días por el hombre que se largó sin dejarles ni un dólar...
 
 **** Había una viejita que tenía tantos niños que no sabía que hacer  :drill:
-     SCHEDULED: <2021-01-25 lun>
+     SCHEDULED: <2021-02-07 dom>
      :PROPERTIES:
      :DRILL_CARD_TYPE: twosided
      :ID:       54bae7d3-7e8d-4413-b035-9068d83cce43
-     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_LAST_INTERVAL: 3.725
      :DRILL_REPEATS_SINCE_FAIL: 2
-     :DRILL_TOTAL_REPEATS: 1
-     :DRILL_FAILURE_COUNT: 0
-     :DRILL_AVERAGE_QUALITY: 3.0
-     :DRILL_EASE: 2.36
+     :DRILL_TOTAL_REPEATS: 3
+     :DRILL_FAILURE_COUNT: 1
+     :DRILL_AVERAGE_QUALITY: 2.667
+     :DRILL_EASE: 2.22
      :DRILL_LAST_QUALITY: 3
-     :DRILL_LAST_REVIEWED: [2021-01-21 jue 20:10]
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:30]
      :END:
 
 ***** Español
@@ -522,18 +710,18 @@ Vocabulary Sheet
  y cómo van a ponerle remedio con sólo una madre que está siempre cansada de abotonar, y embotellar, y chiquear, y que llora todos los días por el hombre que se largó sin dejarles ni un dólar
 
 **** Había una viejita que tenía tantos niños que no sabía que hacer  :drill:
-     SCHEDULED: <2021-01-25 lun>
+     SCHEDULED: <2021-02-07 dom>
      :PROPERTIES:
      :DRILL_CARD_TYPE: twosided
      :ID:       bed2e734-a934-4697-9e1b-8b6b74f378fe
-     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_LAST_INTERVAL: 3.725
      :DRILL_REPEATS_SINCE_FAIL: 2
-     :DRILL_TOTAL_REPEATS: 3
-     :DRILL_FAILURE_COUNT: 2
-     :DRILL_AVERAGE_QUALITY: 2.0
-     :DRILL_EASE: 2.36
+     :DRILL_TOTAL_REPEATS: 9
+     :DRILL_FAILURE_COUNT: 7
+     :DRILL_AVERAGE_QUALITY: 1.779
+     :DRILL_EASE: 2.22
      :DRILL_LAST_QUALITY: 3
-     :DRILL_LAST_REVIEWED: [2021-01-21 jue 20:12]
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:36]
      :END:
 
 ***** Español
@@ -546,18 +734,18 @@ Vocabulary Sheet
  y cómo van a ponerle remedio con sólo una madre que está siempre cansada de abotonar, y embotellar, y chiquear, y que llora todos los días por el hombre que se largó sin dejarles ni un dólar
 
 **** Había una viejita que tenía tantos niños que no sabía que hacer  :drill:
-     SCHEDULED: <2021-01-25 lun>
+     SCHEDULED: <2021-02-07 dom>
      :PROPERTIES:
      :DRILL_CARD_TYPE: twosided
      :ID:       e97631b9-0685-44a2-85fc-ca7ea7ef3654
-     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_LAST_INTERVAL: 3.725
      :DRILL_REPEATS_SINCE_FAIL: 2
-     :DRILL_TOTAL_REPEATS: 1
-     :DRILL_FAILURE_COUNT: 0
-     :DRILL_AVERAGE_QUALITY: 3.0
-     :DRILL_EASE: 2.36
+     :DRILL_TOTAL_REPEATS: 4
+     :DRILL_FAILURE_COUNT: 2
+     :DRILL_AVERAGE_QUALITY: 2.0
+     :DRILL_EASE: 2.22
      :DRILL_LAST_QUALITY: 3
-     :DRILL_LAST_REVIEWED: [2021-01-21 jue 20:11]
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:35]
      :END:
 
 ***** Español
@@ -570,18 +758,18 @@ Vocabulary Sheet
  los niños doblan árboles y robtan entre los carros y se cuelgan de las rodillas arriba y abajo y casi se rompen como vasijas de museo
 
 **** Había una viejita que tenía tantos niños que no sabía que hacer  :drill:
-     SCHEDULED: <2021-01-25 lun>
+     SCHEDULED: <2021-02-07 dom>
      :PROPERTIES:
      :DRILL_CARD_TYPE: twosided
      :ID:       f081fde3-e9c0-4d8c-814c-5cd84e801da7
-     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_LAST_INTERVAL: 3.725
      :DRILL_REPEATS_SINCE_FAIL: 2
-     :DRILL_TOTAL_REPEATS: 3
-     :DRILL_FAILURE_COUNT: 2
-     :DRILL_AVERAGE_QUALITY: 2.333
-     :DRILL_EASE: 2.36
+     :DRILL_TOTAL_REPEATS: 5
+     :DRILL_FAILURE_COUNT: 3
+     :DRILL_AVERAGE_QUALITY: 2.2
+     :DRILL_EASE: 2.22
      :DRILL_LAST_QUALITY: 3
-     :DRILL_LAST_REVIEWED: [2021-01-21 jue 20:12]
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:31]
      :END:
 
 ***** Español
@@ -594,18 +782,18 @@ Vocabulary Sheet
  los niños doblan árboles y robtan entre los carros y se cuelgan de las rodillas arriba y abajo y casi se rompen como vasijas de museo
 
 **** Había una viejita que tenía tantos niños que no sabía que hacer  :drill:
-     SCHEDULED: <2021-01-25 lun>
+     SCHEDULED: <2021-02-13 sáb>
      :PROPERTIES:
      :DRILL_CARD_TYPE: twosided
      :ID:       0131c99c-9608-4294-8f0a-33171ff92b4b
-     :DRILL_LAST_INTERVAL: 4.0
-     :DRILL_REPEATS_SINCE_FAIL: 2
-     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_LAST_INTERVAL: 9.648
+     :DRILL_REPEATS_SINCE_FAIL: 3
+     :DRILL_TOTAL_REPEATS: 2
      :DRILL_FAILURE_COUNT: 0
-     :DRILL_AVERAGE_QUALITY: 4.0
-     :DRILL_EASE: 2.5
-     :DRILL_LAST_QUALITY: 4
-     :DRILL_LAST_REVIEWED: [2021-01-21 jue 20:06]
+     :DRILL_AVERAGE_QUALITY: 3.5
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:27]
      :END:
 
 ***** Español
@@ -618,18 +806,18 @@ Vocabulary Sheet
  no se ocurre algo menos peligroso que treparse allá arriba?
 
 **** Había una viejita que tenía tantos niños que no sabía que hacer  :drill:
-     SCHEDULED: <2021-01-25 lun>
+     SCHEDULED: <2021-02-07 dom>
      :PROPERTIES:
      :DRILL_CARD_TYPE: twosided
      :ID:       2e1dc4ab-4f5d-4089-88cb-d022e0ea9489
-     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_LAST_INTERVAL: 3.725
      :DRILL_REPEATS_SINCE_FAIL: 2
-     :DRILL_TOTAL_REPEATS: 2
-     :DRILL_FAILURE_COUNT: 1
+     :DRILL_TOTAL_REPEATS: 4
+     :DRILL_FAILURE_COUNT: 2
      :DRILL_AVERAGE_QUALITY: 2.0
-     :DRILL_EASE: 2.36
+     :DRILL_EASE: 2.22
      :DRILL_LAST_QUALITY: 3
-     :DRILL_LAST_REVIEWED: [2021-01-21 jue 20:11]
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:31]
      :END:
 
 ***** Español
@@ -642,18 +830,18 @@ Vocabulary Sheet
  y ellos solo escupen
 
 **** Había una viejita que tenía tantos niños que no sabía que hacer  :drill:
-     SCHEDULED: <2021-01-25 lun>
+     SCHEDULED: <2021-02-12 vie>
      :PROPERTIES:
      :DRILL_CARD_TYPE: twosided
      :ID:       9b786005-8807-4688-91b3-0cc1bdd88edc
-     :DRILL_LAST_INTERVAL: 3.86
-     :DRILL_REPEATS_SINCE_FAIL: 2
-     :DRILL_TOTAL_REPEATS: 2
+     :DRILL_LAST_INTERVAL: 8.9861
+     :DRILL_REPEATS_SINCE_FAIL: 3
+     :DRILL_TOTAL_REPEATS: 3
      :DRILL_FAILURE_COUNT: 1
-     :DRILL_AVERAGE_QUALITY: 2.5
-     :DRILL_EASE: 2.36
+     :DRILL_AVERAGE_QUALITY: 2.667
+     :DRILL_EASE: 2.22
      :DRILL_LAST_QUALITY: 3
-     :DRILL_LAST_REVIEWED: [2021-01-21 jue 20:11]
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:28]
      :END:
 
 ***** Español
@@ -666,18 +854,18 @@ Vocabulary Sheet
  todos se dan por vencidos
 
 **** Había una viejita que tenía tantos niños que no sabía que hacer  :drill:
-     SCHEDULED: <2021-01-25 lun>
+     SCHEDULED: <2021-02-12 vie>
      :PROPERTIES:
      :DRILL_CARD_TYPE: twosided
      :ID:       bc26d185-0ad8-420b-97a7-78534e05e3f3
-     :DRILL_LAST_INTERVAL: 3.86
-     :DRILL_REPEATS_SINCE_FAIL: 2
-     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_LAST_INTERVAL: 9.3103
+     :DRILL_REPEATS_SINCE_FAIL: 3
+     :DRILL_TOTAL_REPEATS: 2
      :DRILL_FAILURE_COUNT: 0
-     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_AVERAGE_QUALITY: 3.5
      :DRILL_EASE: 2.36
-     :DRILL_LAST_QUALITY: 3
-     :DRILL_LAST_REVIEWED: [2021-01-21 jue 20:11]
+     :DRILL_LAST_QUALITY: 4
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:28]
      :END:
 
 ***** Español
@@ -690,18 +878,18 @@ Vocabulary Sheet
  Efrencito se rompió los dientes de chivo en el parquímetro
 
 **** Había una viejita que tenía tantos niños que no sabía que hacer  :drill:
-     SCHEDULED: <2021-01-25 lun>
+     SCHEDULED: <2021-02-13 sáb>
      :PROPERTIES:
      :DRILL_CARD_TYPE: twosided
      :ID:       1eda1bda-3ed7-4cbc-8b46-88f0e6f3df09
-     :DRILL_LAST_INTERVAL: 4.0
-     :DRILL_REPEATS_SINCE_FAIL: 2
-     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_LAST_INTERVAL: 10.0
+     :DRILL_REPEATS_SINCE_FAIL: 3
+     :DRILL_TOTAL_REPEATS: 2
      :DRILL_FAILURE_COUNT: 0
      :DRILL_AVERAGE_QUALITY: 4.0
      :DRILL_EASE: 2.5
      :DRILL_LAST_QUALITY: 4
-     :DRILL_LAST_REVIEWED: [2021-01-21 jue 20:07]
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:28]
      :END:
 
 ***** Español
@@ -714,18 +902,18 @@ Vocabulary Sheet
  Efrencito se rompió los dientes de chivo en el parquímetro
     
 **** Louie, su prima y su primo                                       :drill:
-     SCHEDULED: <2021-01-23 sáb>
+     SCHEDULED: <2021-02-12 vie>
      :PROPERTIES:
      :DRILL_CARD_TYPE: twosided
      :ID:       c08e1096-b4dd-4250-899e-92cf282d2dd7
-     :DRILL_LAST_INTERVAL: 3.86
-     :DRILL_REPEATS_SINCE_FAIL: 2
-     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_LAST_INTERVAL: 8.7892
+     :DRILL_REPEATS_SINCE_FAIL: 3
+     :DRILL_TOTAL_REPEATS: 2
      :DRILL_FAILURE_COUNT: 0
      :DRILL_AVERAGE_QUALITY: 3.0
-     :DRILL_EASE: 2.36
+     :DRILL_EASE: 2.22
      :DRILL_LAST_QUALITY: 3
-     :DRILL_LAST_REVIEWED: [2021-01-19 mar 16:05]
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:25]
      :END:
 
 ***** Español
@@ -738,18 +926,18 @@ Vocabulary Sheet
   Bajo la casa de Meme hay un sótano que su mamá arregló y rentó a una familia puertorriqueña
 
 **** Louie, su prima y su primo                                       :drill:
-     SCHEDULED: <2021-01-23 sáb>
+     SCHEDULED: <2021-02-07 dom>
      :PROPERTIES:
      :DRILL_CARD_TYPE: twosided
      :ID:       e536a362-5dd6-4c62-bbf2-df2dba07e2b3
      :DRILL_LAST_INTERVAL: 3.86
      :DRILL_REPEATS_SINCE_FAIL: 2
-     :DRILL_TOTAL_REPEATS: 1
-     :DRILL_FAILURE_COUNT: 0
+     :DRILL_TOTAL_REPEATS: 3
+     :DRILL_FAILURE_COUNT: 1
      :DRILL_AVERAGE_QUALITY: 3.0
      :DRILL_EASE: 2.36
-     :DRILL_LAST_QUALITY: 3
-     :DRILL_LAST_REVIEWED: [2021-01-19 mar 16:05]
+     :DRILL_LAST_QUALITY: 4
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:35]
      :END:
 
 ***** Español
@@ -762,18 +950,18 @@ Vocabulary Sheet
   yo sé que sus camiseas nunca se quedan metidas dentro de sus pantalones
 
 **** Louie, su prima y su primo                                       :drill:
-     SCHEDULED: <2021-01-23 sáb>
+     SCHEDULED: <2021-02-07 dom>
      :PROPERTIES:
      :DRILL_CARD_TYPE: twosided
      :ID:       33ada363-7688-40cb-af45-053a6210396f
-     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_LAST_INTERVAL: 3.725
      :DRILL_REPEATS_SINCE_FAIL: 2
-     :DRILL_TOTAL_REPEATS: 1
-     :DRILL_FAILURE_COUNT: 0
-     :DRILL_AVERAGE_QUALITY: 3.0
-     :DRILL_EASE: 2.36
+     :DRILL_TOTAL_REPEATS: 3
+     :DRILL_FAILURE_COUNT: 1
+     :DRILL_AVERAGE_QUALITY: 2.667
+     :DRILL_EASE: 2.22
      :DRILL_LAST_QUALITY: 3
-     :DRILL_LAST_REVIEWED: [2021-01-19 mar 16:05]
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:31]
      :END:
 
 ***** Español
@@ -786,18 +974,18 @@ Vocabulary Sheet
   y lleva medias oscuras todo el tiempo
 
 **** Louie, su prima y su primo                                       :drill:
-     SCHEDULED: <2021-01-23 sáb>
+     SCHEDULED: <2021-02-07 dom>
      :PROPERTIES:
      :DRILL_CARD_TYPE: twosided
      :ID:       c23ae52a-c437-46b4-8949-012af5d500f8
-     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_LAST_INTERVAL: 3.725
      :DRILL_REPEATS_SINCE_FAIL: 2
-     :DRILL_TOTAL_REPEATS: 2
-     :DRILL_FAILURE_COUNT: 1
+     :DRILL_TOTAL_REPEATS: 4
+     :DRILL_FAILURE_COUNT: 2
      :DRILL_AVERAGE_QUALITY: 2.5
-     :DRILL_EASE: 2.36
+     :DRILL_EASE: 2.22
      :DRILL_LAST_QUALITY: 3
-     :DRILL_LAST_REVIEWED: [2021-01-19 mar 16:06]
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:34]
      :END:
 
 ***** Español
@@ -810,18 +998,18 @@ Vocabulary Sheet
   canta y canta la misma canción tronando los dedos
 
 **** Louie, su prima y su primo                                       :drill:
-     SCHEDULED: <2021-01-23 sáb>
+     SCHEDULED: <2021-02-07 dom>
      :PROPERTIES:
      :DRILL_CARD_TYPE: twosided
      :ID:       5eaeee62-3cb7-44d5-94d1-d41dff57bb14
-     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_LAST_INTERVAL: 3.725
      :DRILL_REPEATS_SINCE_FAIL: 2
-     :DRILL_TOTAL_REPEATS: 1
-     :DRILL_FAILURE_COUNT: 0
-     :DRILL_AVERAGE_QUALITY: 3.0
-     :DRILL_EASE: 2.36
+     :DRILL_TOTAL_REPEATS: 3
+     :DRILL_FAILURE_COUNT: 1
+     :DRILL_AVERAGE_QUALITY: 2.333
+     :DRILL_EASE: 2.22
      :DRILL_LAST_QUALITY: 3
-     :DRILL_LAST_REVIEWED: [2021-01-19 mar 16:06]
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:35]
      :END:
 
 ***** Español
@@ -834,18 +1022,18 @@ Vocabulary Sheet
   estábamos jugando volleyball en el callejón
 
 **** Louie, su prima y su primo                                       :drill:
-     SCHEDULED: <2021-01-23 sáb>
+     SCHEDULED: <2021-02-07 dom>
      :PROPERTIES:
      :DRILL_CARD_TYPE: twosided
      :ID:       d5c718f2-90bc-48de-a66a-6816963d3863
-     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_LAST_INTERVAL: 3.725
      :DRILL_REPEATS_SINCE_FAIL: 2
-     :DRILL_TOTAL_REPEATS: 1
-     :DRILL_FAILURE_COUNT: 0
-     :DRILL_AVERAGE_QUALITY: 3.0
-     :DRILL_EASE: 2.36
+     :DRILL_TOTAL_REPEATS: 4
+     :DRILL_FAILURE_COUNT: 2
+     :DRILL_AVERAGE_QUALITY: 2.0
+     :DRILL_EASE: 2.22
      :DRILL_LAST_QUALITY: 3
-     :DRILL_LAST_REVIEWED: [2021-01-19 mar 16:06]
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:31]
      :END:
 
 ***** Español
@@ -858,18 +1046,18 @@ Vocabulary Sheet
   una mascada amarilla amarrada al espejo
 
 **** Louie, su prima y su primo                                       :drill:
-     SCHEDULED: <2021-01-23 sáb>
+     SCHEDULED: <2021-02-07 dom>
      :PROPERTIES:
      :DRILL_CARD_TYPE: twosided
      :ID:       c82172aa-be7b-49ef-9ebb-2e1475330a70
-     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_LAST_INTERVAL: 3.725
      :DRILL_REPEATS_SINCE_FAIL: 2
-     :DRILL_TOTAL_REPEATS: 2
-     :DRILL_FAILURE_COUNT: 1
-     :DRILL_AVERAGE_QUALITY: 2.5
-     :DRILL_EASE: 2.36
+     :DRILL_TOTAL_REPEATS: 4
+     :DRILL_FAILURE_COUNT: 2
+     :DRILL_AVERAGE_QUALITY: 2.25
+     :DRILL_EASE: 2.22
      :DRILL_LAST_QUALITY: 3
-     :DRILL_LAST_REVIEWED: [2021-01-19 mar 16:06]
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:32]
      :END:
 
 ***** Español
@@ -882,18 +1070,18 @@ Vocabulary Sheet
   una mascada amarilla amarrada al espejo
 
 **** Louie, su prima y su primo                                       :drill:
-     SCHEDULED: <2021-01-23 sáb>
+     SCHEDULED: <2021-02-07 dom>
      :PROPERTIES:
      :DRILL_CARD_TYPE: twosided
      :ID:       13039685-746d-4338-a2ee-decf4fd6a370
-     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_LAST_INTERVAL: 3.725
      :DRILL_REPEATS_SINCE_FAIL: 2
-     :DRILL_TOTAL_REPEATS: 1
-     :DRILL_FAILURE_COUNT: 0
-     :DRILL_AVERAGE_QUALITY: 3.0
-     :DRILL_EASE: 2.36
+     :DRILL_TOTAL_REPEATS: 4
+     :DRILL_FAILURE_COUNT: 2
+     :DRILL_AVERAGE_QUALITY: 2.25
+     :DRILL_EASE: 2.22
      :DRILL_LAST_QUALITY: 3
-     :DRILL_LAST_REVIEWED: [2021-01-19 mar 16:06]
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:31]
      :END:
 
 ***** Español
@@ -906,18 +1094,18 @@ Vocabulary Sheet
   Pitó un par de veces y un montón de caras miraron desde la ventana trasera de la casa
 
 **** Louie, su prima y su primo                                       :drill:
-     SCHEDULED: <2021-01-23 sáb>
+     SCHEDULED: <2021-02-12 vie>
      :PROPERTIES:
      :DRILL_CARD_TYPE: twosided
      :ID:       c32b0edb-a44e-4c2f-93f5-8184f4aaecdb
-     :DRILL_LAST_INTERVAL: 3.86
-     :DRILL_REPEATS_SINCE_FAIL: 2
-     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_LAST_INTERVAL: 9.1096
+     :DRILL_REPEATS_SINCE_FAIL: 3
+     :DRILL_TOTAL_REPEATS: 2
      :DRILL_FAILURE_COUNT: 0
-     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_AVERAGE_QUALITY: 3.5
      :DRILL_EASE: 2.36
-     :DRILL_LAST_QUALITY: 3
-     :DRILL_LAST_REVIEWED: [2021-01-19 mar 16:06]
+     :DRILL_LAST_QUALITY: 4
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:25]
      :END:
 
 ***** Español
@@ -930,18 +1118,18 @@ Vocabulary Sheet
   Pitó un par de veces y un montón de caras miraron desde la ventana trasera de la casa
 
 **** Louie, su prima y su primo                                       :drill:
-     SCHEDULED: <2021-01-23 sáb>
+     SCHEDULED: <2021-02-12 vie>
      :PROPERTIES:
      :DRILL_CARD_TYPE: twosided
      :ID:       d64ee004-5348-4a5b-916c-6ca729190180
-     :DRILL_LAST_INTERVAL: 3.86
-     :DRILL_REPEATS_SINCE_FAIL: 2
-     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_LAST_INTERVAL: 9.1096
+     :DRILL_REPEATS_SINCE_FAIL: 3
+     :DRILL_TOTAL_REPEATS: 2
      :DRILL_FAILURE_COUNT: 0
-     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_AVERAGE_QUALITY: 3.5
      :DRILL_EASE: 2.36
-     :DRILL_LAST_QUALITY: 3
-     :DRILL_LAST_REVIEWED: [2021-01-19 mar 16:06]
+     :DRILL_LAST_QUALITY: 4
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:26]
      :END:
 
 ***** Español
@@ -954,18 +1142,18 @@ Vocabulary Sheet
   pedimos una vueltecita
 
 **** Louie, su prima y su primo                                       :drill:
-     SCHEDULED: <2021-01-23 sáb>
+     SCHEDULED: <2021-02-07 dom>
      :PROPERTIES:
      :DRILL_CARD_TYPE: twosided
      :ID:       7891c222-ad85-4d32-b7f5-a8c213b71574
      :DRILL_LAST_INTERVAL: 3.86
      :DRILL_REPEATS_SINCE_FAIL: 2
-     :DRILL_TOTAL_REPEATS: 1
-     :DRILL_FAILURE_COUNT: 0
-     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_TOTAL_REPEATS: 3
+     :DRILL_FAILURE_COUNT: 1
+     :DRILL_AVERAGE_QUALITY: 2.667
      :DRILL_EASE: 2.36
-     :DRILL_LAST_QUALITY: 3
-     :DRILL_LAST_REVIEWED: [2021-01-19 mar 16:06]
+     :DRILL_LAST_QUALITY: 4
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:32]
      :END:
 
 ***** Español
@@ -978,18 +1166,18 @@ Vocabulary Sheet
   pero el primo de Louie dijo que nos iba a regresar a pie si no dejábmos de jugar con las ventanillas y de apretar los botones del radio FM
 
 **** Louie, su prima y su primo                                       :drill:
-     SCHEDULED: <2021-01-23 sáb>
+     SCHEDULED: <2021-02-07 dom>
      :PROPERTIES:
      :DRILL_CARD_TYPE: twosided
      :ID:       fed89e37-81e7-48ad-bd0d-0d71d85b9611
-     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_LAST_INTERVAL: 3.725
      :DRILL_REPEATS_SINCE_FAIL: 2
-     :DRILL_TOTAL_REPEATS: 1
-     :DRILL_FAILURE_COUNT: 0
-     :DRILL_AVERAGE_QUALITY: 3.0
-     :DRILL_EASE: 2.36
+     :DRILL_TOTAL_REPEATS: 3
+     :DRILL_FAILURE_COUNT: 1
+     :DRILL_AVERAGE_QUALITY: 2.667
+     :DRILL_EASE: 2.22
      :DRILL_LAST_QUALITY: 3
-     :DRILL_LAST_REVIEWED: [2021-01-19 mar 16:06]
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:31]
      :END:
 
 ***** Español
@@ -1002,18 +1190,18 @@ Vocabulary Sheet
   oímos unas sirenas.. muy quedito al principio
 
 **** Louie, su prima y su primo                                       :drill:
-     SCHEDULED: <2021-01-23 sáb>
+     SCHEDULED: <2021-02-07 dom>
      :PROPERTIES:
      :DRILL_CARD_TYPE: twosided
      :ID:       4323e8b0-8322-4be6-8c8d-f89fd7f9420a
-     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_LAST_INTERVAL: 3.725
      :DRILL_REPEATS_SINCE_FAIL: 2
-     :DRILL_TOTAL_REPEATS: 2
-     :DRILL_FAILURE_COUNT: 1
-     :DRILL_AVERAGE_QUALITY: 2.5
-     :DRILL_EASE: 2.36
+     :DRILL_TOTAL_REPEATS: 5
+     :DRILL_FAILURE_COUNT: 3
+     :DRILL_AVERAGE_QUALITY: 2.2
+     :DRILL_EASE: 2.22
      :DRILL_LAST_QUALITY: 3
-     :DRILL_LAST_REVIEWED: [2021-01-19 mar 16:06]
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:34]
      :END:
 
 ***** Español
@@ -1026,18 +1214,18 @@ Vocabulary Sheet
   convirtiendo aquel auto en un borrón amarillo
 
 **** Louie, su prima y su primo                                       :drill:
-     SCHEDULED: <2021-01-23 sáb>
+     SCHEDULED: <2021-02-07 dom>
      :PROPERTIES:
      :DRILL_CARD_TYPE: twosided
      :ID:       c78bbdaf-9fc4-4b93-90aa-688ac2a8b060
-     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_LAST_INTERVAL: 3.725
      :DRILL_REPEATS_SINCE_FAIL: 2
-     :DRILL_TOTAL_REPEATS: 1
-     :DRILL_FAILURE_COUNT: 0
-     :DRILL_AVERAGE_QUALITY: 3.0
-     :DRILL_EASE: 2.36
+     :DRILL_TOTAL_REPEATS: 3
+     :DRILL_FAILURE_COUNT: 1
+     :DRILL_AVERAGE_QUALITY: 2.667
+     :DRILL_EASE: 2.22
      :DRILL_LAST_QUALITY: 3
-     :DRILL_LAST_REVIEWED: [2021-01-19 mar 16:05]
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:32]
      :END:
 
 ***** Español
@@ -1050,18 +1238,18 @@ Vocabulary Sheet
   corrimos a la esquina donde la sirena de la patrulla hacía girar un mareo azul
 
 **** Louie, su prima y su primo                                       :drill:
-     SCHEDULED: <2021-01-23 sáb>
+     SCHEDULED: <2021-02-07 dom>
      :PROPERTIES:
      :DRILL_CARD_TYPE: twosided
      :ID:       91aa799f-8518-45e1-a702-014ac84ebf5e
-     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_LAST_INTERVAL: 3.725
      :DRILL_REPEATS_SINCE_FAIL: 2
-     :DRILL_TOTAL_REPEATS: 1
-     :DRILL_FAILURE_COUNT: 0
-     :DRILL_AVERAGE_QUALITY: 3.0
-     :DRILL_EASE: 2.36
+     :DRILL_TOTAL_REPEATS: 3
+     :DRILL_FAILURE_COUNT: 1
+     :DRILL_AVERAGE_QUALITY: 2.333
+     :DRILL_EASE: 2.22
      :DRILL_LAST_QUALITY: 3
-     :DRILL_LAST_REVIEWED: [2021-01-19 mar 16:06]
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:35]
      :END:
 
 ***** Español
@@ -1071,18 +1259,18 @@ Vocabulary Sheet
   trumpet
 
 **** Louie, su prima y su primo                                       :drill:
-     SCHEDULED: <2021-01-23 sáb>
+     SCHEDULED: <2021-02-07 dom>
      :PROPERTIES:
      :DRILL_CARD_TYPE: twosided
      :ID:       1ebf145a-3ea1-4b46-8257-317b8420eac8
-     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_LAST_INTERVAL: 3.725
      :DRILL_REPEATS_SINCE_FAIL: 2
-     :DRILL_TOTAL_REPEATS: 1
-     :DRILL_FAILURE_COUNT: 0
-     :DRILL_AVERAGE_QUALITY: 3.0
-     :DRILL_EASE: 2.36
+     :DRILL_TOTAL_REPEATS: 5
+     :DRILL_FAILURE_COUNT: 3
+     :DRILL_AVERAGE_QUALITY: 2.0
+     :DRILL_EASE: 2.22
      :DRILL_LAST_QUALITY: 3
-     :DRILL_LAST_REVIEWED: [2021-01-19 mar 16:05]
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:36]
      :END:
 
 ***** Español
@@ -1092,18 +1280,18 @@ Vocabulary Sheet
   bruised
 
 **** Meme Ortiz                                                       :drill:
-     SCHEDULED: <2021-01-23 sáb>
+     SCHEDULED: <2021-02-12 vie>
      :PROPERTIES:
      :DRILL_CARD_TYPE: twosided
      :ID:       76cd331a-287a-4602-a0e2-832936e91af1
-     :DRILL_LAST_INTERVAL: 3.86
-     :DRILL_REPEATS_SINCE_FAIL: 2
-     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_LAST_INTERVAL: 8.7892
+     :DRILL_REPEATS_SINCE_FAIL: 3
+     :DRILL_TOTAL_REPEATS: 2
      :DRILL_FAILURE_COUNT: 0
      :DRILL_AVERAGE_QUALITY: 3.0
-     :DRILL_EASE: 2.36
+     :DRILL_EASE: 2.22
      :DRILL_LAST_QUALITY: 3
-     :DRILL_LAST_REVIEWED: [2021-01-19 mar 15:42]
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:25]
      :END:
 
 ***** Spanish
@@ -1116,18 +1304,18 @@ Vocabulary Sheet
   un pasto con dos nombres
 
 **** Meme Ortiz                                                       :drill:
-     SCHEDULED: <2021-01-23 sáb>
+     SCHEDULED: <2021-02-12 vie>
      :PROPERTIES:
      :DRILL_CARD_TYPE: twosided
      :ID:       d8d8cb58-6100-49bd-83b5-0745e2ccf44d
-     :DRILL_LAST_INTERVAL: 3.86
-     :DRILL_REPEATS_SINCE_FAIL: 2
-     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_LAST_INTERVAL: 9.1096
+     :DRILL_REPEATS_SINCE_FAIL: 3
+     :DRILL_TOTAL_REPEATS: 2
      :DRILL_FAILURE_COUNT: 0
-     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_AVERAGE_QUALITY: 3.5
      :DRILL_EASE: 2.36
-     :DRILL_LAST_QUALITY: 3
-     :DRILL_LAST_REVIEWED: [2021-01-19 mar 15:41]
+     :DRILL_LAST_QUALITY: 4
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:27]
      :END:
 
 ***** Spanish
@@ -1140,18 +1328,18 @@ Vocabulary Sheet
   [el perro] corre del mismo modo que sue dueño, torpe y loco con los brazos y piernas sueltos
 
 **** Meme Ortiz                                                       :drill:
-     SCHEDULED: <2021-01-23 sáb>
+     SCHEDULED: <2021-02-07 dom>
      :PROPERTIES:
      :DRILL_CARD_TYPE: twosided
      :ID:       68a8558b-9aa6-4a70-b18f-f43b2aa259bd
-     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_LAST_INTERVAL: 3.725
      :DRILL_REPEATS_SINCE_FAIL: 2
-     :DRILL_TOTAL_REPEATS: 2
-     :DRILL_FAILURE_COUNT: 1
+     :DRILL_TOTAL_REPEATS: 4
+     :DRILL_FAILURE_COUNT: 2
      :DRILL_AVERAGE_QUALITY: 2.5
-     :DRILL_EASE: 2.36
+     :DRILL_EASE: 2.22
      :DRILL_LAST_QUALITY: 3
-     :DRILL_LAST_REVIEWED: [2021-01-19 mar 15:43]
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:34]
      :END:
 
 ***** Spanish
@@ -1164,18 +1352,18 @@ Vocabulary Sheet
   [el perro] corre del mismo modo que sue dueño, torpe y loco con los brazos y piernas sueltos
 
 **** Meme Ortiz                                                       :drill:
-     SCHEDULED: <2021-01-23 sáb>
+     SCHEDULED: <2021-02-07 dom>
      :PROPERTIES:
      :DRILL_CARD_TYPE: twosided
      :ID:       d6d73c31-65c2-4f49-931e-901d977f8eba
-     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_LAST_INTERVAL: 3.725
      :DRILL_REPEATS_SINCE_FAIL: 2
-     :DRILL_TOTAL_REPEATS: 1
-     :DRILL_FAILURE_COUNT: 0
-     :DRILL_AVERAGE_QUALITY: 3.0
-     :DRILL_EASE: 2.36
+     :DRILL_TOTAL_REPEATS: 3
+     :DRILL_FAILURE_COUNT: 1
+     :DRILL_AVERAGE_QUALITY: 2.333
+     :DRILL_EASE: 2.22
      :DRILL_LAST_QUALITY: 3
-     :DRILL_LAST_REVIEWED: [2021-01-19 mar 15:42]
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:30]
      :END:
 
 ***** Spanish
@@ -1188,18 +1376,18 @@ Vocabulary Sheet
   todos ladeados y salientes como dientes chuecos
 
 **** Meme Ortiz                                                       :drill:
-     SCHEDULED: <2021-01-23 sáb>
+     SCHEDULED: <2021-02-07 dom>
      :PROPERTIES:
      :DRILL_CARD_TYPE: twosided
      :ID:       34454514-ddfe-4a2d-9e31-64d56abd0154
-     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_LAST_INTERVAL: 3.725
      :DRILL_REPEATS_SINCE_FAIL: 2
-     :DRILL_TOTAL_REPEATS: 1
-     :DRILL_FAILURE_COUNT: 0
-     :DRILL_AVERAGE_QUALITY: 3.0
-     :DRILL_EASE: 2.36
+     :DRILL_TOTAL_REPEATS: 3
+     :DRILL_FAILURE_COUNT: 1
+     :DRILL_AVERAGE_QUALITY: 2.333
+     :DRILL_EASE: 2.22
      :DRILL_LAST_QUALITY: 3
-     :DRILL_LAST_REVIEWED: [2021-01-19 mar 15:42]
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:31]
      :END:
 
 ***** Spanish
@@ -1212,18 +1400,18 @@ Vocabulary Sheet
   todos ladeados y salientes como dientes chuecos
 
 **** Meme Ortiz                                                       :drill:
-     SCHEDULED: <2021-01-23 sáb>
+     SCHEDULED: <2021-02-12 vie>
      :PROPERTIES:
      :DRILL_CARD_TYPE: twosided
      :ID:       4e9fcc8b-a271-4fce-91c0-98090d0747ce
-     :DRILL_LAST_INTERVAL: 3.86
-     :DRILL_REPEATS_SINCE_FAIL: 2
-     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_LAST_INTERVAL: 8.7892
+     :DRILL_REPEATS_SINCE_FAIL: 3
+     :DRILL_TOTAL_REPEATS: 2
      :DRILL_FAILURE_COUNT: 0
      :DRILL_AVERAGE_QUALITY: 3.0
-     :DRILL_EASE: 2.36
+     :DRILL_EASE: 2.22
      :DRILL_LAST_QUALITY: 3
-     :DRILL_LAST_REVIEWED: [2021-01-19 mar 15:42]
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:26]
      :END:
 
 ***** Spanish
@@ -1236,18 +1424,18 @@ Vocabulary Sheet
   todos ladeados y salientes como dientes chuecos
 
 **** Meme Ortiz                                                       :drill:
-     SCHEDULED: <2021-01-23 sáb>
+     SCHEDULED: <2021-02-07 dom>
      :PROPERTIES:
      :DRILL_CARD_TYPE: twosided
      :ID:       ea9fa13c-e7bc-4e30-9f8e-d16b0b01ca70
-     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_LAST_INTERVAL: 3.725
      :DRILL_REPEATS_SINCE_FAIL: 2
-     :DRILL_TOTAL_REPEATS: 1
-     :DRILL_FAILURE_COUNT: 0
-     :DRILL_AVERAGE_QUALITY: 3.0
-     :DRILL_EASE: 2.36
+     :DRILL_TOTAL_REPEATS: 3
+     :DRILL_FAILURE_COUNT: 1
+     :DRILL_AVERAGE_QUALITY: 2.667
+     :DRILL_EASE: 2.22
      :DRILL_LAST_QUALITY: 3
-     :DRILL_LAST_REVIEWED: [2021-01-19 mar 15:42]
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:32]
      :END:
 
 ***** Spanish
@@ -1257,18 +1445,18 @@ Vocabulary Sheet
   with intention
 
 **** Meme Ortiz                                                       :drill:
-     SCHEDULED: <2021-01-23 sáb>
+     SCHEDULED: <2021-02-07 dom>
      :PROPERTIES:
      :DRILL_CARD_TYPE: twosided
      :ID:       5e9e8de9-719d-43a2-bdd9-46154cabf4a1
      :DRILL_LAST_INTERVAL: 3.86
      :DRILL_REPEATS_SINCE_FAIL: 2
-     :DRILL_TOTAL_REPEATS: 5
-     :DRILL_FAILURE_COUNT: 4
-     :DRILL_AVERAGE_QUALITY: 2.2
+     :DRILL_TOTAL_REPEATS: 7
+     :DRILL_FAILURE_COUNT: 5
+     :DRILL_AVERAGE_QUALITY: 2.429
      :DRILL_EASE: 2.36
-     :DRILL_LAST_QUALITY: 3
-     :DRILL_LAST_REVIEWED: [2021-01-19 mar 15:43]
+     :DRILL_LAST_QUALITY: 4
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:30]
      :END:
 
 ***** Spanish
@@ -1278,18 +1466,18 @@ Vocabulary Sheet
   climb
 
 **** Meme Ortiz                                                       :drill:
-     SCHEDULED: <2021-01-23 sáb>
+     SCHEDULED: <2021-02-07 dom>
      :PROPERTIES:
      :DRILL_CARD_TYPE: twosided
      :ID:       c34d3910-28b4-4e25-aa21-06129af1d5e1
      :DRILL_LAST_INTERVAL: 3.86
      :DRILL_REPEATS_SINCE_FAIL: 2
-     :DRILL_TOTAL_REPEATS: 1
-     :DRILL_FAILURE_COUNT: 0
+     :DRILL_TOTAL_REPEATS: 3
+     :DRILL_FAILURE_COUNT: 1
      :DRILL_AVERAGE_QUALITY: 3.0
      :DRILL_EASE: 2.36
-     :DRILL_LAST_QUALITY: 3
-     :DRILL_LAST_REVIEWED: [2021-01-19 mar 15:42]
+     :DRILL_LAST_QUALITY: 4
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:33]
      :END:
 
 ***** Spanish
@@ -1299,18 +1487,18 @@ Vocabulary Sheet
   crawling
 
 **** Meme Ortiz                                                       :drill:
-     SCHEDULED: <2021-01-23 sáb>
+     SCHEDULED: <2021-02-07 dom>
      :PROPERTIES:
      :DRILL_CARD_TYPE: twosided
      :ID:       0faf2867-dd7c-491f-8cb4-465ea4598130
-     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_LAST_INTERVAL: 3.725
      :DRILL_REPEATS_SINCE_FAIL: 2
-     :DRILL_TOTAL_REPEATS: 3
-     :DRILL_FAILURE_COUNT: 2
-     :DRILL_AVERAGE_QUALITY: 2.333
-     :DRILL_EASE: 2.36
+     :DRILL_TOTAL_REPEATS: 5
+     :DRILL_FAILURE_COUNT: 3
+     :DRILL_AVERAGE_QUALITY: 2.2
+     :DRILL_EASE: 2.22
      :DRILL_LAST_QUALITY: 3
-     :DRILL_LAST_REVIEWED: [2021-01-19 mar 15:43]
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:35]
      :END:
 
 ***** Spanish
@@ -1320,18 +1508,18 @@ Vocabulary Sheet
   cladding?
 
 **** Meme Ortiz                                                       :drill:
-     SCHEDULED: <2021-01-23 sáb>
+     SCHEDULED: <2021-02-07 dom>
      :PROPERTIES:
      :DRILL_CARD_TYPE: twosided
      :ID:       fc5f7ed2-05dc-46a8-bd5f-f38e313d6ebf
-     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_LAST_INTERVAL: 3.725
      :DRILL_REPEATS_SINCE_FAIL: 2
-     :DRILL_TOTAL_REPEATS: 1
-     :DRILL_FAILURE_COUNT: 0
-     :DRILL_AVERAGE_QUALITY: 3.0
-     :DRILL_EASE: 2.36
+     :DRILL_TOTAL_REPEATS: 3
+     :DRILL_FAILURE_COUNT: 1
+     :DRILL_AVERAGE_QUALITY: 2.333
+     :DRILL_EASE: 2.22
      :DRILL_LAST_QUALITY: 3
-     :DRILL_LAST_REVIEWED: [2021-01-19 mar 15:42]
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:31]
      :END:
 
 ***** Spanish
@@ -1341,18 +1529,18 @@ Vocabulary Sheet
   drains
 
 **** Meme Ortiz                                                       :drill:
-     SCHEDULED: <2021-01-23 sáb>
+     SCHEDULED: <2021-02-07 dom>
      :PROPERTIES:
      :DRILL_CARD_TYPE: twosided
      :ID:       622a8a80-b1bf-42e3-b402-1d4416bd788e
-     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_LAST_INTERVAL: 3.725
      :DRILL_REPEATS_SINCE_FAIL: 2
-     :DRILL_TOTAL_REPEATS: 1
-     :DRILL_FAILURE_COUNT: 0
-     :DRILL_AVERAGE_QUALITY: 3.0
-     :DRILL_EASE: 2.36
+     :DRILL_TOTAL_REPEATS: 3
+     :DRILL_FAILURE_COUNT: 1
+     :DRILL_AVERAGE_QUALITY: 2.667
+     :DRILL_EASE: 2.22
      :DRILL_LAST_QUALITY: 3
-     :DRILL_LAST_REVIEWED: [2021-01-19 mar 15:42]
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:33]
      :END:
 
 ***** Spanish
@@ -1360,3 +1548,634 @@ Vocabulary Sheet
 
 ***** English
   to bark
+
+** Y algunas más
+   :PROPERTIES:
+   :DRILL_HEADING: y algunas mas
+   :DRILL_CARD_TYPE: twosided
+   :DRILL_INSTRUCTIONS:
+   :END:
+| Español     | Inglés  | Contexto |
+|-------------+---------+----------|
+| esquimales  | eskimos |          |
+| monas       | cute    |          |
+| puerco      | pig     |          |
+| rasurar     | razor   |          |
+| borreguitos | sheep   |          |
+| puesta      | put     |          |
+| mazacotes   | pasta   |          |
+| cinches     | cinches |          |
+
+*** Cards                                                          :noexport:
+
+**** y algunas mas                                                    :drill:
+     SCHEDULED: <2021-02-07 dom>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       bd9b0135-c130-4a44-93a7-e5f3dcd7da13
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:54]
+     :END:
+
+***** Español
+esquimales
+
+***** Inglés
+eskimos
+
+**** y algunas mas                                                    :drill:
+     SCHEDULED: <2021-02-07 dom>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       40a0b05c-0618-40ef-bf5b-3f2eac9cbfba
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 2
+     :DRILL_FAILURE_COUNT: 1
+     :DRILL_AVERAGE_QUALITY: 2.5
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:55]
+     :END:
+
+***** Español
+monas
+
+***** Inglés
+cute
+
+**** y algunas mas                                                    :drill:
+     SCHEDULED: <2021-02-07 dom>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       50f6c4cb-92d8-443e-831b-df7009e47eed
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:55]
+     :END:
+
+***** Español
+puerco
+
+***** Inglés
+pig
+
+**** y algunas mas                                                    :drill:
+     SCHEDULED: <2021-02-07 dom>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       d32049d8-cf1f-443d-9827-1c86b6fab981
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 2
+     :DRILL_FAILURE_COUNT: 1
+     :DRILL_AVERAGE_QUALITY: 2.5
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:55]
+     :END:
+
+***** Español
+rasurar
+
+***** Inglés
+razor
+
+**** y algunas mas                                                    :drill:
+     SCHEDULED: <2021-02-07 dom>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       68d9c6dc-e769-47ef-aba3-cf69ef82d899
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 2
+     :DRILL_FAILURE_COUNT: 1
+     :DRILL_AVERAGE_QUALITY: 2.5
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:55]
+     :END:
+
+***** Español
+borreguitos
+
+***** Inglés
+sheep
+
+**** y algunas mas                                                    :drill:
+     SCHEDULED: <2021-02-07 dom>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       bb3b0da6-2428-4244-b41d-84b00c601cac
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:55]
+     :END:
+
+***** Español
+puesta
+
+***** Inglés
+put
+
+**** y algunas mas                                                    :drill:
+     SCHEDULED: <2021-02-07 dom>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       04be5325-317e-47a9-8fe5-519bd8a8954c
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 3
+     :DRILL_FAILURE_COUNT: 2
+     :DRILL_AVERAGE_QUALITY: 2.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:55]
+     :END:
+
+***** Español
+mazacotes
+
+***** Inglés
+pasta
+
+**** y algunas mas                                                    :drill:
+     SCHEDULED: <2021-02-07 dom>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       7c8d7f44-3bd9-4888-bfce-353750783c52
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 15:55]
+     :END:
+
+***** Español
+cinches
+
+***** Inglés
+cinches
+** la familia de pies menuditos
+   :PROPERTIES:
+   :DRILL_HEADING: la familia de pies menuditos
+   :DRILL_CARD_TYPE: twosided
+   :DRILL_INSTRUCTIONS:
+   :END:
+| Español      | Inglés                   | Contexto |
+|--------------+--------------------------+----------|
+| ronquidos    | snoring                  |          |
+| masudos      |                          |          |
+| cuero        | leather                  |          |
+| terciopelo   | velvet                   |          |
+| tacón        | heel                     |          |
+| pichones     | pigeons                  |          |
+| rayuela      | hopscotch                |          |
+| cenicienta   | cinderella               |          |
+| atado        | tied                     |          |
+| cambalachar  | barter                   |          |
+| arrancamos   | tear, pull, pluck, start |          |
+| costras      | scabs                    |          |
+| pavoneandose |  strutting               |          |
+| tambaleantes |     wobbly               |          |
+
+*** Cards                                                          :noexport:
+
+**** la familia de pies menuditos                                     :drill:
+     SCHEDULED: <2021-02-07 dom>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       f9e71dfd-9678-405e-b1a8-790d2ba7b9c5
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 16:11]
+     :END:
+
+***** Español
+ronquidos
+
+***** Inglés
+snoring
+
+**** la familia de pies menuditos                                     :drill:
+     SCHEDULED: <2021-02-07 dom>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       a4adea96-0980-4b1e-9ba1-eddd2f44bdc2
+     :DRILL_LAST_INTERVAL: 4.14
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 5.0
+     :DRILL_EASE: 2.6
+     :DRILL_LAST_QUALITY: 5
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 16:10]
+     :END:
+
+***** Español
+masudos
+
+**** la familia de pies menuditos                                     :drill:
+     SCHEDULED: <2021-02-07 dom>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       dbaeab79-ce4e-466e-afcc-794bc201db12
+     :DRILL_LAST_INTERVAL: 4.0
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 4.0
+     :DRILL_EASE: 2.5
+     :DRILL_LAST_QUALITY: 4
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 16:11]
+     :END:
+
+***** Español
+cuero
+
+***** Inglés
+leather
+
+**** la familia de pies menuditos                                     :drill:
+     SCHEDULED: <2021-02-07 dom>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       cd9f9aee-a786-40c3-ab80-b0a41c959300
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 2
+     :DRILL_FAILURE_COUNT: 1
+     :DRILL_AVERAGE_QUALITY: 2.5
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 16:11]
+     :END:
+
+***** Español
+terciopelo
+
+***** Inglés
+velvet
+
+**** la familia de pies menuditos                                     :drill:
+     SCHEDULED: <2021-02-07 dom>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       2cae562f-060a-4f60-a332-fc20e5e26ff5
+     :DRILL_LAST_INTERVAL: 4.0
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 4.0
+     :DRILL_EASE: 2.5
+     :DRILL_LAST_QUALITY: 4
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 16:11]
+     :END:
+
+***** Español
+tacón
+
+***** Inglés
+heel
+
+**** la familia de pies menuditos                                     :drill:
+     SCHEDULED: <2021-02-07 dom>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       cfc62a08-55c9-48cb-95bf-30b371f6c1d9
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 2
+     :DRILL_FAILURE_COUNT: 1
+     :DRILL_AVERAGE_QUALITY: 2.5
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 16:11]
+     :END:
+
+***** Español
+pichones
+
+***** Inglés
+pigeons
+
+**** la familia de pies menuditos                                     :drill:
+     SCHEDULED: <2021-02-07 dom>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       d0e2f8d8-2ca6-46b1-9303-9e49cc710422
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 3
+     :DRILL_FAILURE_COUNT: 2
+     :DRILL_AVERAGE_QUALITY: 2.333
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 16:11]
+     :END:
+
+***** Español
+rayuela
+
+***** Inglés
+hopscotch
+
+**** la familia de pies menuditos                                     :drill:
+     SCHEDULED: <2021-02-07 dom>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       342bca55-e371-4e61-82d6-41abe247c87c
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 16:10]
+     :END:
+
+***** Español
+cenicienta
+
+***** Inglés
+cinderella
+
+**** la familia de pies menuditos                                     :drill:
+     SCHEDULED: <2021-02-07 dom>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       4ddce1fe-3b7a-41a4-86b2-5e59f7534e56
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 16:11]
+     :END:
+
+***** Español
+atado
+
+***** Inglés
+tied
+
+**** la familia de pies menuditos                                     :drill:
+     SCHEDULED: <2021-02-07 dom>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       a3f26011-855f-47d7-a62d-71695834f177
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 5
+     :DRILL_FAILURE_COUNT: 4
+     :DRILL_AVERAGE_QUALITY: 2.2
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 16:24]
+     :END:
+
+***** Español
+cambalachar
+
+***** Inglés
+barter
+
+**** la familia de pies menuditos                                     :drill:
+     SCHEDULED: <2021-02-07 dom>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       93876bf9-847c-4fde-9414-ae54c9fc3e36
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 2
+     :DRILL_FAILURE_COUNT: 1
+     :DRILL_AVERAGE_QUALITY: 2.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 16:11]
+     :END:
+
+***** Español
+arrancamos
+
+***** Inglés
+tear, pull, pluck, start
+
+**** la familia de pies menuditos                                     :drill:
+     SCHEDULED: <2021-02-07 dom>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       9721614a-2d0f-4090-b97e-71246d8883a8
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 2
+     :DRILL_FAILURE_COUNT: 1
+     :DRILL_AVERAGE_QUALITY: 2.5
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 16:11]
+     :END:
+
+***** Español
+costras
+
+***** Inglés
+scabs
+
+**** la familia de pies menuditos                                     :drill:
+     SCHEDULED: <2021-02-07 dom>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       6a18d6db-638e-4193-9f13-e9a3b72619d4
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 16:10]
+     :END:
+
+***** Español
+pavoneandose
+
+***** Inglés
+strutting
+
+**** la familia de pies menuditos                                     :drill:
+     SCHEDULED: <2021-02-07 dom>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       d34b3961-c58b-4851-ac47-4da89bb6d7c0
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 16:11]
+     :END:
+
+***** Español
+tambaleantes
+
+***** Inglés
+wobbly
+** Un sándwich de arroz
+   :PROPERTIES:
+   :DRILL_HEADING: un sándwich de arroz
+   :DRILL_CARD_TYPE: twosided
+   :DRILL_INSTRUCTIONS:
+   :END:
+| Español             | Inglés                | Contexto |
+|---------------------+-----------------------+----------|
+| colgadas del cuello | hanging from the neck |          |
+| refectorio          | dining hall           |          |
+| lata                | cna, tin, canister    |          |
+| penosa              | distressing           |          |
+| pordioseros         | beggars               |          |
+| grasoso             | oily                  |          |
+*** Cards                                                          :noexport:
+**** un sándwich de arroz                                             :drill:
+     SCHEDULED: <2021-02-07 dom>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       19d24f1c-27b2-4be3-b057-0eee6e482d3c
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 16:24]
+     :END:
+***** Español
+colgadas del cuello
+***** Inglés
+hanging from the neck
+**** un sándwich de arroz                                             :drill:
+     SCHEDULED: <2021-02-07 dom>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       3864862b-e49a-4ef2-8237-cf100e7633e9
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 16:23]
+     :END:
+***** Español
+refectorio
+***** Inglés
+dining hall
+**** un sándwich de arroz                                             :drill:
+     SCHEDULED: <2021-02-07 dom>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       3c5f6481-cddc-4453-bd03-21c0565c2826
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 16:24]
+     :END:
+***** Español
+lata
+***** Inglés
+cna, tin, canister
+**** un sándwich de arroz                                             :drill:
+     SCHEDULED: <2021-02-07 dom>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       eb8f3e27-a7ee-46b3-be03-0c342fddbfee
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 16:24]
+     :END:
+***** Español
+penosa
+***** Inglés
+distressing
+**** un sándwich de arroz                                             :drill:
+     SCHEDULED: <2021-02-07 dom>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       3a58e766-ca18-449b-b10f-3442ea692b2d
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 16:24]
+     :END:
+***** Español
+pordioseros
+***** Inglés
+beggars
+**** un sándwich de arroz                                             :drill:
+     SCHEDULED: <2021-02-07 dom>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       265153a8-72d9-41df-9541-b66cc8d86da3
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-03 mié 16:23]
+     :END:
+***** Español
+grasoso
+***** Inglés
+oily
+
+
+** chanclas
+| Español | Inglés | Contexto |
+|---------+--------+----------|
+|         |        |          |

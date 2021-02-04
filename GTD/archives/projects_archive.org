@@ -1,0 +1,17 @@
+
+* DONE Apply to McDonogh Scholarship [6/6]
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2021-02-03 mié 14:44
+  :ARCHIVE_FILE: ~/.emacs.d/GTD/projects.org
+  :ARCHIVE_CATEGORY: projects
+  :ARCHIVE_TODO: DONE
+  :END:
+** DONE Respond to Mary-Catherine
+** DONE Create Letter of Interest
+** DONE Update Resume
+** DONE Get Mary-Cahterine to review letter
+** DONE Fix emails so they are independent via godaddy
+
+[[~/reccomendation-letters/letter1.txt][letter 1]]
+
+** DONE send letter and resume to HR

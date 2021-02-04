@@ -59,25 +59,31 @@
  :END:
 ** Wednesday
 *** C trash
-    SCHEDULED: <2021-02-03 mié .+7d>
+    SCHEDULED: <2021-02-10 mié .+7d>
     :PROPERTIES:
     :STYLE:    habit
+    :LAST_REPEAT: [2021-02-03 mié 21:50]
     :END:
  :LOGBOOK:
+ - State "DONE"       from "C"          [2021-02-03 mié 21:50]
  :END:
 *** C update grades
-    SCHEDULED: <2021-02-03 mié .+7d>
+    SCHEDULED: <2021-02-10 mié .+7d>
     :PROPERTIES:
     :STYLE:    habit
+    :LAST_REPEAT: [2021-02-03 mié 21:50]
     :END:
  :LOGBOOK:
+ - State "DONE"       from "C"          [2021-02-03 mié 21:50]
  :END:
 *** C text mom
-    SCHEDULED: <2021-02-03 mié .+7d>
+    SCHEDULED: <2021-02-10 mié .+7d>
     :PROPERTIES:
     :STYLE:    habit
+    :LAST_REPEAT: [2021-02-03 mié 21:50]
     :END:
  :LOGBOOK:
+ - State "DONE"       from "C"          [2021-02-03 mié 21:50]
  :END:
 *** C go to Dispensa
     SCHEDULED: <2021-02-05 vie .+1w>
@@ -140,9 +146,11 @@
 
 *** every day
 ** C magit push
-   SCHEDULED: <2021-02-01 lun .+1d>
+   SCHEDULED: <2021-02-04 jue .+1d>
    :PROPERTIES:
    :STYLE:    habit
+   :LAST_REPEAT: [2021-02-03 mié 21:52]
    :END:
 :LOGBOOK:
+- State "DONE"       from "C"          [2021-02-03 mié 21:52]
 :END:

@@ -1,0 +1,38 @@
+* Issues
+** First HW tonight by midnight
+** Second HW tomorrow by midnight
+
+
+
+* Attendance
+
+- For the first week, we will take attendance daily so we get used to the routine.
+- During attendance, within a few seconds of saying your name you should reply with audio 'here'.
+- If your internet connection a particular day is not working during attendance, to get credit you will need to send me an email.
+- After that we will do it once or twice a week.
+- Attendance will be 20% of your classwork grade.
+- Attendance will typically occur at a random time during class (between 0 and 37 mins into class)
+
+
+|              | Alba | Allison | Antony | Carmen | Christian | Christopher | Dani | Deyli | Edvin | Efrain | Emely | Erika | Fernando | Hugo | Humberto | Jayde | Jostin | Juan David | Katherine | Lizzie | Maria | Noe | Roland | Timothy |
+|--------------+------+---------+--------+--------+-----------+-------------+------+-------+-------+--------+-------+-------+----------+------+----------+-------+--------+------------+-----------+--------+-------+-----+--------+---------|
+| attendance 1 | X    |         | X      |        | X         | X           | X    | X     | X     | X      | X     | x     | x        | x    | x        | x     | x      |            |           | x      | x     |     | x      | x       |
+|              |      |         |        |        |           |             |      |       |       |        |       |       |          |      |          |       |        |            |           |        |       |     |        |         |
+
+
+** random time
+(random 37) 17 
+
+
+
+* Topic
+
+** Solving Equations with One Unknown
+*** Number of Solutions to Equations
+**** Number of Solutions to Equations Exercise
+
+[[file:~/Krita/8/solving_equations_with_one_unknown/1 - Number Of Solutions to Equations Exercise.kra][file:~/Krita/8/solving_equations_with_one_unknown/1 - Number Of Solutions to Equations Exercise.kra]]
+
+
+**** Number of Solutions to Equations Challenge Exercise
+ 

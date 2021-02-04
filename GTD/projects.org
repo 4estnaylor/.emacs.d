@@ -1,30 +1,24 @@
  #+SEQ_TODO: TD(t) NXT(n) MYB(m) S(s) R(r) PROJ(p) | DONE(d) CANCELLED(c) 
   
-
+#+ARCHIVE: ~/.emacs.d/GTD/archives/projects_archive.org::
 
 Projects
 * PROJ Apply to Georgia Tech Online Masters Prorgram 
   DEADLINE: <2021-02-26 Fri>
 Submit completed Application to Georgia Tech Online Masters Program
 ** DONE TODO Write recomendation letter 1
-** NXT TODO Write recomendation letter 2
-** TD TODO Write reccomendation letter 3
+** DONE TODO Write recomendation letter 2
+** NXT TODO Write reccomendation letter 3
 ** TD TODO Write letter of purpose
 ** TD Revise recommendation letter 1
 ** TD Revise recommendation letter 2
 ** TD TODO Finish any forms
 * PROJ Make Money 
-** DONE Delete Varisty Tutors Account (not deleted)
-** DONE Create new account
-** NXT Do video interview
-** DONE Enter Information
-** DONE Qualify for teaching various subjects
-** DONE Get Validated
-** TD Start Tutoring Online
+** Brand New Varsity Tutors Account
 * PROJ Make Personal Website
 ** TD Buy Domain
-*** NXT Resarch Best Domain Service
-*** TD Purchas Domain
+*** DONE Resarch Best Domain Service
+*** DONE Purchas Domain
 ** TD Find VPS service suitable
 *** Research Best VPS service
 *** Purchase 1 mo of VPS service
@@ -39,20 +33,10 @@ Submit completed Application to Georgia Tech Online Masters Program
 *** TD Resume
 *** TD Interactive Projects
 **** TD Timers Riddle
-**** TD Youcubed Graph Activity
+**** NXT Youcubed Graph Activity
 **** TD Exponential Growth with Cubes
 **** TD Approximating Area of a Triangle
 
-* PROJ Apply to McDonogh Scholarship [4/6]
-** DONE Respond to Mary-Catherine
-** DONE Create Letter of Interest
-** DONE Update Resume
-** DONE Get Mary-Cahterine to review letter
-** NXT Fix emails so they are independent via godaddy
-
-[[~/reccomendation-letters/letter1.txt][letter 1]]
-
-** TD send letter and resume to HR
 * PROJ Plaining [2/6]
 ** TD Consider Life Purpose
 ** TD Consider Goals for 4/5 years from now
@@ -60,25 +44,15 @@ Submit completed Application to Georgia Tech Online Masters Program
 ** DONE Make Yoga Schedule
 ** DONE Establish Journal
 ** TD Revisit Projects
-* PROJ trip to Chiquimula
-** Get Covid Tests (800 lps)
-** Get money (2400 lps)
-** Pack for overnight to Chiquimula
-    - shirt
-    - undershirt
-    - underwear
-    - socks
-    - deoderant
-    - kindle
-    - passport
-    - phone charger
-
 * PROJ figure out how to get Jenn 3000 
   DEADLINE: <2021-02-14 dom>
-** Look at Schwabb account
-** Look at Occidente account
-** Send info to Jessenia
-** Text/Call Mom
+** DONE Look at Schwabb account
+** DONE Look at Occidente account
+** DONE Send info to Jessenia
+** DONE Text/Call Mom
+** Follow Up on Schwab 
+
+
 * PROJ smooth emacs over
 ** DONE figure out how to insert timestamps
 ** DONE more elegant template for journal mode
@@ -93,3 +67,10 @@ Submit completed Application to Georgia Tech Online Masters Program
 
 ** configure mbsync
 ** continue with [[https://www.youtube.com/watch?v=yZRyEhi4y44&list=PLEoMzSkcN8oM-kA19xOQc8s0gr0PpFGJQ&index=1][youtube video series]]
+* PROJ Valentine's day with Vero
+** NXT Get Vday Supplies
+*** wine
+*** cake
+*** flower
+*** baleadas
+*** card

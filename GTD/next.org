@@ -1,15 +1,12 @@
 #+SEQ_TODO: NXT(n) | DONE(d) CANCELLED(c) 
-#+ARCHIVE: ~/.emacs.d/GTD/archives/next_archive.org
+#+ARCHIVE: ~/.emacs.d/GTD/archives/next_archive.org::
 
 * Next Tasks
-** DONE buy power strip 
-** DONE Organize desk wires
 ** NXT clear matress area
 ** NXT Make bills plan
 ** NXT Create career planning document
 ** NXT complete dad's website
 ** NXT learn how to read emails using emacs
 ** NXT watch Youtube video on using emacs with email - Jan 31
-** DONE Contribute to [[file:areas_of_focus.org::*Build and nuture a social net][Areas of Focus]] [2021-02-01 lun]
 ** NXT Find a new book to read [2021-02-02 mar]
 ** NXT Get haircut
