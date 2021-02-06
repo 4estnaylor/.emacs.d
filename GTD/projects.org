@@ -8,7 +8,7 @@ Projects
 Submit completed Application to Georgia Tech Online Masters Program
 ** DONE TODO Write recomendation letter 1
 ** DONE TODO Write recomendation letter 2
-** NXT TODO Write reccomendation letter 3
+** DONE TODO Write reccomendation letter 3
 ** TD TODO Write letter of purpose
 ** TD Revise recommendation letter 1
 ** TD Revise recommendation letter 2

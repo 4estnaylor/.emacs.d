@@ -3,6 +3,8 @@
 * Grocery
 ** Dispensa
 *** Done Rum
+*** GET tilapia
+*** GET bolsas de basura
 ** Mi Super
 *** Done confectionary sugar
 *** GET nuts

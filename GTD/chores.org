@@ -39,12 +39,13 @@
  - State "DONE"       from "C"          [2021-02-01 lun 13:04]
  :END:
 *** C go to Mini Super
-    SCHEDULED: <2021-02-05 vie .+1w>
+    SCHEDULED: <2021-02-12 vie .+1w>
     :PROPERTIES:
     :STYLE:    habit
-    :LAST_REPEAT: [2021-01-29 vie 23:01]
+    :LAST_REPEAT: [2021-02-05 vie 09:18]
     :END:
  :LOGBOOK:
+ - State "DONE"       from "C"          [2021-02-05 vie 09:18]
  - State "DONE"       from "C"          [2021-01-29 vie 23:01]
  :END:
 ** Tuesday
@@ -106,30 +107,33 @@
  :END:
 ** Friday
 *** C trash
-    SCHEDULED: <2021-02-05 vie .+7d>
+    SCHEDULED: <2021-02-12 vie .+7d>
     :PROPERTIES:
     :STYLE:    habit
-    :LAST_REPEAT: [2021-01-29 vie 13:08]
+    :LAST_REPEAT: [2021-02-05 vie 13:22]
     :END:
  :LOGBOOK:
+ - State "DONE"       from "C"          [2021-02-05 vie 13:22]
  - State "DONE"       from "C"          [2021-01-29 vie 13:08]
  :END:
 *** C update grades
-    SCHEDULED: <2021-02-05 vie .+7d>
+    SCHEDULED: <2021-02-12 vie .+7d>
     :PROPERTIES:
     :STYLE:    habit
-    :LAST_REPEAT: [2021-01-29 vie 23:45]
+    :LAST_REPEAT: [2021-02-05 vie 18:53]
     :END:
  :LOGBOOK:
+ - State "DONE"       from "C"          [2021-02-05 vie 18:53]
  - State "DONE"       from "C"          [2021-01-29 vie 23:45]
  :END:
 *** C go to Mi Super
-    SCHEDULED: <2021-02-05 vie .+1w>
+    SCHEDULED: <2021-02-12 vie .+1w>
     :PROPERTIES:
     :STYLE:    habit
-    :LAST_REPEAT: [2021-01-29 vie 23:01]
+    :LAST_REPEAT: [2021-02-05 vie 18:49]
     :END:
  :LOGBOOK:
+ - State "DONE"       from "C"          [2021-02-05 vie 18:49]
  - State "DONE"       from "C"          [2021-01-29 vie 23:01]
  :END:
 ** Sat

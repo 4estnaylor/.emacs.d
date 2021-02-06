@@ -14,14 +14,16 @@
 - Attendance will typically occur at a random time during class (between 0 and 37 mins into class)
 
 
-|              | Alba | Allison | Antony | Carmen | Christian | Christopher | Dani | Deyli | Edvin | Efrain | Emely | Erika | Fernando | Hugo | Humberto | Jayde | Jostin | Juan David | Katherine | Lizzie | Maria | Noe | Roland | Timothy |
-|--------------+------+---------+--------+--------+-----------+-------------+------+-------+-------+--------+-------+-------+----------+------+----------+-------+--------+------------+-----------+--------+-------+-----+--------+---------|
-| attendance 1 | X    |         | X      |        | X         | X           | X    | X     | X     | X      | X     | x     | x        | x    | x        | x     | x      |            |           | x      | x     |     | x      | x       |
-|              |      |         |        |        |           |             |      |       |       |        |       |       |          |      |          |       |        |            |           |        |       |     |        |         |
+|              | Alba | Allison  | Antony | Carmen | Christian | Christopher | Dani | Deyli | Edvin | Efrain | Emely | Erika | Fernando | Hugo | Humberto | Jayde | Jostin | Juan David | Katherine | Lizzie | Maria | Noe | Roland | Timothy |
+|--------------+------+----------+--------+--------+-----------+-------------+------+-------+-------+--------+-------+-------+----------+------+----------+-------+--------+------------+-----------+--------+-------+-----+--------+---------|
+| attendance 1 | X    |          | X      |        | X         | X           | X    | X     | X     | X      | X     | x     | x        | x    | x        | x     | x      |            |           | x      | x     |     | x      | x       |
+| attendance 2 | X    | X(EMAIL) | X      | X      | X         | X           | X    | X     | X     | X      | X     | X     |          | X    | X        | X     | X      | X          | X         | X      | X     |     | X      | X       |
+| attendance 3 | X    | X        |        | X      | X         | X           | X    | X     | X     | X      | X     | X     | X        | X    | X        |       | X      | X          | X         | X      | X     |     | X      | X       |
+
 
 
 ** random time
-(random 37) 17 
+(random 37) 10
 
 
 
@@ -33,6 +35,45 @@
 
 [[file:~/Krita/8/solving_equations_with_one_unknown/1 - Number Of Solutions to Equations Exercise.kra][file:~/Krita/8/solving_equations_with_one_unknown/1 - Number Of Solutions to Equations Exercise.kra]]
 
+A -> Number of Solutions to Equations (Feb 3 by midnight)
+B -> Number of Soltuions to Equations Challenge (Feb 4 by midnight)
+C -> Sums of consecutive integers word problems
+
+|             | 3d (70%) | 2d (80%) | 1d (90%) | Waiting | On-Time & 70%+ |
+|-------------+----------+----------+----------+---------+----------------|
+| Alba        |          |          |          |         | A, B           |
+| Allison     |          |          |          |         | A, B           |
+| Antony      |          |          |          |         | A,B            |
+| Carmen      |          | A        |          |         | B              |
+| Christian   |          |          |          |         | A, B           |
+|-------------+----------+----------+----------+---------+----------------|
+| Christopher |          | A        | B        |         |                |
+| Dani        |          |          |          |         | A, B           |
+| Deyli       |          |          |          |         | A, B           |
+| Edvin       |          |          |          |         | A, B           |
+| Efrain      |          |          |          |         | A, B           |
+|-------------+----------+----------+----------+---------+----------------|
+| Emely       |          |          | B(check) |         | A              |
+| Erika       |          |          |          |         | A, B           |
+| Fernando    |          |          | B        |         | A              |
+| Hugo        |          | A        |          |         | B              |
+| Humberto    |          |          | [B]      |         | A              |
+|-------------+----------+----------+----------+---------+----------------|
+| Jayde       |          |          | B        |         | A              |
+| Jostin      |          | A        | B        |         |                |
+| Juan David  |          |          |          |         | A, B           |
+| Katherine   |          |          |          |         | A, B           |
+| Lizzie      |          |          |          |         | A, B           |
+|-------------+----------+----------+----------+---------+----------------|
+| Maria Jose  |          |          |          |         | A, B           |
+| Noe         |          |          |          |         | A, B           |
+| Roland      |          |          |          |         | A, B           |
+| Timothy     |          |          |          |         | A, B           |
+
+
+
+
+
 
 **** Number of Solutions to Equations Challenge Exercise
- 
+     

@@ -2175,7 +2175,733 @@ grasoso
 oily
 
 
-** chanclas
-| Español | Inglés | Contexto |
-|---------+--------+----------|
-|         |        |          |
+** Papá que se despierta candado en la oscuridad
+   :PROPERTIES:
+   :DRILL_HEADING: cards2
+   :DRILL_CARD_TYPE: twosided
+   :DRILL_INSTRUCTIONS:
+   :END:
+| Español      | definicion                                                                    | Contexto |
+|--------------+-------------------------------------------------------------------------------+----------|
+| aypachurra   | crush                                                                         |          |
+| barajas      | conjunto completo de cartas empleado para juegos de azar                      |          |
+| tarro        | recipiente de vidrio o porcelana generalmente cilíndrico y más alto que ancho |          |
+| colchón      | mattress                                                                      |          |
+| lujo         | damasía en el adorno, en la pompa y en el regalo                              |          |
+| ancla        | anchor                                                                        |          |
+| bracero      | worker                                                                        |          |
+| avergonzado  | ashamed                                                                       |          |
+| pañoleta     | kerchief                                                                      |          |
+| encinta      | pregnant                                                                      |          |
+| chiflar      | whistle                                                                       |          |
+| abarrotes    | groceries                                                                     |          |
+| esfinge      | sphinx                                                                        |          |
+| guiñando     | winkinkg                                                                      |          |
+| entrante     | incoming                                                                      |          |
+| persianas    | blinds                                                                        |          |
+| bocanada     | puff                                                                          |          |
+| moho         | mold                                                                          |          |
+| brincar      | jump                                                                          |          |
+| machincuepas | voltereta, pirueta                                                            |          |
+| sinfonoals   | radios                                                                        |          |
+| cobija       | blanket                                                                       |          |
+| gaviota      | seagull                                                                       |          |
+| arrugado     | aienta un dólar arrugado                                                      |          |
+| chal         | shawl                                                                         |          |
+| gamuza       | suede                                                                         |          |
+| párpados     | eyelids                                                                       |          |
+| reza         | pray                                                                          |          |
+| arde         | burns                                                                         |          |
+| hartarse     | get fed up                                                                    |          |
+| colina       | hill                                                                          |          |
+|              |                                                                               |          |
+
+*** Cards                                                          :noexport:
+
+**** cards2                                                           :drill:
+     SCHEDULED: <2021-02-09 mar>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       2b324a0a-943d-4f9c-97ef-4a81c1bd905a
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 3
+     :DRILL_FAILURE_COUNT: 2
+     :DRILL_AVERAGE_QUALITY: 2.333
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-05 vie 18:48]
+     :END:
+
+***** Español
+aypachurra
+
+***** definicion
+crush
+
+**** cards2                                                           :drill:
+     SCHEDULED: <2021-02-09 mar>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       1e08a604-4a4d-4967-b745-02c0f1e33c82
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 2
+     :DRILL_FAILURE_COUNT: 1
+     :DRILL_AVERAGE_QUALITY: 2.5
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-05 vie 18:48]
+     :END:
+
+***** Español
+encinta
+
+***** definicion
+pregnant
+
+**** cards2                                                           :drill:
+     SCHEDULED: <2021-02-09 mar>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       f36d2381-7f98-4116-8bfc-3c7c91a43641
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-05 vie 18:48]
+     :END:
+
+***** Español
+chiflar
+
+***** definicion
+whistle
+
+**** cards2                                                           :drill:
+     SCHEDULED: <2021-02-09 mar>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       d45ade5d-7884-4727-b52f-31faab428037
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 2
+     :DRILL_FAILURE_COUNT: 1
+     :DRILL_AVERAGE_QUALITY: 2.5
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-05 vie 18:49]
+     :END:
+
+***** Español
+abarrotes
+
+***** definicion
+groceries
+
+**** cards2                                                           :drill:
+     SCHEDULED: <2021-02-09 mar>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       7484c148-da03-45ee-9a47-49491c7d5761
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 3
+     :DRILL_FAILURE_COUNT: 2
+     :DRILL_AVERAGE_QUALITY: 2.333
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-05 vie 18:48]
+     :END:
+
+***** Español
+esfinge
+
+***** definicion
+sphinx
+
+**** cards2                                                           :drill:
+     SCHEDULED: <2021-02-09 mar>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       f10b8270-5c1e-4b98-8d0c-867f4be03fef
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 2
+     :DRILL_FAILURE_COUNT: 1
+     :DRILL_AVERAGE_QUALITY: 2.5
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-05 vie 18:49]
+     :END:
+
+***** Español
+guiñando
+
+***** definicion
+winkinkg
+
+**** cards2                                                           :drill:
+     SCHEDULED: <2021-02-09 mar>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       4cc03f20-3238-40fb-8a65-fcb775c92e4b
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-05 vie 18:46]
+     :END:
+
+***** Español
+entrante
+
+***** definicion
+incoming
+
+**** cards2                                                           :drill:
+     SCHEDULED: <2021-02-09 mar>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       36b58d42-a635-44fd-a1ee-ca749909e1d3
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-05 vie 18:47]
+     :END:
+
+***** Español
+persianas
+
+***** definicion
+blinds
+
+**** cards2                                                           :drill:
+     SCHEDULED: <2021-02-09 mar>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       753ff2c7-1c19-4831-b3ab-2c309b42d7c9
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 3
+     :DRILL_FAILURE_COUNT: 2
+     :DRILL_AVERAGE_QUALITY: 2.333
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-05 vie 18:49]
+     :END:
+
+***** Español
+bocanada
+
+***** definicion
+puff
+
+**** cards2                                                           :drill:
+     SCHEDULED: <2021-02-09 mar>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       dc685b01-7045-4b90-bb17-084ceb1c4698
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 2
+     :DRILL_FAILURE_COUNT: 1
+     :DRILL_AVERAGE_QUALITY: 2.5
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-05 vie 18:49]
+     :END:
+
+***** Español
+moho
+
+***** definicion
+mold
+
+**** cards2                                                           :drill:
+     SCHEDULED: <2021-02-09 mar>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       83bde860-11b5-446e-b76e-fe912fbec9c9
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-05 vie 18:47]
+     :END:
+
+***** Español
+brincar
+
+***** definicion
+jump
+
+**** cards2                                                           :drill:
+     SCHEDULED: <2021-02-09 mar>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       a4836aaa-9173-4fb7-8b85-0669b621e992
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 2
+     :DRILL_FAILURE_COUNT: 1
+     :DRILL_AVERAGE_QUALITY: 2.5
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-05 vie 18:48]
+     :END:
+
+***** Español
+machincuepas
+
+***** definicion
+voltereta, pirueta
+
+**** cards2                                                           :drill:
+     SCHEDULED: <2021-02-09 mar>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       e9a06ca4-a3e6-4850-b7d5-3810ee1c03ed
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-05 vie 18:47]
+     :END:
+
+***** Español
+sinfonoals
+
+***** definicion
+radios
+
+**** cards2                                                           :drill:
+     SCHEDULED: <2021-02-09 mar>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       e76753d9-6767-4e4d-84e8-e17ac30b8b58
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 2
+     :DRILL_FAILURE_COUNT: 1
+     :DRILL_AVERAGE_QUALITY: 2.5
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-05 vie 18:48]
+     :END:
+
+***** Español
+cobija
+
+***** definicion
+blanket
+
+**** cards2                                                           :drill:
+     SCHEDULED: <2021-02-09 mar>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       61fd4833-a055-4795-8ade-6639a245b180
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 3
+     :DRILL_FAILURE_COUNT: 2
+     :DRILL_AVERAGE_QUALITY: 2.333
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-05 vie 18:49]
+     :END:
+
+***** Español
+gaviota
+
+***** definicion
+seagull
+
+**** cards2                                                           :drill:
+     SCHEDULED: <2021-02-09 mar>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       a97f12dd-cc70-48c8-85c3-4be4337ed7bf
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-05 vie 18:47]
+     :END:
+
+***** Español
+arrugado
+
+***** definicion
+aienta un dólar arrugado
+
+**** cards2                                                           :drill:
+     SCHEDULED: <2021-02-09 mar>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       b5f9dee5-3948-4c31-858b-d31dff29d0b1
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-05 vie 18:47]
+     :END:
+
+***** Español
+chal
+
+***** definicion
+shawl
+
+**** cards2                                                           :drill:
+     SCHEDULED: <2021-02-09 mar>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       f943d779-7456-4e5f-b050-93a8c725c072
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 2
+     :DRILL_FAILURE_COUNT: 1
+     :DRILL_AVERAGE_QUALITY: 2.5
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-05 vie 18:48]
+     :END:
+
+***** Español
+gamuza
+
+***** definicion
+suede
+
+**** cards2                                                           :drill:
+     SCHEDULED: <2021-02-09 mar>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       11df6423-a1d0-4ea8-80c8-fbe0f7b50911
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-05 vie 18:47]
+     :END:
+
+***** Español
+párpados
+
+***** definicion
+eyelids
+
+**** cards2                                                           :drill:
+     SCHEDULED: <2021-02-09 mar>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       df711041-fdf2-42ba-948d-27899c79f155
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-05 vie 18:48]
+     :END:
+
+***** Español
+reza
+
+***** definicion
+pray
+
+**** cards2                                                           :drill:
+     SCHEDULED: <2021-02-09 mar>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       0be1f455-5b6e-456b-9651-bfcc895b7ad8
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-05 vie 18:47]
+     :END:
+
+***** Español
+arde
+
+***** definicion
+burns
+
+**** cards2                                                           :drill:
+     SCHEDULED: <2021-02-09 mar>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       9324ac88-e2cd-4874-b64a-a8eaab4c0ff1
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-05 vie 18:48]
+     :END:
+
+***** Español
+hartarse
+
+***** definicion
+get fed up
+
+**** cards2                                                           :drill:
+     SCHEDULED: <2021-02-09 mar>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       6cc1e7c6-c7b7-4a2d-a7ec-75cb82b26ef1
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 2
+     :DRILL_FAILURE_COUNT: 1
+     :DRILL_AVERAGE_QUALITY: 2.5
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-05 vie 18:49]
+     :END:
+
+***** Español
+colina
+
+***** definicion
+hill
+
+**** cards2                                                           :drill:
+     SCHEDULED: <2021-02-09 mar>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       0ee32587-a832-4384-b56e-e6f5fa584663
+     :DRILL_LAST_INTERVAL: 4.14
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 3
+     :DRILL_FAILURE_COUNT: 2
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.6
+     :DRILL_LAST_QUALITY: 5
+     :DRILL_LAST_REVIEWED: [2021-02-05 vie 18:49]
+     :END:
+
+
+**** cards2                                                           :drill:
+     SCHEDULED: <2021-02-09 mar>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       6e96f22d-4eda-4acc-b67f-e813e1a841e0
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 4
+     :DRILL_FAILURE_COUNT: 3
+     :DRILL_AVERAGE_QUALITY: 2.25
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-05 vie 15:40]
+     :END:
+
+***** Español
+apachurra
+
+***** definicion
+crush
+
+**** cards2                                                           :drill:
+     SCHEDULED: <2021-02-09 mar>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       90a45f12-d519-405b-a8c1-b7a638b4fb24
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 2
+     :DRILL_FAILURE_COUNT: 1
+     :DRILL_AVERAGE_QUALITY: 2.5
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-05 vie 15:39]
+     :END:
+
+***** Español
+barajas
+
+***** definicion
+conjunto completo de cartas empleado para juegos de azar
+
+**** cards2                                                           :drill:
+     SCHEDULED: <2021-02-09 mar>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       4de9e5f2-1201-41b6-8a39-bc166064b91a
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-05 vie 15:39]
+     :END:
+
+***** Español
+tarro
+
+***** definicion
+recipiente de vidrio o porcelana generalmente cilíndrico y más alto que ancho
+
+**** cards2                                                           :drill:
+     SCHEDULED: <2021-02-09 mar>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       054b4307-f2bd-43ca-945a-08d247362b22
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-05 vie 15:38]
+     :END:
+
+***** Español
+colchón
+
+***** definicion
+mattress
+
+**** cards2                                                           :drill:
+     SCHEDULED: <2021-02-09 mar>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       a682027a-97b0-4b05-bf7a-f5b9eb7271f6
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-05 vie 15:39]
+     :END:
+
+***** Español
+lujo
+
+***** definicion
+damasía en el adorno, en la pompa y en el regalo
+
+**** cards2                                                           :drill:
+     SCHEDULED: <2021-02-09 mar>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       4aafce4f-2bfd-493d-aef2-097f4b4d8030
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-05 vie 15:39]
+     :END:
+
+***** Español
+ancla
+
+***** definicion
+anchor
+
+**** cards2                                                           :drill:
+     SCHEDULED: <2021-02-09 mar>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       ff5da4ab-1c6a-4a2e-b90a-d0ee0df5cab0
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-05 vie 15:39]
+     :END:
+
+***** Español
+bracero
+
+***** definicion
+worker
+
+**** cards2                                                           :drill:
+     SCHEDULED: <2021-02-09 mar>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       956c48e7-f00f-4ccc-babc-93149a9a43b9
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 2
+     :DRILL_FAILURE_COUNT: 1
+     :DRILL_AVERAGE_QUALITY: 2.5
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-05 vie 15:39]
+     :END:
+
+***** Español
+avergonzado
+
+***** definicion
+ashamed
+
+**** cards2                                                           :drill:
+     SCHEDULED: <2021-02-09 mar>
+     :PROPERTIES:
+     :DRILL_CARD_TYPE: twosided
+     :ID:       ee5b7672-87ed-4311-9b8a-6a810fd17e6f
+     :DRILL_LAST_INTERVAL: 3.86
+     :DRILL_REPEATS_SINCE_FAIL: 2
+     :DRILL_TOTAL_REPEATS: 1
+     :DRILL_FAILURE_COUNT: 0
+     :DRILL_AVERAGE_QUALITY: 3.0
+     :DRILL_EASE: 2.36
+     :DRILL_LAST_QUALITY: 3
+     :DRILL_LAST_REVIEWED: [2021-02-05 vie 15:39]
+     :END:
+
+***** Español
+pañoleta
+
+***** definicion
+kerchief
