@@ -150,11 +150,12 @@
 
 *** every day
 ** C magit push
-   SCHEDULED: <2021-02-04 jue .+1d>
+   SCHEDULED: <2021-02-06 sáb .+1d>
    :PROPERTIES:
    :STYLE:    habit
-   :LAST_REPEAT: [2021-02-03 mié 21:52]
+   :LAST_REPEAT: [2021-02-05 vie 23:15]
    :END:
 :LOGBOOK:
+- State "DONE"       from "C"          [2021-02-05 vie 23:15]
 - State "DONE"       from "C"          [2021-02-03 mié 21:52]
 :END:

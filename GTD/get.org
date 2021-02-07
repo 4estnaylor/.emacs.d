@@ -5,6 +5,9 @@
 *** Done Rum
 *** GET tilapia
 *** GET bolsas de basura
+*** sponges
+*** milk
+*** tortillas
 ** Mi Super
 *** Done confectionary sugar
 *** GET nuts
