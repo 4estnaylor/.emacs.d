@@ -1,5 +1,6 @@
 * Current Book(s)
-** Casa en Mango Street
+** Meditations
+   -- Marcus Aurelius
 * Reading List
 ** The Organized Mind
 -- Daniel LEvitin
@@ -55,3 +56,4 @@
 
  :END:
   * Completed List
+** Casa en Mango Street

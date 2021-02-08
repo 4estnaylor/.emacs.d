@@ -1,9 +1,87 @@
+ #+SEQ_TODO: WR(w) | DONE(d) 
+
 Get Clear, Get Current, and Get Creative
 
 
-1. [X] Review Next Actions
-2. [X] Review Calendar Data Previous & Upcoming
-3. [X] Review 'waiting for list'
-4. [X] Review Projects List
-5. [X] Review Relevant Checklists
-6. [X] Review Someday/Maybe
+* WR Review Next Actions
+SCHEDULED: <2021-02-14 dom .+7d>
+:PROPERTIES:
+:STYLE: habit
+:LAST_REPEAT: [2021-02-07 dom 10:35]
+:END:
+:LOGBOOK:
+- State "DONE"       from "WR"         [2021-02-07 dom 10:35]
+:END:
+
+* WR Review Calendar Data Previous & Upcoming
+SCHEDULED: <2021-02-14 dom .+7d>
+:PROPERTIES:
+:STYLE: habit
+:LAST_REPEAT: [2021-02-07 dom 10:42]
+:END:
+:LOGBOOK:
+- State "DONE"       from "WR"         [2021-02-07 dom 10:42]
+:END:
+
+
+
+* WR Review 'Waiting List'
+SCHEDULED: <2021-02-14 dom .+7d>
+:PROPERTIES:
+:STYLE: habit
+:LAST_REPEAT: [2021-02-07 dom 10:42]
+:END:
+:LOGBOOK:
+- State "DONE"       from "WR"         [2021-02-07 dom 10:42]
+:END:
+
+
+
+
+
+
+* WR Review Projects List
+SCHEDULED: <2021-02-14 dom .+7d>
+:PROPERTIES:
+:STYLE: habit
+:LAST_REPEAT: [2021-02-07 dom 10:42]
+:END:
+:LOGBOOK:
+- State "DONE"       from "WR"         [2021-02-07 dom 10:42]
+:END:
+* WR Review Any Relevant Checklists
+SCHEDULED: <2021-02-14 dom .+7d>
+:PROPERTIES:
+:STYLE: habit
+:LAST_REPEAT: [2021-02-07 dom 10:42]
+:END:
+:LOGBOOK:
+- State "DONE"       from "WR"         [2021-02-07 dom 10:42]
+:END:
+* WR Review Someday/Maybe
+SCHEDULED: <2021-02-14 dom .+7d>
+:PROPERTIES:
+:STYLE: habit
+:LAST_REPEAT: [2021-02-07 dom 10:42]
+:END:
+:LOGBOOK:
+- State "DONE"       from "WR"         [2021-02-07 dom 10:42]
+:END:
+* WR Weekly Overview in Journal
+SCHEDULED: <2021-02-14 dom .+7d>
+:PROPERTIES:
+:STYLE: habit
+:LAST_REPEAT: [2021-02-07 dom 10:42]
+:END:
+:LOGBOOK:
+- State "DONE"       from "WR"         [2021-02-07 dom 10:42]
+:END:
+* WR weekly review template complete?
+SCHEDULED: <2021-02-14 dom .+7d>
+:PROPERTIES:
+:STYLE: habit
+:LAST_REPEAT: [2021-02-07 dom 10:42]
+:END:
+:LOGBOOK:
+- State "DONE"       from "WR"         [2021-02-07 dom 10:42]
+:END:

@@ -7,4 +7,5 @@
 ** MYB Create travel planning document <2021-01-29 vie>
 ** MYB Work on Udemy Krita Tutorail <2021-01-31 dom>
 ** MYB Get Vero's electric Piano and Start Practicing - Jan 31
-** MYB Create Goals -> daily, weekly, monthly, yearly
+** DONE Create Goals -> daily, weekly, monthly, yearly
+   

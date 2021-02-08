@@ -3,9 +3,10 @@
 * Grocery
 ** Dispensa
 *** Done Rum
-*** GET tilapia
-*** GET bolsas de basura
-*** sponges
+*** Done tilapia
+*** Done bolsas de basura
+*** Done fruits & Vegetables
+*** Done sponges
 *** milk
 *** tortillas
 ** Mi Super

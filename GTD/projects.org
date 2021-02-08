@@ -12,9 +12,10 @@ Submit completed Application to Georgia Tech Online Masters Program
 ** TD TODO Write letter of purpose
 ** TD Revise recommendation letter 1
 ** TD Revise recommendation letter 2
+** TD Revise recommendation letter 3
 ** TD TODO Finish any forms
 * PROJ Make Money 
-** Brand New Varsity Tutors Account
+** Brand New Varsity Tutors Account with forrestnaylor.me account
 * PROJ Make Personal Website
 ** TD Buy Domain
 *** DONE Resarch Best Domain Service
@@ -58,14 +59,14 @@ Submit completed Application to Georgia Tech Online Masters Program
 ** DONE more elegant template for journal mode
 ** DONE consider dilemma of having NXT tasks both in Project folder, and unique NXT folder
 ** TD create archiving system for each org file: calendar, projects, reference, wait, next, and maybe
-** TD figure out how to move org mode TODOs from one file to another easily
+** DONE figure out how to move org mode TODOs from one file to another easily
 ** TD figure out how to easily label all sub tasks under a project's tag
 
-* PROJ email with emacs [/] 
-** install isync
+* PROJ email with emacs [1/2] 
+** DONE install isync
 ** look into [[file:~/Desktop/clean/mastering-emacs-v3.epub][mastering emacs]]
 
-** configure mbsync
+** NXT configure mbsync
 ** continue with [[https://www.youtube.com/watch?v=yZRyEhi4y44&list=PLEoMzSkcN8oM-kA19xOQc8s0gr0PpFGJQ&index=1][youtube video series]]
 * PROJ Valentine's day with Vero
 ** NXT Get Vday Supplies
@@ -74,3 +75,23 @@ Submit completed Application to Georgia Tech Online Masters Program
 *** flower
 *** baleadas
 *** card
+* PROJ Trip to Tela
+** TD Get Money [4800]
+** DONE Determine Date (Wednesday - Friday)
+** TD Do GTD in advance to be ahead 
+** TD Look up place to stay
+** TD research good beach to go
+** TD Pack Bag
+   - [ ] 4 pairs underwear
+   - [ ] 1 jeans, 1 shorts, 1 bathing suit
+   - [ ] 4 shirts
+   - [ ] 4 undershirts
+   - [ ] sneakers, sandals
+   - [ ] sunscreen
+   - [ ] toothpaste
+   - [ ] toothbrush
+   - [ ] deoderant
+   - [ ] water bottle
+   - [ ] cell data
+   - [ ] kindle (reading material)
+   - [ ] camera (charged)

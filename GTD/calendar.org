@@ -7,7 +7,7 @@
   SCHEDULED: <2021-01-30 sáb>
 * DONE withdraw 2400 lps for Guate 
   SCHEDULED: <2021-01-30 sáb>
-* Pay Rent [2/2]
+* DONE Pay Rent [2/2]
 ** DONE payment 1 (3000)
 ** DONE payment 2 (3000)
    SCHEDULED: <2021-02-02 mar>

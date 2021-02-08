@@ -294,7 +294,17 @@
    '("c83c095dd01cde64b631fb0fe5980587deec3834dc55144a6e78ff91ebc80b19" default))
  '(initial-buffer-choice "~/.emacs.d/GTD/gtd.org")
  '(org-agenda-custom-commands
-   '(("d" "Daily View"
+   '(("w" "Weekly Review"
+      ((todo "WR"
+	     ((org-agenda-overriding-header "Weekly Review Tasks")))
+       (todo "WG"
+	     ((org-agenda-overriding-header "Weekly Goals")))
+       (todo "MG"
+	     ((org-agenda-overriding-header "Monthly Goals")))
+       (todo "YG"
+	     ((org-agenda-overriding-header "Yearly Goals"))))
+      nil nil)
+     ("d" "Daily View"
       ((todo "DG"
 	     ((org-agenda-overriding-header "Daily Goals")))
        (todo "NXT"
@@ -313,7 +323,7 @@
      ("c" "Chores" todo "C"
       ((org-agenda-overriding-header "Chores")))))
  '(org-agenda-files
-   '("~/.emacs.d/GTD/goals/yearly_goals.org" "~/.emacs.d/GTD/goals/monthly_goals.org" "~/.emacs.d/GTD/goals/weekly_goals.org" "~/.emacs.d/GTD/journal.org" "~/.emacs.d/GTD/get.org" "~/.emacs.d/GTD/next.org" "~/.emacs.d/GTD/calendar.org" "~/.emacs.d/GTD/chores.org" "~/.emacs.d/GTD/projects.org" "~/.emacs.d/GTD/habits.org" "~/.emacs.d/Org/main.org" "~/Org/main.org"))
+   '("~/.emacs.d/GTD/goals/weekly_goals.org" "~/.emacs.d/GTD/weekly_review/weekly_review_checklist.org" "~/.emacs.d/GTD/goals/yearly_goals.org" "~/.emacs.d/GTD/goals/monthly_goals.org" "~/.emacs.d/GTD/journal.org" "~/.emacs.d/GTD/get.org" "~/.emacs.d/GTD/next.org" "~/.emacs.d/GTD/calendar.org" "~/.emacs.d/GTD/chores.org" "~/.emacs.d/GTD/projects.org" "~/.emacs.d/GTD/habits.org" "~/.emacs.d/Org/main.org" "~/Org/main.org"))
  '(org-capture-templates
    '(("J" "journal template" entry
       (file "~/.emacs.d/GTD/journal.org")

@@ -1,5 +1,11 @@
  #+SEQ_TODO: WG(w) | DONE(d) Missed(m)
 * 30/01 - 06/02
-** WG finish la casa en mango street
+** DONE finish la casa en mango street
 ** DONE go on three walks with Vero [3/3]
 ** DONE submit application for McDonogh 
+
+
+* 7/02 - 14/02
+** WG Finish Meditations by Marcus Aurelius
+** WG Submit Georgia Tech Application
+** WG Travel to the coast (tela/puerto cortez)!

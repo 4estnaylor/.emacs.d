@@ -1,13 +1,14 @@
  #+SEQ_TODO: MG(m) | DONE(d) Missed(m)
 
 * February 
-** MG Read 3 books [1/3]
+** MG Read 3 books [2/3]
 - [X] GTD 
-- [ ] 
+- [X] La Casa en Mango Street
 - [ ]
 ** MG Send out 3 applications [1/3]
 - [X] McDonogh
 - [ ] Georgia Tech
 - [ ] ??? 
-** MG Do weekly reviews every week [0/4] 
+** MG Do weekly reviews every week [1/1] 
+- [X] 
 ** MG Finish Dad's Website 

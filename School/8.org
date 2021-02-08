@@ -53,11 +53,11 @@ C -> Sums of consecutive integers word problems
 | Edvin       |          |          |          |         | A, B           |
 | Efrain      |          |          |          |         | A, B           |
 |-------------+----------+----------+----------+---------+----------------|
-| Emely       |          |          | B(check) |         | A              |
+| Emely       |          |          |          |         | A, B           |
 | Erika       |          |          |          |         | A, B           |
-| Fernando    |          |          | B        |         | A              |
-| Hugo        |          | A        |          |         | B              |
-| Humberto    |          |          | [B]      |         | A              |
+| Fernando    |          |          | *B       |         | A              |
+| Hugo        |          |          |          |         | A, B           |
+| Humberto    |          | [B]      |          |         | A              |
 |-------------+----------+----------+----------+---------+----------------|
 | Jayde       |          |          | B        |         | A              |
 | Jostin      |          | A        | B        |         |                |

@@ -8,5 +8,8 @@
 ** NXT complete dad's website
 ** NXT learn how to read emails using emacs
 ** NXT watch Youtube video on using emacs with email - Jan 31
-** NXT Find a new book to read [2021-02-02 mar]
+** DONE Find a new book to read [2021-02-02 mar]
 ** NXT Get haircut
+** DONE Send students an email about missing works 
+** NXT make plan for tela trip
+** NXT make cool desktop background
