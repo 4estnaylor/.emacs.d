@@ -14,11 +14,12 @@
 - Attendance will typically occur at a random time during class (between 0 and 37 mins into class)
 
 
-|              | Alba | Allison  | Antony | Carmen | Christian | Christopher | Dani | Deyli | Edvin | Efrain | Emely | Erika | Fernando | Hugo | Humberto | Jayde | Jostin | Juan David | Katherine | Lizzie | Maria | Noe | Roland | Timothy |
-|--------------+------+----------+--------+--------+-----------+-------------+------+-------+-------+--------+-------+-------+----------+------+----------+-------+--------+------------+-----------+--------+-------+-----+--------+---------|
-| attendance 1 | X    |          | X      |        | X         | X           | X    | X     | X     | X      | X     | x     | x        | x    | x        | x     | x      |            |           | x      | x     |     | x      | x       |
-| attendance 2 | X    | X(EMAIL) | X      | X      | X         | X           | X    | X     | X     | X      | X     | X     |          | X    | X        | X     | X      | X          | X         | X      | X     |     | X      | X       |
-| attendance 3 | X    | X        |        | X      | X         | X           | X    | X     | X     | X      | X     | X     | X        | X    | X        |       | X      | X          | X         | X      | X     |     | X      | X       |
+|              | Alba | Allison  | Antony | Carmen | Christian | Christopher | Dani | Deyli | Edvin | Efrain | Emely | Erika | Fernando | Hugo | Humberto      | Jayde | Jostin              | Juan David | Katherine | Lizzie | Maria | Noe | Roland | Timothy |
+|--------------+------+----------+--------+--------+-----------+-------------+------+-------+-------+--------+-------+-------+----------+------+---------------+-------+---------------------+------------+-----------+--------+-------+-----+--------+---------|
+| attendance 1 | X    |          | X      |        | X         | X           | X    | X     | X     | X      | X     | x     | x        | x    | x             | x     | x                   |            |           | x      | x     |     | x      | x       |
+| attendance 2 | X    | X(EMAIL) | X      | X      | X         | X           | X    | X     | X     | X      | X     | X     |          | X    | X             | X     | X                   | X          | X         | X      | X     |     | X      | X       |
+| attendance 3 | X    | X        |        | X      | X         | X           | X    | X     | X     | X      | X     | X     | X        | X    | X             |       | X                   | X          | X         | X      | X     |     | X      | X       |
+| attendance 4 | X    | X        | ()     | X      | X         | X           | X    | X     | X     | X      | X     | X     |          | X    | (no internet) | x     | (weird mixup thing) | X          | X         | X      | x     | *   | x      | x       |
 
 
 
@@ -77,3 +78,66 @@ C -> Sums of consecutive integers word problems
 
 **** Number of Solutions to Equations Challenge Exercise
      
+* Feb 8 - 12 
+
+
+
+A -> Number of Solutions to Equations (Feb 3 by midnight)
+B -> Number of Soltuions to Equations Challenge (Feb 4 by midnight)
+C -> Sums of consecutive integers word problems
+
+// * completed (late)
+// [] completed but, you can still get a higher score by turning in late
+
+| completed |             | 3d (70%) | 2d (80%) | 1d (90%) | Waiting | On-Time & 70%+ |
+|-----------+-------------+----------+----------+----------+---------+----------------|
+| A, B      | Alba        |          |          |          |         |                |
+| A, B      | Allison     |          |          |          |         |                |
+| A, B      | Antony      |          |          |          |         |                |
+| B         | Carmen      | A        |          |          |         |                |
+|           | Christian   |          |          |          |         |                |
+|-----------+-------------+----------+----------+----------+---------+----------------|
+|           | Christopher | A        | B        |          |         |                |
+| A, B      | Dani        |          |          |          |         |                |
+| A, B      | Deyli       |          |          |          |         |                |
+| A, B      | Edvin       |          |          |          |         |                |
+| A. B      | Efrain      |          |          |          |         |                |
+|-----------+-------------+----------+----------+----------+---------+----------------|
+| A, B      | Emely       |          |          |          |         |                |
+| A, B      | Erika       |          |          |          |         |                |
+| A, *B     | Fernando    |          |          |          |         |                |
+| A, B      | Hugo        |          |          |          |         |                |
+| A, [B]    | Humberto    |          | [B]      |          |         |                |
+|-----------+-------------+----------+----------+----------+---------+----------------|
+| A         | Jayde       |          | B        |          |         |                |
+|           | Jostin      | A        | B        |          |         |                |
+| A, B      | Juan David  |          |          |          |         |                |
+| A, B      | Katherine   |          |          |          |         |                |
+| A, B      | Lizzie      |          |          |          |         |                |
+|-----------+-------------+----------+----------+----------+---------+----------------|
+| A, B      | Maria Jose  |          |          |          |         |                |
+| A, B      | Noe         |          |          |          |         |                |
+| A, B      | Roland      |          |          |          |         |                |
+| A, B      | Timothy     |          |          |          |         |                |
+
+
+
+** Mon
+*** Get to new Google Classroom 
+-> Invitations: https://classroom.google.com/c/MjU0NDAyNDM4MjQ5?cjc=tzikmmv
+-> Classword Code: tzikmmv
+
+-> Class Video Changes
+    -> New password every class :(
+    -> Whiteboard we can share :)
+    -> can record classes? :)
+    
+*** review adding sums of consecutive numbers
+    -> integers
+    -> even numbers
+    -> odd numbers
+-> Transition to an Algebraic Method
+** Tues
+** Wed
+** Thur
+** Fri

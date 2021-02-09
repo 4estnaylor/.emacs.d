@@ -12,4 +12,5 @@
 ** NXT Get haircut
 ** DONE Send students an email about missing works 
 ** NXT make plan for tela trip
-** NXT make cool desktop background
+** DONE make cool desktop background
+** NXT checkout commandline password store program [2021-02-08 lun]

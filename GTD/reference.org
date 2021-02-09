@@ -94,3 +94,5 @@
  Source: Johann Wolfgang von Goethe
 ** A vision without a task is but a dream; a task without a vision is but drudgery; a vision and a task is the hope of the world.
  Source: From a church in Sussex, England, ca. 1730
+** passwordstore - commandline program
+ Source: 
