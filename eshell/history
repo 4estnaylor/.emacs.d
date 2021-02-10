@@ -1,0 +1,20 @@
+mbsync -a
+mkdir Mail
+ls
+rmdir Mail/
+cd ~
+mkdir Mail
+ls
+mbsync -a
+mbsync -a
+mbsync -a
+mbsync -a
+mbsync -a
+clear
+mbsync -a
+mbsync -a
+mbsync -a
+mbsync -a
+mbsync -a
+mbsync -a
+mbsync -a

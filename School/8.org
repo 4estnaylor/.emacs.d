@@ -20,6 +20,7 @@
 | attendance 2 | X    | X(EMAIL) | X      | X      | X         | X           | X    | X     | X     | X      | X     | X     |          | X    | X             | X     | X                   | X          | X         | X      | X     |     | X      | X       |
 | attendance 3 | X    | X        |        | X      | X         | X           | X    | X     | X     | X      | X     | X     | X        | X    | X             |       | X                   | X          | X         | X      | X     |     | X      | X       |
 | attendance 4 | X    | X        | ()     | X      | X         | X           | X    | X     | X     | X      | X     | X     |          | X    | (no internet) | x     | (weird mixup thing) | X          | X         | X      | x     | *   | x      | x       |
+| attendance 5 |      |          |        |        |           |             |      |       |       |        |       |       |          |      |               |       |                     |            |           |        |       |     |        |         |
 
 
 
@@ -86,39 +87,42 @@ A -> Number of Solutions to Equations (Feb 3 by midnight)
 B -> Number of Soltuions to Equations Challenge (Feb 4 by midnight)
 C -> Sums of consecutive integers word problems
 
-// * completed (late)
+// *, **, *** completed (late)
 // [] completed but, you can still get a higher score by turning in late
+
+emails - christopher A, B
+emails - Jostin A, B
 
 | completed |             | 3d (70%) | 2d (80%) | 1d (90%) | Waiting | On-Time & 70%+ |
 |-----------+-------------+----------+----------+----------+---------+----------------|
-| A, B      | Alba        |          |          |          |         |                |
-| A, B      | Allison     |          |          |          |         |                |
-| A, B      | Antony      |          |          |          |         |                |
-| B         | Carmen      | A        |          |          |         |                |
-|           | Christian   |          |          |          |         |                |
+| A, B      | Alba        |          |          |          | C       |                |
+| A, B      | Allison     |          |          |          | C       |                |
+| A, B      | Antony      |          |          |          | C       |                |
+| ***A, B   | Carmen      |          |          |          | C       |                |
+|           | Christian   |          |          |          | C       |                |
 |-----------+-------------+----------+----------+----------+---------+----------------|
-|           | Christopher | A        | B        |          |         |                |
-| A, B      | Dani        |          |          |          |         |                |
-| A, B      | Deyli       |          |          |          |         |                |
-| A, B      | Edvin       |          |          |          |         |                |
-| A. B      | Efrain      |          |          |          |         |                |
+|           | Christopher | B        |          |          | C       |                |
+| A, B      | Dani        |          |          |          | C       |                |
+| A, B      | Deyli       |          |          |          | C       |                |
+| A, B      | Edvin       |          |          |          | C       |                |
+| A. B      | Efrain      |          |          |          | C       |                |
 |-----------+-------------+----------+----------+----------+---------+----------------|
-| A, B      | Emely       |          |          |          |         |                |
-| A, B      | Erika       |          |          |          |         |                |
-| A, *B     | Fernando    |          |          |          |         |                |
-| A, B      | Hugo        |          |          |          |         |                |
-| A, [B]    | Humberto    |          | [B]      |          |         |                |
+| A, B      | Emely       |          |          |          | C       |                |
+| A, B      | Erika       |          |          |          | C       |                |
+| A, **B    | Fernando    |          |          |          | C       |                |
+| A, B      | Hugo        |          |          |          | C       |                |
+| A, [B]    | Humberto    | [B]      |          |          | C       |                |
 |-----------+-------------+----------+----------+----------+---------+----------------|
-| A         | Jayde       |          | B        |          |         |                |
-|           | Jostin      | A        | B        |          |         |                |
-| A, B      | Juan David  |          |          |          |         |                |
-| A, B      | Katherine   |          |          |          |         |                |
-| A, B      | Lizzie      |          |          |          |         |                |
+| A         | Jayde       | B        |          |          | C       |                |
+|           | Jostin      | B        |          |          | C       |                |
+| A, B      | Juan David  |          |          |          | C       |                |
+| A, B      | Katherine   |          |          |          | C       |                |
+| A, B      | Lizzie      |          |          |          | C       |                |
 |-----------+-------------+----------+----------+----------+---------+----------------|
-| A, B      | Maria Jose  |          |          |          |         |                |
-| A, B      | Noe         |          |          |          |         |                |
-| A, B      | Roland      |          |          |          |         |                |
-| A, B      | Timothy     |          |          |          |         |                |
+| A, B      | Maria Jose  |          |          |          | C       |                |
+| A, B      | Noe         |          |          |          | C       |                |
+| A, B      | Roland      |          |          |          | C       |                |
+| A, B      | Timothy     |          |          |          | C       |                |
 
 
 

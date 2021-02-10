@@ -14,3 +14,4 @@
 ** NXT make plan for tela trip
 ** DONE make cool desktop background
 ** NXT checkout commandline password store program [2021-02-08 lun]
+** NXT Get more cooking gas... [2021-02-09 mar]
