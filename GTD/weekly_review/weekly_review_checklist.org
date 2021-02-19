@@ -4,34 +4,37 @@ Get Clear, Get Current, and Get Creative
 
 
 * WR Review Next Actions
-SCHEDULED: <2021-02-14 dom .+7d>
+SCHEDULED: <2021-02-25 jue .+7d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2021-02-07 dom 10:35]
+:LAST_REPEAT: [2021-02-18 jue 20:59]
 :END:
 :LOGBOOK:
+- State "DONE"       from "WR"         [2021-02-18 jue 20:59]
 - State "DONE"       from "WR"         [2021-02-07 dom 10:35]
 :END:
 
 * WR Review Calendar Data Previous & Upcoming
-SCHEDULED: <2021-02-14 dom .+7d>
+SCHEDULED: <2021-02-25 jue .+7d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2021-02-07 dom 10:42]
+:LAST_REPEAT: [2021-02-18 jue 20:59]
 :END:
 :LOGBOOK:
+- State "DONE"       from "WR"         [2021-02-18 jue 20:59]
 - State "DONE"       from "WR"         [2021-02-07 dom 10:42]
 :END:
 
 
 
 * WR Review 'Waiting List'
-SCHEDULED: <2021-02-14 dom .+7d>
+SCHEDULED: <2021-02-25 jue .+7d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2021-02-07 dom 10:42]
+:LAST_REPEAT: [2021-02-18 jue 20:59]
 :END:
 :LOGBOOK:
+- State "DONE"       from "WR"         [2021-02-18 jue 20:59]
 - State "DONE"       from "WR"         [2021-02-07 dom 10:42]
 :END:
 
@@ -41,47 +44,52 @@ SCHEDULED: <2021-02-14 dom .+7d>
 
 
 * WR Review Projects List
-SCHEDULED: <2021-02-14 dom .+7d>
+SCHEDULED: <2021-02-25 jue .+7d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2021-02-07 dom 10:42]
+:LAST_REPEAT: [2021-02-18 jue 20:59]
 :END:
 :LOGBOOK:
+- State "DONE"       from "WR"         [2021-02-18 jue 20:59]
 - State "DONE"       from "WR"         [2021-02-07 dom 10:42]
 :END:
 * WR Review Any Relevant Checklists
-SCHEDULED: <2021-02-14 dom .+7d>
+SCHEDULED: <2021-02-25 jue .+7d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2021-02-07 dom 10:42]
+:LAST_REPEAT: [2021-02-18 jue 20:59]
 :END:
 :LOGBOOK:
+- State "DONE"       from "WR"         [2021-02-18 jue 20:59]
 - State "DONE"       from "WR"         [2021-02-07 dom 10:42]
 :END:
 * WR Review Someday/Maybe
-SCHEDULED: <2021-02-14 dom .+7d>
+SCHEDULED: <2021-02-25 jue .+7d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2021-02-07 dom 10:42]
+:LAST_REPEAT: [2021-02-18 jue 20:59]
 :END:
 :LOGBOOK:
+- State "DONE"       from "WR"         [2021-02-18 jue 20:59]
 - State "DONE"       from "WR"         [2021-02-07 dom 10:42]
 :END:
 * WR Weekly Overview in Journal
-SCHEDULED: <2021-02-14 dom .+7d>
+SCHEDULED: <2021-02-25 jue .+7d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2021-02-07 dom 10:42]
+:LAST_REPEAT: [2021-02-18 jue 20:59]
 :END:
 :LOGBOOK:
+- State "DONE"       from "WR"         [2021-02-18 jue 20:59]
 - State "DONE"       from "WR"         [2021-02-07 dom 10:42]
 :END:
 * WR weekly review template complete?
-SCHEDULED: <2021-02-14 dom .+7d>
+SCHEDULED: <2021-02-25 jue .+7d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2021-02-07 dom 10:42]
+:LAST_REPEAT: [2021-02-18 jue 20:59]
 :END:
 :LOGBOOK:
+- State "DONE"       from "WR"         [2021-02-18 jue 20:59]
 - State "DONE"       from "WR"         [2021-02-07 dom 10:42]
 :END:

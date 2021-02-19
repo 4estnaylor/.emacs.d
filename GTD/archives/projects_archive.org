@@ -15,3 +15,45 @@
 [[~/reccomendation-letters/letter1.txt][letter 1]]
 
 ** DONE send letter and resume to HR
+
+* DONE Trip to Tela
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2021-02-18 jue 13:36
+  :ARCHIVE_FILE: ~/.emacs.d/GTD/projects.org
+  :ARCHIVE_CATEGORY: projects
+  :ARCHIVE_TODO: DONE
+  :END:
+** DONE Get Money [4800]
+** DONE Determine Date (Wednesday - Friday)
+** DONE Do GTD in advance to be ahead 
+** DONE Look up place to stay
+** DONE research good beach to go
+** DONE Pack Bag
+   - [ ] 4 pairs underwear
+   - [ ] 1 jeans, 1 shorts, 1 bathing suit
+   - [ ] 4 shirts
+   - [ ] 4 undershirts
+   - [ ] sneakers, sandals
+   - [ ] sunscreen
+   - [ ] toothpaste
+   - [ ] toothbrush
+   - [ ] deoderant
+   - [ ] water bottle
+   - [ ] cell data
+   - [ ] kindle (reading material)
+   - [ ] camera (charged)
+
+* DONE Valentine's day with Vero
+  :PROPERTIES:
+  :ARCHIVE_TIME: 2021-02-18 jue 13:36
+  :ARCHIVE_FILE: ~/.emacs.d/GTD/projects.org
+  :ARCHIVE_CATEGORY: projects
+  :ARCHIVE_TODO: DONE
+  :END:
+** DONE Get Vday Supplies
+*** wine
+*** cake
+*** flower
+*** baleadas
+*** card
+

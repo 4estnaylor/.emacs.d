@@ -2,53 +2,58 @@
 * chores
 ** Sunday
 *** C weekly review
-    SCHEDULED: <2021-02-14 dom .+7d>
+    SCHEDULED: <2021-02-25 jue .+7d>
     :PROPERTIES:
     :STYLE:    habit
-    :LAST_REPEAT: [2021-02-07 dom 10:39]
+    :LAST_REPEAT: [2021-02-18 jue 11:43]
     :END:
  :LOGBOOK:
+ - State "DONE"       from "C"          [2021-02-18 jue 11:43]
  - State "DONE"       from "C"          [2021-02-07 dom 10:39]
  - State "DONE"       from "C"          [2021-01-31 dom 23:34]
  :END:
 *** C clip nails
-    SCHEDULED: <2021-02-14 dom .+7d>
+    SCHEDULED: <2021-02-25 jue .+7d>
     :PROPERTIES:
     :STYLE:    habit
-    :LAST_REPEAT: [2021-02-07 dom 09:01]
+    :LAST_REPEAT: [2021-02-18 jue 11:07]
     :END:
  :LOGBOOK:
+ - State "DONE"       from "C"          [2021-02-18 jue 11:07]
  - State "DONE"       from "C"          [2021-02-07 dom 09:01]
  - State "DONE"       from "C"          [2021-01-31 dom 11:02]
  :END:
 *** C family video chat
-    SCHEDULED: <2021-02-14 dom .+7d>
+    SCHEDULED: <2021-02-25 jue .+7d>
     :PROPERTIES:
     :STYLE:    habit
-    :LAST_REPEAT: [2021-02-07 dom 13:12]
+    :LAST_REPEAT: [2021-02-18 jue 09:09]
     :END:
  :LOGBOOK:
+ - State "DONE"       from "C"          [2021-02-18 jue 09:09]
  - State "DONE"       from "C"          [2021-02-07 dom 13:12]
  - State "DONE"       from "C"          [2021-01-31 dom 15:04]
  :END:
 ** Monday
 *** C trash
-    SCHEDULED: <2021-02-15 lun .+7d>
+    SCHEDULED: <2021-02-25 jue .+7d>
     :PROPERTIES:
     :STYLE:    habit
-    :LAST_REPEAT: [2021-02-08 lun 11:42]
+    :LAST_REPEAT: [2021-02-18 jue 09:08]
     :END:
  :LOGBOOK:
+ - State "DONE"       from "C"          [2021-02-18 jue 09:08]
  - State "DONE"       from "C"          [2021-02-08 lun 11:42]
  - State "DONE"       from "C"          [2021-02-01 lun 13:04]
  :END:
 *** C go to Mini Super
-    SCHEDULED: <2021-02-12 vie .+1w>
+    SCHEDULED: <2021-02-25 jue .+1w>
     :PROPERTIES:
     :STYLE:    habit
-    :LAST_REPEAT: [2021-02-05 vie 09:18]
+    :LAST_REPEAT: [2021-02-18 jue 11:43]
     :END:
  :LOGBOOK:
+ - State "DONE"       from "C"          [2021-02-18 jue 11:43]
  - State "DONE"       from "C"          [2021-02-05 vie 09:18]
  - State "DONE"       from "C"          [2021-01-29 vie 23:01]
  :END:
@@ -64,21 +69,23 @@
  :END:
 ** Wednesday
 *** C trash
-    SCHEDULED: <2021-02-10 mié .+7d>
+    SCHEDULED: <2021-02-25 jue .+7d>
     :PROPERTIES:
     :STYLE:    habit
-    :LAST_REPEAT: [2021-02-03 mié 21:50]
+    :LAST_REPEAT: [2021-02-18 jue 09:08]
     :END:
  :LOGBOOK:
+ - State "DONE"       from "C"          [2021-02-18 jue 09:08]
  - State "DONE"       from "C"          [2021-02-03 mié 21:50]
  :END:
 *** C update grades
-    SCHEDULED: <2021-02-10 mié .+7d>
+    SCHEDULED: <2021-02-25 jue .+7d>
     :PROPERTIES:
     :STYLE:    habit
-    :LAST_REPEAT: [2021-02-03 mié 21:50]
+    :LAST_REPEAT: [2021-02-18 jue 11:43]
     :END:
  :LOGBOOK:
+ - State "DONE"       from "C"          [2021-02-18 jue 11:43]
  - State "DONE"       from "C"          [2021-02-03 mié 21:50]
  :END:
 *** C text mom
@@ -91,65 +98,71 @@
  - State "DONE"       from "C"          [2021-02-03 mié 21:50]
  :END:
 *** C go to Dispensa
-    SCHEDULED: <2021-02-14 dom .+1w>
+    SCHEDULED: <2021-02-25 jue .+1w>
     :PROPERTIES:
     :STYLE:    habit
-    :LAST_REPEAT: [2021-02-07 dom 13:12]
+    :LAST_REPEAT: [2021-02-18 jue 11:43]
     :END:
  :LOGBOOK:
+ - State "DONE"       from "C"          [2021-02-18 jue 11:43]
  - State "DONE"       from "C"          [2021-02-07 dom 13:12]
  - State "DONE"       from "C"          [2021-01-29 vie 23:01]
  :END:
 ** Thursday
 *** C text Dad
-    SCHEDULED: <2021-02-14 dom .+7d>
+    SCHEDULED: <2021-02-25 jue .+7d>
     :PROPERTIES:
     :STYLE:    habit
-    :LAST_REPEAT: [2021-02-07 dom 22:43]
+    :LAST_REPEAT: [2021-02-18 jue 09:09]
     :END:
  :LOGBOOK:
+ - State "DONE"       from "C"          [2021-02-18 jue 09:09]
  - State "DONE"       from "C"          [2021-02-07 dom 22:43]
  - State "DONE"       from "C"          [2021-01-31 dom 11:05]
  :END:
 ** Friday
 *** C trash
-    SCHEDULED: <2021-02-12 vie .+7d>
+    SCHEDULED: <2021-02-25 jue .+7d>
     :PROPERTIES:
     :STYLE:    habit
-    :LAST_REPEAT: [2021-02-05 vie 13:22]
+    :LAST_REPEAT: [2021-02-18 jue 09:09]
     :END:
  :LOGBOOK:
+ - State "DONE"       from "C"          [2021-02-18 jue 09:09]
  - State "DONE"       from "C"          [2021-02-05 vie 13:22]
  - State "DONE"       from "C"          [2021-01-29 vie 13:08]
  :END:
 *** C update grades
-    SCHEDULED: <2021-02-12 vie .+7d>
+    SCHEDULED: <2021-02-25 jue .+7d>
     :PROPERTIES:
     :STYLE:    habit
-    :LAST_REPEAT: [2021-02-05 vie 18:53]
+    :LAST_REPEAT: [2021-02-18 jue 11:42]
     :END:
  :LOGBOOK:
+ - State "DONE"       from "C"          [2021-02-18 jue 11:42]
  - State "DONE"       from "C"          [2021-02-05 vie 18:53]
  - State "DONE"       from "C"          [2021-01-29 vie 23:45]
  :END:
 *** C go to Mi Super
-    SCHEDULED: <2021-02-12 vie .+1w>
+    SCHEDULED: <2021-02-25 jue .+1w>
     :PROPERTIES:
     :STYLE:    habit
-    :LAST_REPEAT: [2021-02-05 vie 18:49]
+    :LAST_REPEAT: [2021-02-18 jue 09:08]
     :END:
  :LOGBOOK:
+ - State "DONE"       from "C"          [2021-02-18 jue 09:08]
  - State "DONE"       from "C"          [2021-02-05 vie 18:49]
  - State "DONE"       from "C"          [2021-01-29 vie 23:01]
  :END:
 ** Sat
 *** C go to market
-    SCHEDULED: <2021-02-15 lun .+1w>
+    SCHEDULED: <2021-02-25 jue .+1w>
     :PROPERTIES:
     :STYLE:    habit
-    :LAST_REPEAT: [2021-02-08 lun 14:09]
+    :LAST_REPEAT: [2021-02-18 jue 09:09]
     :END:
  :LOGBOOK:
+ - State "DONE"       from "C"          [2021-02-18 jue 09:09]
  - State "DONE"       from "C"          [2021-02-08 lun 14:09]
  - State "DONE"       from "C"          [2021-02-01 lun 22:09]
  :END:
@@ -157,12 +170,13 @@
 
 *** every day
 ** C magit push
-   SCHEDULED: <2021-02-10 mié .+1d>
+   SCHEDULED: <2021-02-20 sáb .+1d>
    :PROPERTIES:
    :STYLE:    habit
-   :LAST_REPEAT: [2021-02-09 mar 08:19]
+   :LAST_REPEAT: [2021-02-19 vie 08:38]
    :END:
 :LOGBOOK:
+- State "DONE"       from "C"          [2021-02-19 vie 08:38]
 - State "DONE"       from "C"          [2021-02-09 mar 08:19]
 - State "DONE"       from "C"          [2021-02-07 dom 22:44]
 - State "DONE"       from "C"          [2021-02-05 vie 23:15]

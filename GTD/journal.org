@@ -88,8 +88,8 @@ On one hand, I feel myself getting older as a 27 and a half year old, on the oth
 
  But! I also have my interactive stair growth pattern program to finish... 
 ** [2021-02-06 sáb]
-*** Goals [2/3]
-**** DG Read about animation
+*** Goals [3/3]
+**** DONE Read about animation
 **** DONE Draw something in Krita
 **** DONE Finish Casa en Mango Street
 *** Notes
@@ -99,10 +99,10 @@ On one hand, I feel myself getting older as a 27 and a half year old, on the oth
 
  It may be that Maria's pride was hurt and that she wants to show others (us), that she has not forgiven Ben for cheating on her.
 ** [2021-02-07 dom]
-*** Goals [2/3]
+*** Goals [3/3]
 **** DONE Do weekly review well 
 **** DONE Read at least 20% in Meditations
-**** DG Tune up recommendation letters
+**** DONE Tune up recommendation letters
 *** Notes
 
 ** weekly review refelection Feb 1 to Feb 7
@@ -150,8 +150,17 @@ This week I found the GTD system definitely useful for keeping me from unproduct
 Two things the stuck out were my habit for slowly getting out of bed rather than immediately waking up with my alarm.
 And also obsessively checking reddit and other social media in a totally unproductive way. (I got rid of the reddit icon, but not that app on my phone).
 * [2021-02-08 lun]
-** Goals [0/3]
-*** DG read to 40% in Meditations
+** Goals [2/3]
+*** DONE read to 40% in Meditations
 *** DG do one project next task
-*** DG walk with Vero
+*** DONE walk with Vero
+** Notes
+* 2021
+** 2021-02 febrero
+*** 2021-02-18 jueves
+* [2021-02-18 jue]
+** Goals [3/3]
+*** DONE update grades
+*** DONE make a nice dinner for Vero
+*** DONE go on walk
 ** Notes

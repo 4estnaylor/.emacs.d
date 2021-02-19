@@ -9,9 +9,9 @@
 ** NXT learn how to read emails using emacs
 ** NXT watch Youtube video on using emacs with email - Jan 31
 ** DONE Find a new book to read [2021-02-02 mar]
-** NXT Get haircut
+** DONE Get haircut
 ** DONE Send students an email about missing works 
-** NXT make plan for tela trip
+** DONE make plan for tela trip
 ** DONE make cool desktop background
 ** NXT checkout commandline password store program [2021-02-08 lun]
-** NXT Get more cooking gas... [2021-02-09 mar]
+** DONE Get more cooking gas... [2021-02-09 mar]

@@ -18,3 +18,5 @@ mbsync -a
 mbsync -a
 mbsync -a
 mbsync -a
+cd ~
+./8-grade.sh 
