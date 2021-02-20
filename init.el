@@ -403,7 +403,8 @@ Entered on %U
      ("Q" "quotation" entry
       (file+headline "~/.emacs.d/GTD/reference.org" "Quotes")
       "* %?
-Source: ")))
+Source: ")) t)
+ '(org-confirm-babel-evaluate nil)
  '(org-modules
    '(ol-bbdb ol-bibtex ol-docview ol-eww ol-gnus org-habit ol-info ol-irc ol-mhe ol-rmail ol-w3m))
  '(package-selected-packages
