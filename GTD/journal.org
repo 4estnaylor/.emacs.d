@@ -150,9 +150,9 @@ This week I found the GTD system definitely useful for keeping me from unproduct
 Two things the stuck out were my habit for slowly getting out of bed rather than immediately waking up with my alarm.
 And also obsessively checking reddit and other social media in a totally unproductive way. (I got rid of the reddit icon, but not that app on my phone).
 * [2021-02-08 lun]
-** Goals [2/3]
+** Goals [3/3]
 *** DONE read to 40% in Meditations
-*** DG do one project next task
+*** DONE do one project next task
 *** DONE walk with Vero
 ** Notes
 * 2021
@@ -165,8 +165,14 @@ And also obsessively checking reddit and other social media in a totally unprodu
 *** DONE go on walk
 ** Notes
 * [2021-02-19 vie]
-** Goals [2/3]
+** Goals [3/3]
 *** DONE 3 hours of online study
 *** DONE walk with Vero
-*** DG make outline for personal statement
+*** DONE make outline for personal statement
+** Notes
+* [2021-02-21 dom]
+** Goals [1/3]
+*** DONE do 2 modules in py4e
+*** DG do weekly review
+*** DG fix chores in emacs
 ** Notes

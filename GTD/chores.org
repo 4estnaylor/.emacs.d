@@ -59,12 +59,13 @@
  :END:
 ** Tuesday
 *** C text Killian
-    SCHEDULED: <2021-02-09 mar .+7d>
+    SCHEDULED: <2021-02-28 dom .+7d>
     :PROPERTIES:
     :STYLE:    habit
-    :LAST_REPEAT: [2021-02-02 mar 21:00]
+    :LAST_REPEAT: [2021-02-21 dom 22:12]
     :END:
  :LOGBOOK:
+ - State "DONE"       from "C"          [2021-02-21 dom 22:12]
  - State "DONE"       from "C"          [2021-02-02 mar 21:00]
  :END:
 ** Wednesday
@@ -89,12 +90,13 @@
  - State "DONE"       from "C"          [2021-02-03 mié 21:50]
  :END:
 *** C text mom
-    SCHEDULED: <2021-02-10 mié .+7d>
+    SCHEDULED: <2021-02-28 dom .+7d>
     :PROPERTIES:
     :STYLE:    habit
-    :LAST_REPEAT: [2021-02-03 mié 21:50]
+    :LAST_REPEAT: [2021-02-21 dom 22:12]
     :END:
  :LOGBOOK:
+ - State "DONE"       from "C"          [2021-02-21 dom 22:12]
  - State "DONE"       from "C"          [2021-02-03 mié 21:50]
  :END:
 *** C go to Dispensa

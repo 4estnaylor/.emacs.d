@@ -6,6 +6,6 @@
 
 
 * 7/02 - 14/02
-** WG Finish Meditations by Marcus Aurelius
+** DONE Finish Meditations by Marcus Aurelius
 ** WG Submit Georgia Tech Application
-** WG Travel to the coast (tela/puerto cortez)!
+** DONE Travel to the coast (tela/puerto cortez)!

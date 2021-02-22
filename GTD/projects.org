@@ -57,7 +57,7 @@ Your statement should describe your academic background, training, and professio
 ** Follow Up on Schwab 
 
 
-* PROJ smooth emacs over
+* DONE smooth emacs over
 ** DONE figure out how to insert timestamps
 ** DONE more elegant template for journal mode
 ** DONE consider dilemma of having NXT tasks both in Project folder, and unique NXT folder
@@ -65,7 +65,7 @@ Your statement should describe your academic background, training, and professio
 ** DONE figure out how to move org mode TODOs from one file to another easily
 ** TD figure out how to easily label all sub tasks under a project's tag
 
-* PROJ email with emacs [1/2] 
+* DONE email with emacs [1/2] 
 ** DONE install isync
 ** look into [[file:~/Desktop/clean/mastering-emacs-v3.epub][mastering emacs]]
 

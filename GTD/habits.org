@@ -1,13 +1,15 @@
  #+SEQ_TODO: H(h) | DONE(d)  
 * habits
 ** H brush teeth 
-   SCHEDULED: <2021-02-20 sáb .+1d>
+   SCHEDULED: <2021-02-22 lun .+1d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2021-02-19 vie 11:36]
+:LAST_REPEAT: [2021-02-21 dom 13:28]
 :END:
 
 :LOGBOOK:
+- State "DONE"       from "H"          [2021-02-21 dom 13:28]
+- State "DONE"       from "H"          [2021-02-20 sáb 16:00]
 - State "DONE"       from "H"          [2021-02-19 vie 11:36]
 - State "DONE"       from "H"          [2021-02-18 jue 09:08]
 - State "DONE"       from "H"          [2021-02-09 mar 09:53]
@@ -32,12 +34,14 @@
 :END:
 
 ** H tidy room
-SCHEDULED: <2021-02-20 sáb .+1d>
+SCHEDULED: <2021-02-22 lun .+1d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2021-02-19 vie 22:30]
+:LAST_REPEAT: [2021-02-21 dom 13:28]
 :END:
 :LOGBOOK:
+- State "DONE"       from "H"          [2021-02-21 dom 13:28]
+- State "DONE"       from "H"          [2021-02-20 sáb 16:00]
 - State "DONE"       from "H"          [2021-02-19 vie 22:30]
 - State "DONE"       from "H"          [2021-02-18 jue 09:08]
 - State "DONE"       from "H"          [2021-02-09 mar 23:02]
@@ -58,12 +62,13 @@ SCHEDULED: <2021-02-20 sáb .+1d>
 :END:
 
 ** H yoga
-SCHEDULED: <2021-02-20 sáb .+1d>
+SCHEDULED: <2021-02-22 lun .+1d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2021-02-19 vie 11:36]
+:LAST_REPEAT: [2021-02-21 dom 13:28]
 :END:
 :LOGBOOK:
+- State "DONE"       from "H"          [2021-02-21 dom 13:28]
 - State "DONE"       from "H"          [2021-02-19 vie 11:36]
 - State "DONE"       from "H"          [2021-02-18 jue 11:43]
 - State "DONE"       from "H"          [2021-02-09 mar 09:53]
@@ -113,12 +118,14 @@ SCHEDULED: <2021-02-20 sáb .+1d>
 :END:
 
 ** H reading
-SCHEDULED: <2021-02-20 sáb .+1d>
+SCHEDULED: <2021-02-22 lun .+1d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2021-02-19 vie 12:30]
+:LAST_REPEAT: [2021-02-21 dom 13:28]
 :END:
 :LOGBOOK:
+- State "DONE"       from "H"          [2021-02-21 dom 13:28]
+- State "DONE"       from "H"          [2021-02-20 sáb 16:00]
 - State "DONE"       from "H"          [2021-02-19 vie 12:30]
 - State "DONE"       from "H"          [2021-02-18 jue 12:18]
 - State "DONE"       from "H"          [2021-02-08 lun 14:09]
@@ -138,12 +145,13 @@ CLOCK: [2021-01-21 jue 19:25]--[2021-01-21 jue 20:13] =>  0:48
 CLOCK: [2021-01-19 mar 15:21]--[2021-01-19 mar 16:04] =>  0:43
 :END:
 ** H emacs practice
-SCHEDULED: <2021-02-20 sáb .+2d/3d>
+SCHEDULED: <2021-02-22 lun .+2d/3d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2021-02-18 jue 23:21]
+:LAST_REPEAT: [2021-02-20 sáb 16:00]
 :END:
 :LOGBOOK:
+- State "DONE"       from "H"          [2021-02-20 sáb 16:00]
 - State "DONE"       from "H"          [2021-02-18 jue 23:21]
 - State "DONE"       from "H"          [2021-02-08 lun 20:09]
 - State "DONE"       from "H"          [2021-02-06 sáb 22:42]
@@ -178,12 +186,13 @@ SCHEDULED: <2021-02-20 sáb .+1d>
 :END:
 
 ** H pull-ups x 30
-SCHEDULED: <2021-02-20 sáb .+1d>
+SCHEDULED: <2021-02-22 lun .+1d>
 :PROPERTIES:
 :STYLE: habit
-:LAST_REPEAT: [2021-02-19 vie 22:30]
+:LAST_REPEAT: [2021-02-21 dom 13:28]
 :END:
 :LOGBOOK:
+- State "DONE"       from "H"          [2021-02-21 dom 13:28]
 - State "DONE"       from "H"          [2021-02-19 vie 22:30]
 - State "DONE"       from "H"          [2021-02-18 jue 09:08]
 - State "DONE"       from "H"          [2021-02-09 mar 09:53]
