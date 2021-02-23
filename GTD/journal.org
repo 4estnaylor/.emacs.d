@@ -176,3 +176,79 @@ And also obsessively checking reddit and other social media in a totally unprodu
 *** DG do weekly review
 *** DG fix chores in emacs
 ** Notes
+* [2021-02-22 lun]
+** Goals [/]
+
+** Notes
+I didn't do my daily goals today. Maybe this week I will set my daily goals for the next day at night. I'm not sure how well that will work but it may help. I want to keep daily goals that are not as difficult for me to complete as they have been recently.
+
+The book Sophie's World has been wonderful. I especially love the twist that was revealed... If I ever have a daughter, it will certainly be a 15th birthday present for them.
+
+I am conflicted emotionally/relationship wise. 
+
+I felt renewed for doing yoga this morning.
+
+I want to take some considerable time to pare down my emacs habits and procedures some. They are wonderful, but at times a bit overwhelming.
+
+A general outline of what I want to prioritize.
+
+- Meditation
+- Creativity
+- Learning
+- Productivity
+- Simplicity
+- Consistencty
+
+=> Maybe have a maximum of 5 daily habbits
+=> Have a current projects list of three
+=> Confine Social Media/ Reddit etc to Sundays (go extreme and avoid news etc as well)
+=> Create space for reading
+
+---------------------------
+5 potential habits:
+
+morning meditation
+exercise
+get outside of house for 20 mins
+reading
+evening meditation
+
+-----------------------------
+Calendar & Next Tasks
+
+
+---------------------------
+daily goals
+
+1.
+2.
+3.
+
+--------------------------------
+
+
+
+other screens
+
+daily goal
+
+weekly goal
+
+monthly goal
+
+yearly goal
+
+
+calendar
+
+projects
+
+
+
+chores
+
+checklist?
+
+My concern is that my checklist is so large I will forget things (like pushing to Git)
+having said that, that task is not THAT important, but good digital hygeine.
+

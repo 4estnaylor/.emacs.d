@@ -4,7 +4,7 @@
 ;;; -*- End Of Bookmark File Format Version Stamp -*-
 (("org-capture-last-stored"
  (filename . "~/.emacs.d/GTD/journal.org")
- (front-context-string . "* [2021-02-19 vi")
- (rear-context-string . "n walk\n** Notes\n")
- (position . 8051))
+ (front-context-string . "* [2021-02-21 do")
+ (rear-context-string . "tement\n** Notes\n")
+ (position . 8198))
 )
